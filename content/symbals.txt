@@ -1,0 +1,16 @@
+✔ ✘	used for foot ends.
+◑ ✣
+☆ ♡
+☀ ☼	used for slp devanagari enclosing
+↰ ↱	used for <>
+« »
+↶ ↷
+↺ ↻
+
+✦ ✧ 
+⊕ ⊗	used as <NI>,<P>s respectively
+∥
+⊥
+०१२३४५६७८९
+¤
+\\\)\\\(\[@#\\\$\\\^\\\*\(\)\{\}_=\+<\\\[;:\\\.," \\t\?-\]\\\)

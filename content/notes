@@ -1,0 +1,92 @@
+note that , when removing foot notes , remove new lines created for them also 
+along with them. pattern is [\$↰][\$↰]*[☀↰ ¤☼]*✔ to only ✔ .
+
+
+shirshika|scln|pattika
+=================================================
+
+1. పట్టికలో సరిపోయే అన్ని వరస్లు పొందడానికి 
+    sed  '/^[⊕⊗↰]☀[^\n☼☀]*☼$\|⊥\|[-,;] *☼ *$/!s/^.*$//' ./*pattika1.1* > shira_scln_pattika1.2.txt
+    
+      వాడాలి. 
+
+౨.  ఆ తర్వాత, మన సొంత కృత్రిమ వరసలు  కొత్తవి ఏర్పాటు చేయాలి.
+    sed -i 's/;[ -]*-[ -]*/;/g' ./*pattika1.2.txt
+    sed -i 's/¤//g' ./*pattika1.2.txt
+
+3. ఈడ దాక 1.2 అంత్యంతో దాచా. ఇప్పటి నుండి 1.2.1.. అంత్యం పై పని.
+4. iti ని కల్గి ఉండే ఒక వర్గం ని సరిచేయడానికి
+    sed -i 's/;[ ]*it[^\n☀☼;\.]*[\.]/;/g' ./shira_scln_pattika1.2.1.txt
+    sed -i 's/;[ ]*it[^\n☀☼;\.]*[☼]/;☼/g' ./shira_scln_pattika1.2.1.txt
+
+5. క్రమాంకాలు కలిగిఉన్న పదాలను, అంకెలను  '_' తో అనుసంధానిమ్చడానికి...
+    sed -i.bk 's/ *☼2☀\([;,]\) */_2\1☼☀/g' ./shira_scln_pattika1.2.1.txt
+    sed -i 's/☀ *☼//g' ./shira_scln_pattika1.2.1.txt
+    sed -i.bk 's/ *☼2☀\([;, ]\) */_2\1☼☀/g' ./shira_scln_pattika1.2.1.txt
+
+6. శీర్షిక వరసలను తొలగించాలి.
+    sed -i.bk 's/⊥;<H>(\([0-9][0-9]*\)).*$/⊥H_\1;/' ./shira_scln_pattika1.2.1.txt
+
+7. iti devah దాక తీసేయ్యలి.
+    sed -i.bk 's/^\([⊕⊗↰]\)[^\n]*iti devaH *\.* *☼//' ./shira_scln_pattika1.2.1.txt
+    sed -i.bk 's/^\([⊕⊗↰]\)[^\n\.;]*iti[^\n\.;]*\. *☼* */\1/' ./shira_scln_pattika1.2.1.txt
+    sed -i.bk 's/^\([⊕⊗↰]\)[^☀☼\n]*☼[\. ]*/\1/' ./shira_scln_pattika1.2.1.txt
+
+ఇప్పటి దాకా shira_scln_pattika1.2.1.txt దస్త్రంలో దాచబడింది. 1.2.2.txt దస్త్రాని నకలు చేయబడింది.
+8.  \n\n([⊕⊗↰])[^\n\.;]*\.[ ☼]*   ను     \n\n$1   తోటి పునస్థాపించుము... ఈ పని ఐదు ఆరు సార్లు చెయ్యి..
+             తర్వాత ☼ లు సరిగ్గా మూసివేయబడ్డాయా చూడు. ఇప్పుడు ముందు ఆదేశాలు మళ్లా ఇవ్వు. 
+    sed -i.bk 's/^\([⊕⊗↰]\)[^\n\.;]*iti[^\n\.;]*\. *☼* */\1/' ./shira_scln_pattika1.2.2.txt
+
+9.  ఎక్కువగానున్న -- -- లను తీసేయాలి.
+    sed -i.bk 's/[- ]* -- [- ]*//g' shira_scln_pattika1.2.2.txt
+    sed -i.bk 's/[- ]*-- [- ]*//g' shira_scln_pattika1.2.2.txt
+    sed -i.bk 's/^\([⊕⊗↰]\)[^\n;]*\.[ )☀☼]*☼/\1/' shira_scln_pattika1.2.2.txt
+    sed -i 's/↰☀ *-* *☼ */↰/' shira_scln_pattika1.2.2.txt
+
+10. '-' తో విడిన వాటిని  మధ్యలో తోక లు తీసేసి '-' తోనే కలపాలి.
+    sed -i.bk 's/\([^-,; ]\)☼☀ [-]/\1-/g' ./shira_scln_pattika1.2.2.txt
+    
+
+ఇప్పటి దాకా shira_scln_pattika1.2.2.txt దస్త్రంలో దాచబడింది. 1.2.3.txt దస్త్రాని నకలు చేయబడింది.
+
+11.  తాత్కాలిక  కొత్త వనరులను  చొప్పించాలి.
+     sed -i.bk 's/;☼ *☀/;☼\n↱☀/g' shira_scln_pattika1.2.3.txt
+
+12. '-' తో విడిన వాటిని  మధ్యలో తోక లు తీసేసి '-' తోనే కలపాలి. కానీ ఈసారి పూర్వ విఘటనం చెందున్నయ్.
+     sed -i.bk 's/-☼☀\([^\.,;]\)/-\1/g' ./shira_scln_pattika1.2.3.txt
+
+13. ఎక్కుగ ఉన్న స్పేస్ లను తొలగించాలి.
+     sed -i.bk 's/\([,;-]\)  */\1/g' ./shira_scln_pattika1.2.3.txt
+     sed -i.bk 's/  *\([,;-]\)/\1/g' ./shira_scln_pattika1.2.3.txt
+
+14.  sed -i.bk 's/“[^\n“☼]*☼/☼/' ./shira_scln_pattika1.2.3.txt
+
+15. చెడిపోయిన కొత్త వరసలని  మళ్లా బాగు చెయ్.
+     sed -i 's/^☀/↶/' shira_scln_pattika1.2.3.txt
+     sed -i 's/^.[0-9][0-9 ☀☼-]*.*$/↰/' shira_scln_pattika1.2.3.txt
+
+16. చివరలో ముగింపు చుక్క ఉన్న వాటిలో ఆ చుక్కని తీసెయ్.
+     sed -i.bk 's/\.$//' ./shira_scln_pattika1.2.3.txt
+     sed -i.bk 's/ ☼2\.☀/_2,☼☀/' shira_scln_pattika1.2.3.txt
+
+17.  iti ఉన్న వరసలన్నీ తీసెయ్యాల.
+     sed -i.bk 's/^\(.\).* iti .*$/\1/' shira_scln_pattika1.2.3.txt
+     
+
+ఇక్కడి దాక 1.2.3.txt తోకతో భద్రపరచబడ్డై. 1.2.4.txt తోకతో నకలు తీయబడ్డై.
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
