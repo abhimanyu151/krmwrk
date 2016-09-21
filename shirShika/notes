@@ -96,7 +96,19 @@ shirshika|scln|pattika
      sed -i.bk 's/\([ ,☀☼]\)\([A-Za-z][A-Za-z]\)\([^\n ,\.;☼☀]*\) *☼☀ *\2/\1\2\3,☼☀\2/g' shira_scln_pattika1.2.5.txt
      sed -i.bk 's/ *☼☀ \([aeiou]\)/,☼☀\1/g'  shira_scln_pattika1.2.5.txt 
      sed -i.bk 's/  *☼☀/,☼☀/g' shira_scln_pattika1.2.5.txt 
-     
+     sed -i.bk 's/ *☼☀ \([AEIOU]\)/,☼☀\1/g'  shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/\]☼☀ /\],☼☀/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/)☼☀ /),☼☀/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ *☼☀ \[/,☼☀\[/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ *☼☀ (/,☼☀(/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\([ ,☀☼]\)\([A-Za-z][A-Za-z]\)\([^\n ,\.;☼☀]*\) *☼☀ *\2/\1\2\3,☼☀\2/Ig' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/☼☀ \([HNRF]\)/\1/g' shira_scln_pattika1.2.5.txt
+     # backup done..................
+     # temporary symbal replacing for convinience...
+     sed -i.bk 's/☼☀ /✦/g' ./shira_scln_pattika1.2.5.txt
+
+22. 
+
 
      
      
