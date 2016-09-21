@@ -7901,7 +7901,7 @@
 
 ↰☀prajugupsya,prajogupya;☼
 
-↰☀jugopAyizam_2-☼☀jugopizam_2,-☼☀jugupizam_2-☼☀jugupsam-_2,☼☀jogupam_2;☼
+↰☀jugopAyizam_2-jugopizam_2,-jugupizam_2-jugupsam-_2,☼☀jogupam_2;☼
 
 
 
@@ -15181,7 +15181,7 @@
 ↰☀DApayamAnaH,DApayizyamARaH,deDIyamAnaH,deDIyizyamARaH;☼
 ↱☀ DAH-DO-DAH;☼
 ↱☀ DItam-DItaH-DItavAn,DApitaH,DitsitaH,deDIyitaH-tavAn;☼
-↱☀ udDayaH-DayaH,☼☀nAsikanDayaH-stananDayaH,stananDayI,☼☀nAqinDayaH-☼☀muzwinDayaH,☼☀SuninDayaH,☼☀GawinDayaH-KArinDayaH-KarinDayaH-vAtanDayaH,☼☀DAruH,☼☀DAtrI,☼☀puzpanDayaH,☼☀muYjanDayaH-kUlanDayaH-AsyanDayaH,☼☀kzIraDAH,DApaH,DitsuH,deDyaH;☼
+↱☀ udDayaH-DayaH,☼☀nAsikanDayaH-stananDayaH,stananDayI,☼☀nAqinDayaH-muzwinDayaH,☼☀SuninDayaH,☼☀GawinDayaH-KArinDayaH-KarinDayaH-vAtanDayaH,☼☀DAruH,☼☀DAtrI,☼☀puzpanDayaH,☼☀muYjanDayaH-kUlanDayaH-AsyanDayaH,☼☀kzIraDAH,DApaH,DitsuH,deDyaH;☼
 ↰☀DAtavyam,DApayitavyam,Ditsitavyam,deDIyitavyam;☼
 ↰☀praRiDAnIyam,DApanIyam,DitsanIyam,deDIyanIyam;☼
 ↰☀praRiGeyam,DApyam,Ditsyam,deDIyyam;☼
@@ -20936,7 +20936,7 @@
 ↰☀lilAyayizitavyam;lAyanIyam,lilAyayizaRIyam;lAyyam,lilAyayizyam;☼
 ↰☀IzallAyaH-durlAyaH-sulAyaH;lAyyamAnaH,lilAyayizyamARaH;lAyaH,lilAyayizaH;☼
 ↰☀lAyayitum,lilAyayizitum;lAyanA,lilAyayizA;lAyanam,lilAyayizaRam;☼
-↰☀lAyayitvA,lilAyayizitvA;pralAyya,pralilAyayizya;lAyam_2-☼☀lAyayitvA_2;☼
+↰☀lAyayitvA,lilAyayizitvA;pralAyya,pralilAyayizya;lAyam_2-lAyayitvA_2;☼
 
 
 

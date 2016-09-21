@@ -5,7 +5,7 @@ along with them. pattern is [\$↰][\$↰]*[☀↰ ¤☼]*✔ to only ✔ .
 shirshika|scln|pattika
 =================================================
 
-1. పట్టికలో సరిపోయే అన్ని వరస్లు పొందడానికి 
+1.  పట్టికలో సరిపోయే అన్ని వరస్లు పొందడానికి 
     sed  '/^[⊕⊗↰]☀[^\n☼☀]*☼$\|⊥\|[-,;] *☼ *$/!s/^.*$//' ./*pattika1.1* > shira_scln_pattika1.2.txt
     
       వాడాలి. 
@@ -14,7 +14,7 @@ shirshika|scln|pattika
     sed -i 's/;[ -]*-[ -]*/;/g' ./*pattika1.2.txt
     sed -i 's/¤//g' ./*pattika1.2.txt
 
-3. ఈడ దాక 1.2 అంత్యంతో దాచా. ఇప్పటి నుండి 1.2.1.. అంత్యం పై పని.
+3.  ఈడ దాక 1.2 అంత్యంతో దాచా. ఇప్పటి నుండి 1.2.1.. అంత్యం పై పని.
 4. iti ని కల్గి ఉండే ఒక వర్గం ని సరిచేయడానికి
     sed -i 's/;[ ]*it[^\n☀☼;\.]*[\.]/;/g' ./shira_scln_pattika1.2.1.txt
     sed -i 's/;[ ]*it[^\n☀☼;\.]*[☼]/;☼/g' ./shira_scln_pattika1.2.1.txt
@@ -75,7 +75,30 @@ shirshika|scln|pattika
 
 ఇక్కడి దాక 1.2.3.txt తోకతో భద్రపరచబడ్డై. 1.2.4.txt తోకతో నకలు తీయబడ్డై.
 
+18.  రెండు సార్లు వచ్చిన -- ను ఒక పెద్ద ఎం-గీత గా మార్చాలి.
+     sed -i.bk 's/--/—/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/↰☀—/↰☀/' shira_scln_pattika1.2.4.txt
+     
+19.  ఎక్కుగా ఉన్న ఖాళీ స్పేస్ లను తొలగించాలి, మరియు విరామ చిహ్న స్థానాన్ని క్రమబద్ధీకరించాలి.
+     sed -i.bk 's/ *, *☼ *☀ */,☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *☼ *☀ *, */,☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *\([;\.-]\) *☼ *☀ */\1☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *☼ *☀ *\([;\.-]\) */\1☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *☼ *\([;\.-]\) *☀ */\1☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/-☼☀/-/g' ./shira_scln_pattika1.2.4.txt
 
+ఇక్కడికి 1.2.4 తోకతో దాయబడ్డై.. 1.2.5.txt తొకతో నకలు తీయబడ్డయ్.
+
+20.  ఖాళీ పాత్రని తొలగించాలె
+     sed -i.bk 's/☀☼//g' shira_scln_pattika1.2.5.txt
+     
+21. ముఖ్యమైంది... ఫుట్ నోట్స్ ని తొలగియ్యడం వల్ల ఏర్పడ్డ ఖాళి పాత్రలు లో విడి పదాలయితే విరామ చిహ్నంతో కలపాలి.
+     sed -i.bk 's/\([ ,☀☼]\)\([A-Za-z][A-Za-z]\)\([^\n ,\.;☼☀]*\) *☼☀ *\2/\1\2\3,☼☀\2/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ *☼☀ \([aeiou]\)/,☼☀\1/g'  shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/  *☼☀/,☼☀/g' shira_scln_pattika1.2.5.txt 
+     
+
+     
      
 
 

@@ -16,7 +16,7 @@
 ↰☀yak akyamAnaH,akyamAnaH,acikizyamARaH;☼
 ↰☀GaY AkaH,akaH,acikizaH;☼
 ↰☀tumun akitum,akayitum,acikizitum;☼
-↰☀ktin☼☀ aktiH,akanA,acikizA,☼☀acikayizA;☼
+↰☀ktin,☼☀aktiH,akanA,acikizA,☼☀acikayizA;☼
 ↰☀lyuw akanam,akanam,acikizaRam;☼
 ↰☀ktvA akitvA,akayitvA,acikizitvA;☼
 ↰☀lyap samakya,samakayya,☼☀samacikizya;☼
@@ -46,7 +46,7 @@
 ↰☀aNkanam,☼☀prANkanam aNkanam,aYcikizaRam;☼
 ↰☀aNkitvA,aNkayitvA,aYcikizitvA;☼
 ↰☀samaNkya,samaNkya,samaYcikizya;☼
-↰☀aNkamaNkam_2 ☼☀aNkitvA_2,☼☀aNkam_2,☼☀aNkayitvA_2,☼☀aYcikizam;_2 ☼☀aYcikizitvA;_2 ☼☀aNkuraH;☼☀☼
+↰☀aNkamaNkam_2,☼☀aNkitvA_2,☼☀aNkam_2,☼☀aNkayitvA_2,☼☀aYcikizam;_2,☼☀aYcikizitvA;_2,☼☀aNkuraH;☼
 
 
 ⊥H_3∥
@@ -57,7 +57,7 @@
 ↱☀ akzRuvan-vatI,☼
 ↰☀akzizyan-akzyan-tI-ntI,akzayizyan-tI-ntI,acikzizizyan-tI-ntI;☼
 ↰☀akzayamARaH,akzayizyamARaH;☼
-↰☀aw-akzO-akzaH,ak☼☀ akzO-akzaH,☼☀azwaH-zwam-zwavAn,akzitaH,acikzizitam-taH-tavAn;☼
+↰☀aw-akzO-akzaH,ak,☼☀akzO-akzaH,☼☀azwaH-zwam-zwavAn,akzitaH,acikzizitam-taH-tavAn;☼
 ↰☀akzaH,akzaH,☼☀kAzWAkzaH (jvalanaH),acikzizuH,acikzayizuH;☼
 ↰☀akzitavyam azwavyam akzayitavyam,acikzizitavyam;☼
 ↰☀akzaRIyam,akzaRIyam,acikzizaRIyam;☼
@@ -143,7 +143,7 @@
 ↰☀veyam,vAyyam,vivIzyam,ajijizyam,vevIyyam;☼
 ↰☀IzadvayaH,durvayaH,suvayaH;☼
 ↰☀vIyamAnaH,vAyyamAnaH,vivIzyamARaH,ajijizyamARaH;vevIyyamAnaH;☼
-↱☀ samajaH,☼☀samAjaH,☼☀udAjaH,-vAyaH,vAta☼☀ majA☼☀ H (mfgAH),vyajaH,☼☀vyAjaH;☼☀☼
+↱☀ samajaH,☼☀samAjaH,☼☀udAjaH,-vAyaH,vAta☼☀ majA☼☀ H (mfgAH),vyajaH,☼☀vyAjaH;☼
 ↰☀vetum,ajitum,vAyayitum,vivIzitum,ajijizitum,vevIyitum;☼
 
 ↰☀vevIyA;☼
@@ -152,7 +152,7 @@
 ↰☀pravIya,prAjya,pravAyya,pravivIzya,prAjijizya,pravevIyya;☼
 
 ↰☀vivIzitvA_2,☼☀ajijizam_2,☼☀ajijizitvA_2,☼☀vevIyam_2,☼☀vevIyitvA_2;☼
-↰☀ORAdike = ajinam-ajiram;☼☀☼
+↰☀ORAdike = ajinam-ajiram;☼
 
 
 ⊥H_10∥
@@ -185,10 +185,10 @@
 ↰☀awitA-trI,AwayitA-trI;awiwizitA-trI,awAwitA-trI;☼
 ↰☀awan-paryawan-ntI,Awayan-ntI;awiwizan-ntI;☼
 ↰☀awizyan-tI-ntI,Awayizyan-tI-ntI,awiwizizyan-ntI-tI;☼
-↰☀AwayamAnaH,AwayizyamARaH,awAwyamAnaH;☼☀☼
+↰☀AwayamAnaH,AwayizyamARaH,awAwyamAnaH;☼
 ↰☀aw,awO-awaH;☼
 ↰☀awitam,Awitam,awiwizitam-taH-tavAn;awAwitam-taH tavAn;☼
-↰☀awaH,☼☀paryAwI,☼☀BikzAwaH,☼☀rAtrimawaH☼☀ rAtryawaH,awiwizuH,AwiwayizuH,☼☀kulawA,aMwAwaH,awanaH;☼☀☼
+↰☀awaH,☼☀paryAwI,☼☀BikzAwaH,☼☀rAtrimawaH,☼☀rAtryawaH,awiwizuH,AwiwayizuH,☼☀kulawA,aMwAwaH,awanaH;☼
 ↰☀awitavyam,Awayitavyam,awiwizitavyam,awAwitavyam;☼
 ↰☀awanIyam,AwanIyam,awiwizaRIyam,awAwanIyam;☼
 ↰☀Awyam,Awyam,awiwizyam,awAwyam;☼
@@ -225,7 +225,7 @@
 ↰☀awwanam,awwanam,awiwwizaRam,awwiwizaRam;☼
 ↰☀awwitvA,awwayitvA,awiwwizitvA,awwiwizitvA;☼
 ↰☀samawwya,samawwya,samawiwwizya,samawwiwizya;☼
-↰☀awwam_2 ☼☀awwitvA_2 ☼☀awwam_2 ☼☀awwayitvA awiwwizam_2 ☼☀awiwwizitvA_2 ☼☀awwiwizam_2;☼
+↰☀awwam_2,☼☀awwitvA_2,☼☀awwam_2,☼☀awwayitvA awiwwizam_2,☼☀awiwwizitvA_2,☼☀awwiwizam_2;☼
 ↱☀awwiwizitvA_2;☼
 
 
@@ -299,7 +299,7 @@
 ↰☀aRan-ntI,ARayan-ntI,aRiRizan-ntI;☼
 ↰☀aRizyan-tI-ntI,ARayizyan-tI-ntI,aRiRizizyan-tI-ntI;☼
 ↰☀ARayamAnaH,ARayizyamARaH;☼
-↰☀AR☼☀ ARO-ARaH;☼
+↰☀AR,☼☀ARO-ARaH;☼
 ↰☀aRitam-taH-tavAn,ARitam-taH-tavAn,aRiRizitam-taH-tavAn;☼
 ↰☀aRaH,prARaH,AnaH DvANkzARI,☼☀aRiRizuH,ARiRayizuH;☼
 ↰☀aRitavyam,ARayitavyam,aRiRizitavyam;☼
@@ -313,7 +313,7 @@
 ↰☀aRanam,ARanam,aRiRizaRam;☼
 ↰☀aRitvA,ARayitvA,aRiRizitvA;☼
 ↰☀prARya,prARya,samaRiRizya;☼
-↰☀ARam_2 ☼☀aRitvA_2 ☼☀ARam_2,☼☀ARayitvA_2,☼☀aRiRizam_2;☼
+↰☀ARam_2,☼☀aRitvA_2,☼☀ARam_2,☼☀ARayitvA_2,☼☀aRiRizam_2;☼
 ↱☀aRiRizitvA_2;☼
 
 
@@ -410,7 +410,7 @@
 ↰☀jagDvA,AdayitvA,jiGatsitvA;☼
 
 ↰☀Adam_2,☼☀jagDvA_2,☼☀Adam_2,☼☀AdayitvA_2,☼☀jiGatsam_2;☼
-↱☀jiGatsitvA_2 ☼☀attriH,☼☀adriH;☼
+↱☀jiGatsitvA_2,☼☀attriH,☼☀adriH;☼
 
 
 ⊥H_22∥
@@ -421,7 +421,7 @@
 
 ⊕☀AnakaH-nikA,AnakaH-nikA,aninizakaH-zikA;☼
 ↰☀anitA-trI,AnayitA-trI,aninizitA-trI;☼
-↰☀anan-tI,☼☀prARan,☼☀Anayan-ntI,prARayan☼☀ aninizan-ntI;☼
+↰☀anan-tI,☼☀prARan,☼☀Anayan-ntI,prARayan,☼☀aninizan-ntI;☼
 ↰☀prARizyan-tI-ntI,prARayizyan-tI-ntI,☼☀prARiRizizyan-ntI-tI;☼
 ↰☀prARayamAnaH,prARayizyamARaH;☼
 ↰☀he☼☀ prAR;prA-prARO-prARaH;☼
@@ -448,7 +448,8 @@
 ↰☀aYcitA-trI,aYcayitA-trI,aYcicizitA-trI;☼
 ↰☀aYcan-ntI,aYcayan-ntI,aYcicizan-ntI;☼
 ↰☀aYcizyan-tI-ntI,aYcayizyan-tI-ntI,aYcicizizyan-tI-ntI;☼
-↰☀aYcayamAnaH,aYcayizyamARaH;☼☀prAN,udaN,devadryaN,tiryaN,aD☼☀ yaN,nyaN,☼☀saDyraN,saDrI☼☀ cI;☼
+↰☀aYcayamAnaH,aYcayizyamARaH;☼
+↷☀prAN,udaN,devadryaN,tiryaN,aD☼☀ yaN,nyaN,☼☀saDyraN,saDrI☼☀ cI;☼
 ↰☀aYcitam-taH-tavAn,aktam-ktaH-ktavAn,☼☀samaknaH-samaknavAn,aYcitam-taH-tavAn,aYcicizitam-taH-tavAn;☼
 ↰☀aYcaH,aYcaH,aYcicizuH,aYcicayizuH;☼
 ↰☀aYcitavyam,aYcayitavyam,aYcicizitavyam;☼
@@ -509,7 +510,7 @@
 ↰☀vyaktiH,aYjanA,vyaYjijizA,vyaYjijayizA;☼
 ↰☀vyaYjA,aYjanA,vyaYjijizA,vyaYjijayizA;☼
 ↰☀vyaYjanam,vyaYjanam,aYjijizaRam;☼
-↰☀aYjitvA☼☀ aktvA aNktvA aYjayitvA,aYjijizitvA;☼
+↰☀aYjitvA,☼☀aktvA aNktvA aYjayitvA,aYjijizitvA;☼
 ↰☀aBivyajya,aBivyaYjya,samaYjijizya;☼
 ↰☀aYjam_2,☼☀aktvA_2,☼☀aYjitvA_2,☼☀aNktvA_2,☼☀aYjam_2,☼☀aYjayitvA_2,☼☀aYjijizam_2;☼
 ↱☀aYjijizitvA_2;☼
@@ -623,7 +624,8 @@
 ⊥H_33∥
 
 
-↰☀AmakaH-mikA,AmimayizakaH-zikA;☼☀AmayitA-trI,☼☀AmimayizitA-trI;☼
+↰☀AmakaH-mikA,AmimayizakaH-zikA;☼
+↷☀AmayitA-trI,☼☀AmimayizitA-trI;☼
 ↱☀ Amayan-ntI,Amimayizan-ntI;☼
 ↰☀Amayizyan-ntI-tI,Amimayizizyan-ntI-tI;☼
 ↰☀AmayamAnaH,AmimayizamARaH;☼
@@ -808,7 +810,7 @@
 ↰☀ardizyan-ntI-tI,ardayizyan-ntI-tI,ardidizizyan-tI-ntI;☼
 ↰☀ardayamAnaH,ardayizyamARaH;☼
 ↰☀art-ard-ardO-ardaH;☼
-↰☀samarRa☼☀ H,nyarRaH,vya☼☀rRaH,aB☼☀yarRaH-aByarditaH (vidUre)☼☀ arditam-taH-tavAn,arditaH,ardidizitam-taH-tavAn;☼
+↰☀samarRa☼☀ H,nyarRaH,vya☼☀rRaH,aB☼☀yarRaH-aByarditaH (vidUre),☼☀arditam-taH-tavAn,arditaH,ardidizitam-taH-tavAn;☼
 ↰☀ardaH,janA☼☀ rdanaH,ardaH,ardidizuH,ardidayizuH;☼
 ↰☀arditavyam,ardayitavyam,ardidizitavyam;☼
 ↰☀ardanIyam,ardanIyam,ardidizaRIyam;☼
@@ -833,7 +835,8 @@
 ↰☀arditam-taH,ardidayizitaH,☼☀samarRaH-nyarRaH-vyarRaH-aByarRaH,aByarditaH;tavAn;☼
 ↰☀ardaH,ardidayizuH,ardaH,☼☀janArdanaH,ardidizuH,☼☀samardI;☼
 ↰☀ardayitavyam,ardidayizitavyam,arditavyam;☼
-↰☀ardanIyam,ardidayizaRIyam,ardanIyam;☼☀ardyam,ardidayizyam,ardyam;☼
+↰☀ardanIyam,ardidayizaRIyam,ardanIyam;☼
+↷☀ardyam,ardidayizyam,ardyam;☼
 ↰☀IzadardaH,durardaH,svardaH;☼
 ↰☀ardyamAnaH,ardidayizyamARaH,ardyamAnaH;☼
 ↰☀ardaH,ardidayizaH,ardaH;☼
@@ -955,7 +958,8 @@
 ↰☀avitA-trI,AvayitA-trI,avivizitA-trI;☼
 ↰☀avan-ntI,Avayan-ntI,avivizan-ntI;☼
 ↰☀avizyan-ntI-tI,Avayizyan-ntI-tI,avivizizyan-ntI-tI;☼
-↰☀AvayamAnaH,AvayizyamARaH;☼☀UH-janOH,☼☀janAvO-janAvaH;☼
+↰☀AvayamAnaH,AvayizyamARaH;☼
+↷☀UH-janOH,☼☀janAvO-janAvaH;☼
 ↰☀avitaH-tam-tavAn,Avitam,avivizitam-taH-tavAn;☼
 ↰☀avaH,AvaH,avivizuH,AvivayizuH;☼
 ↰☀avitavyam,Avayitavyam,avivizitavyam;☼
@@ -975,9 +979,10 @@
 ⊥H_48∥
 
 
-↰☀aSitA-trI,ASayitA-trI,aSiSizitA-trI,aSASitA-trI;☼☀aSnan-tI,A☼☀Sayan-ntI,aSiSizan-ntI;☼
+↰☀aSitA-trI,ASayitA-trI,aSiSizitA-trI,aSASitA-trI;☼
+↷☀aSnan-tI,A☼☀Sayan-ntI,aSiSizan-ntI;☼
 ↰☀aSizyan-ntI-tI,ASayizyan-ntI-tI,aSiSizizyan-ntI-tI;☼
-↰☀aSASyamAnaH,aSASizyamARaH☼☀ aw-aSO-aSaH;☼
+↰☀aSASyamAnaH,aSASizyamARaH,☼☀aw-aSO-aSaH;☼
 ↱☀ aSitam-taH,ASitam-taH,aSiSizitam,aSASitaH-tavAn;☼
 ↰☀aSaH,ASaH,☼☀annASaH,kuRqASI,☼☀narASI,☼☀PalASI,aSi☼☀ SizuH;☼
 ↰☀anA☼☀ SvAn;☼
@@ -987,7 +992,8 @@
 ↰☀IzadaSaH-duraSaH-svaSaH;☼
 ↰☀aSyamAnaH,ASyamAnaH,aSiSizyamARaH,aSASyamAnaH;☼
 ↰☀ASaH,ASaH;aSiSizaH,aSASaH;☼
-↰☀aSitum,ASayitum,aSiSizitum,aSASitum;☼☀azwiH,ASanA,aSiSizA,ASiSayizA,aSASA,☼☀aSanAyA;☼
+↰☀aSitum,ASayitum,aSiSizitum,aSASitum;☼
+↷☀azwiH,ASanA,aSiSizA,ASiSayizA,aSASA,☼☀aSanAyA;☼
 ↰☀aSanam,ASanam,aSiSizaRam;aSASanam;☼
 ↰☀aSitvA,ASayitvA,aSiSizitvA,aSASitvA;☼
 ↰☀samaSya,prASya,samaSiSizya,samaSASya;☼
@@ -1004,7 +1010,7 @@
 
 ↰☀aw-aSO-aSaH;☼
 ↱☀ azwam-zwaH-zwavAn☼☀ ASitam-taH,aSiSizitaH,aSASitaH-tavAn;☼
-↰☀aSaH,ASaH,aSiSizuH,ASiSayizuH,aSASaH;☼☀☼
+↰☀aSaH,ASaH,aSiSizuH,ASiSayizuH,aSASaH;☼
 ↰☀aSitavyam,ASayitavyam,aSiSizitavyam,aSASitavyam;☼
 ↰☀azwavyam,ASayitavyam,aSiSizitavyam,aSASitavyam;☼
 ↰☀aSanIyam,ASanIyam,aSiSizaRIyam,aSASanIyam;☼
@@ -1014,7 +1020,7 @@
 ↰☀ASaH,ASaH,aSiSizaH,aSASaH;☼
 ↰☀aSitum,ASayitum,aSiSizitum,aSASitum;☼
 ↰☀azwum,ASayitum,aSiSizitum,aSASitum;☼
-↰☀azwiH,ASanA,aSiSizA,ASiSayizA,aSASA;☼☀☼
+↰☀azwiH,ASanA,aSiSizA,ASiSayizA,aSASA;☼
 ↰☀aSanam,ASanam,aSiSizaRam,aSASanam;☼
 ↰☀aSitvA,ASayitvA,aSiSizitvA,aSASitvA;☼
 ↰☀azwvA,ASayitvA,aSiSizitvA,aSASitvA;☼
@@ -1066,7 +1072,8 @@
 ↰☀BavanIyam,☼☀praBabanIyam,pra☼☀ BAvanIyam,buBUzaRIyam,biBAvayizaRIyam,boBUyanIyam;☼
 ↱☀ Bavyam,avaSya☼☀ BAvyam,BAvyam,buBUzyam,biBAvayizyam,boBUyyam;☼
 ↰☀IzadBavam,durBavam,suBavam;☼
-↰☀BUyamAnaH,BAvyamAnaH,buBUzyamARaH,biBAvayizyamARaH,boBUyyamAnaH;☼☀BavaH BAvaH☼☀ BAvaH,buBUzaH;biBAvayizaH,boBUyaH;☼
+↰☀BUyamAnaH,BAvyamAnaH,buBUzyamARaH,biBAvayizyamARaH,boBUyyamAnaH;☼
+↷☀BavaH BAvaH,☼☀BAvaH,buBUzaH;biBAvayizaH,boBUyaH;☼
 ↰☀Bavitum,BAvayitum,buBUzitum,biBAvayizitum,boBUyitum;☼
 ↰☀BUtiH,BAvanA,buBUzA,biBAvayizA,boBUyA;☼
 ↰☀Bavanam,BAvanam,buBUzaRam,biBAvayizaRam,boBUyanam;☼
@@ -1091,7 +1098,7 @@
 ↰☀Asyam,samasyA,☼☀Asyam,asisizyam;☼
 ↰☀IzadasaH,durasaH,svasaH;☼
 ↱☀ asyamAnaH,AsyamAnaH,asisizyamARaH;☼
-↰☀nirAsaH,vyAsaH,☼☀prAsaH☼☀ izvAsaH,☼☀AsaH,asisizaH;☼
+↰☀nirAsaH,vyAsaH,☼☀prAsaH,☼☀izvAsaH,☼☀AsaH,asisizaH;☼
 ↰☀asitum,Asayitum,asisizitum;☼
 ↰☀astiH,upAstiH,AsanA,asisizA,AsisayizA;☼
 ↰☀nirasanam,nirAsanam,asisizaRam;☼
@@ -1198,7 +1205,8 @@
 ↰☀AYCitA,trI,AYCayitA-trI,AYcicCizitA-trI;☼
 ↰☀AYCan-ntI,AYCayan-ntI,AYcicCizan-ntI;☼
 ↰☀AYCizyan-tI-ntI,AYCayizyan-tI-ntI,AYcicCizizyan-ntI-tI;☼
-↰☀AYCayamAnaH,AYCayizyamARaH;☼☀An-AYCO-AYCaH;☼
+↰☀AYCayamAnaH,AYCayizyamARaH;☼
+↷☀An-AYCO-AYCaH;☼
 ↰☀AYCitam-taH,AYCitaH,AYcicCizitam-taH-tavAn;☼
 ↰☀AYCaH,AYCaH,AYcicCizuH,AYCicCayizuH;☼
 ↰☀AYCitavyam,AYCayitavyam,AYcicCizitavyam;☼
@@ -1224,7 +1232,7 @@
 ↱☀ Apnuvan-vatI,prApayan-ntI,Ipsan-ntI;☼
 ↰☀Apsyan-ntI-tI,Apayizyan-ntI-tI,Ipsizyan-ntI-tI;☼
 ↰☀prApayamARaH,prApayizyamARaH;☼
-↰☀ApaH;☼☀☼
+↰☀ApaH;☼
 ↰☀AptaH-saMprAptaH-ptam-ptavAn,prApitam,☼☀IpsitaH-tavAn;☼
 ↰☀ApaH,ApaH,vyApI-vyApinI,☼☀IpsuH,ApipayizuH;☼
 ↰☀Aptavyam,Apayitavyam,Ipsitavyam;☼
@@ -1263,8 +1271,9 @@
 
 
 ⊥H_61∥
-⊕☀AsakaH-sikA,AsakaH-sikA,AsisizakaH-zikA,durAsikA;☼☀☼
-↰☀AsitA-trI,AsayitA-trI,asisizitA-trI;☼☀aDyAsayan,☼☀Asayan-ntI,Asayizyan-ntI-tI;☼
+⊕☀AsakaH-sikA,AsakaH-sikA,AsisizakaH-zikA,durAsikA;☼
+↰☀AsitA-trI,AsayitA-trI,asisizitA-trI;☼
+↷☀aDyAsayan,☼☀Asayan-ntI,Asayizyan-ntI-tI;☼
 ↱☀ AsInaH,☼☀AsisizamARaH,AsisizizyamARaH;☼
 ↰☀AH-AsO-AsaH;☼
 ↰☀Asitam-taH-tavAn,AsitaH,AsisizitaH-tavAn;☼
@@ -1326,7 +1335,7 @@
 ↰☀aDyeyam,pratyAyyam,aDigamyam,aDijigamizyam;☼
 ↱☀ aDItyaH,pratyAyyam,aDigamyam,aDijigamizyam;☼
 ↰☀IzadaDyayaH,duraDyayaH,svaDyayaH;☼
-↰☀aDIyamAnaH,aDigamyamAnaH,pratyAyyamAnaH,aDijigAMsyamAnaH;☼☀☼
+↰☀aDIyamAnaH,aDigamyamAnaH,pratyAyyamAnaH,aDijigAMsyamAnaH;☼
 ↰☀aDyAyaH,aDigamaH,pratyAyaH,aDijigamizaH;☼
 ↰☀aDyetum,aDigamayitum,aDijigamizitum;☼
 ↰☀aDItiH,aDigamanA,aDijigamizA,aDijigamayizA;☼
@@ -1396,7 +1405,7 @@
 ↰☀aDyetA-trI,aDyApayitA-trI,aDijigamizitA-trI;☼
 ↱☀ aDIyan pArAyaRam,☼☀aDyApayan-ntI,aDyApayizyan-ntI-tI;☼
 ↱☀ aDIyatI,☼☀aDyApayan-ntI,aDyApayizyan-ntI-tI;☼
-↱☀ aDIyAnaH,☼☀aDijigAMsamAnaH;☼☀☼
+↱☀ aDIyAnaH,☼☀aDijigAMsamAnaH;☼
 ↰☀aDyezyamARaH,—aDijigAMsizyamARaH;☼
 ↰☀aDItaH-tam,aDyApitaH,aDijigamizitaH-tavAn;☼
 ↰☀aDyayaH,☼☀mantrADyAyaH,aDyApaH,aDijigamizuH,☼☀aDijigApayizuH;aDyApipayizuH;☼
@@ -1435,7 +1444,7 @@
 ↰☀IzadayaH,-durayaH-svayaH,IzadAyaH-IzadavagamaH-ityAdi;☼
 ↱☀ IyamAnaH,pratyAyyamAnaH,avagamyamAnaH,☼☀jigAMsyamAnaH,pratIzyamARaH;☼
 
-↰☀nyayaH,vyayaH,☼☀aByudayaH,nyAyaH☼☀ avagamaH,pratyAyaH;☼
+↰☀nyayaH,vyayaH,☼☀aByudayaH,nyAyaH,☼☀avagamaH,pratyAyaH;☼
 ↰☀etum,pratyAyayitum,gamayitum,jigamizitum,pratIzizitum;☼
 ↱☀ ityA,apItiH,☼☀samitiH,itiH,samit,☼☀pratyAyanA,avagamanA,jigamizA,jigamayizA,pratIzizA,pratyAyayizA;☼
 ↰☀ayanam,☼☀antarayaRam (vartate),antarayano (deSaH),pratyAyanam,avagamanam,jigamizaRam,pratIzizaRam;☼
@@ -1480,7 +1489,7 @@
 ↱☀ inDAnaH,☼☀saminDAnaH,inDayamAnaH,indiDizamARaH;☼
 ↰☀inDizyamARaH,inDayizyamARaH,indiDizizyamARaH;☼
 ↱☀ samiD-samiDO-samiDaH;☼
-↰☀agnID,☼☀BrAzwraminDaH,☼☀agniminDaH,inDaH,inDanam☼☀ indiDizuH,indiDayizuH;☼
+↰☀agnID,☼☀BrAzwraminDaH,☼☀agniminDaH,inDaH,inDanam,☼☀indiDizuH,indiDayizuH;☼
 ↰☀samidDam,idDa☼☀ H;☼
 ↱☀ idDavAn,inDitam-taH-tavAn,indiDizitaH-tavAn;☼
 ↰☀inDitavyam,inDayitavyam,indiDizitavyam;☼
@@ -1592,10 +1601,12 @@
 ↰☀ezizyan-ntI-tI;ezyam;☼
 ↱☀ iw-iq-izO-izaH;IzadezaH-durezaH-svezaH;☼
 ↱☀ izwaH-zwam-zwavAn;izyamARaH;☼
-↰☀izaH,ezaH,ezizizuH,☼☀icCuH;☼☀☼
-↱☀ SaraREzI☼☀ ezaH;ezwum—ezitum;☼
-↰☀izwi☼☀H,☼☀icCA;☼☀prezya;☼
-↰☀ezaRam,ezaRI;☼☀ezam_2,☼☀ezitvA_2,☼☀izwvA_2,☼
+↰☀izaH,ezaH,ezizizuH,☼☀icCuH;☼
+↱☀ SaraREzI,☼☀ezaH;ezwum—ezitum;☼
+↰☀izwi☼☀H,☼☀icCA;☼
+↷☀prezya;☼
+↰☀ezaRam,ezaRI;☼
+↷☀ezam_2,☼☀ezitvA_2,☼☀izwvA_2,☼
 
 
 
@@ -1640,11 +1651,12 @@
 ⊥H_78∥
 ⊕☀IkzakaH-kzikA,IkzakaH-kzikA,☼☀IcikzizakaH-zikA;☼
 ↰☀IkzitA-trI,IkzayitA-trI,IcikzizitA-trI;☼
-↰☀Ikzayan-ntI,Ikzayizyan-ntI-tI;☼☀kfzRAya IkzamARaH,☼☀IkzayamARaH,IcikzizamARaH;☼
+↰☀Ikzayan-ntI,Ikzayizyan-ntI-tI;☼
+↷☀kfzRAya IkzamARaH,☼☀IkzayamARaH,IcikzizamARaH;☼
 ↰☀IkzizyamARaH,IkzayizyamARaH,IcikzizizyamARaH;☼
 ↱☀ Iw-IkzO-IkzaH;☼
 ↰☀IkzitaH-taM-tavAn,IkzitaH,IcikzizitaH-tavAn;☼
-↰☀IkzaH,pratIkzaH,prekzI,☼☀☼☀BaratapratIkzaH-kzA,☼☀avasarapratIkzaH,IcikzizuH,IcikzayizuH;☼
+↰☀IkzaH,pratIkzaH,prekzI,☼☀BaratapratIkzaH-kzA,☼☀avasarapratIkzaH,IcikzizuH,IcikzayizuH;☼
 ↰☀Ikzitavyam,Ikzayitavyam,Icikzizitavyam;☼
 ↰☀IkzaRIyam,IkzaRIyam,IcikzizaRIyam;☼
 ↰☀Ikzyam,Ikzyam,Icikzizyam;☼
@@ -1879,7 +1891,8 @@
 
 ⊥H_91∥
 ⊕☀ukzakaH-kzikA,ukzakaH-kzikA,ucikzizakaH-zikA;☼
-↰☀ukzitA-trI,ukzayitA-trI,ucikzizitA-trI;☼☀ukzan-ntI,ukzayan-ntI,ucikzizan-ntI;☼
+↰☀ukzitA-trI,ukzayitA-trI,ucikzizitA-trI;☼
+↷☀ukzan-ntI,ukzayan-ntI,ucikzizan-ntI;☼
 ↱☀ vyatyukzamARaH,ukzayamARaH,ukzayizyamARaH;☼
 ↰☀ukzizyan-ntI-tI,ukzayizyan-ntI-tI,ucikzizizyan-ntI-tI;☼
 ↱☀ uw-q-ukzO-ukzaH;☼
@@ -2129,7 +2142,7 @@
 ↰☀umByam,umByam,umbimizyam;☼
 ↰☀IzadumBaH,durumBaH,sUmBaH;☼
 ↰☀uByamAnaH,umByamAnaH,umbiBizyamARaH;☼
-↰☀umBaH,☼☀kumBaH,☼☀☼☀ayaskumBaH,☼☀kumBI,umBaH,umBiBizaH;☼
+↰☀umBaH,☼☀kumBaH,☼☀ayaskumBaH,☼☀kumBI,umBaH,umBiBizaH;☼
 ↰☀umBitum,umBayitum,umbiBizitum;☼
 ↰☀umBA,umBanA,umbiBizA,umbiBayizA;☼
 ↰☀umBanam,umBanam,umbiBizaRam;☼
@@ -2352,7 +2365,8 @@
 ⊥H_113∥
 
 ⊕☀UrjakaH-rjikA,☼☀UrjijayizakaH-zikA;☼
-↰☀UrjayitA-trI,UrjijayizitA-trI;☼☀Urjayan-ntI,Urjijayizan-ntI;☼
+↰☀UrjayitA-trI,UrjijayizitA-trI;☼
+↷☀Urjayan-ntI,Urjijayizan-ntI;☼
 ↰☀Urjayizyan-ntI-tI,Urjijayizizyan-ntI-tI;☼
 ↰☀UrjayamAnaH,UrjijayizamARaH;☼
 ↰☀UrjayizyamARaH,urjijayizizyamARaH;☼
@@ -2477,7 +2491,7 @@
 ↰☀ftam-taH-tavAn,araRam;☼
 ↰☀araH,ftvA;☼
 ↰☀artavyam,samftya;☼
-↰☀araRIyam,Aram_2 ☼☀ftvA_2;☼
+↰☀araRIyam,Aram_2,☼☀ftvA_2;☼
 
 
 
@@ -2514,7 +2528,8 @@
 ↰☀fcCan-ntI-tI,fcCayan-ntI,fcicCizan-ntI;☼
 ↰☀fcCizyan-ntI-tI,fcCayizyan-ntI-tI,fcicCizizyan-ntI-tI;☼
 ↱☀ samfcCamAnaH,fcCayamAnaH,☼☀samfcicCizamARaH;☼
-↰☀samfcCizyamARaH,fcCayizyamARaH,samfcicCizizyamARaH;☼☀samfw-samfq-samfcCO-samfcCaH;☼
+↰☀samfcCizyamARaH,fcCayizyamARaH,samfcicCizizyamARaH;☼
+↷☀samfw-samfq-samfcCO-samfcCaH;☼
 ↰☀fcCitam-taH,fcCitam-taH,fcicCizitaH-tavAn;☼
 ↰☀fcCaH,☼☀upArcCaH,fcicCizuH,fcicCayizuH;☼
 ↰☀fcCitavyam,fcCayitavyam,fcicCizitavyam;☼
@@ -2609,7 +2624,8 @@
 
 ↰☀ ftIyakaH-yikA,artakaH-rtikA,ftIyakaH-yikA,artakaH-rtikA,☼☀ftitIyizakaH-zikA;artitizakaH-zikA;☼
 ↰☀ftIyitA-trI artitA-trI,☼☀ftIyayitA-trI,artayitA-trI,ftitIyizitA-trI;artitizitA-trI;☼
-↰☀ftIyayan-ntI,artayan-ntI,artitizan-ntI;☼☀artizyan-ntI-tI,ftIyayizyan-ntI-tI,artayizyan-ntI-tI,artitizizyan-ntI-tI;☼
+↰☀ftIyayan-ntI,artayan-ntI,artitizan-ntI;☼
+↷☀artizyan-ntI-tI,ftIyayizyan-ntI-tI,artayizyan-ntI-tI,artitizizyan-ntI-tI;☼
 ↰☀ftIyamAnaH,ftIyayamAnaH,artayamAnaH ftitIyizamARaH;☼
 ↰☀ftIyizyamARaH,ftIyayizyamARaH,artayizyamARaH,ftitIyizizyamARaH;☼
 ↱☀ ftIH-ftyO-ftyaH,ft-ftO-ftaH;☼
@@ -2621,7 +2637,8 @@
 ↰☀ftIyyamAnaH,frtyamAnaH,ftIyyamAnaH,artyamAnaH,ftitIyizyamARaH;artitizyamARaH;☼
 ↰☀IzadftIyaH-duftIyaH-svftIyaH,IzadartaH-durartaH-svartaH;☼
 ↰☀ftIyaH,artaH,ftIyaH,artaH,ftitIyizaH-artitizaH;☼
-↰☀ftIyitum,artitum,ftIyayitum,artayitum,ftitIyizitum;artitizitum;☼☀ftIyA,fttiH,ftIyanA,artanA,ftitIyizA;artitizA;☼
+↰☀ftIyitum,artitum,ftIyayitum,artayitum,ftitIyizitum;artitizitum;☼
+↷☀ftIyA,fttiH,ftIyanA,artanA,ftitIyizA;artitizA;☼
 ↰☀ftIyanam,artanam,ftIyanam,artanam,ftitIyizaRam;artitizaRam;☼
 ↰☀ftIyitvA,☼☀artitvA-ftitvA,ftIyayitvA,artayitvA,ftitIyizitvA;artitizitvA;☼
 ↰☀samftIyya,samftya,samftIyya,samartya,samftitIyizya;samartitizya;☼
@@ -2636,7 +2653,8 @@
 ↰☀arDizyan-ntI-tI,arDayizyan-ntI-tI,ardiDizizyan-ntI-tI,Irtsizyan-ntI;☼
 ↰☀arDayamAnaH,arDayizyamARaH;☼
 ↰☀ft-fD-fDO-fDaH;☼
-↱☀ fdDam-dDaH-dDavAn,arDitaH-taM,ardiDizitaH-IrtsitaH-tavAn;☼☀fDaH,arDaH,☼☀ardiDizuH,☼☀IrtsuH,ardiDayizuH;☼
+↱☀ fdDam-dDaH-dDavAn,arDitaH-taM,ardiDizitaH-IrtsitaH-tavAn;☼
+↷☀fDaH,arDaH,☼☀ardiDizuH,☼☀IrtsuH,ardiDayizuH;☼
 ↰☀arDitavyam,arDaMyitavyam,ardiDizitavyam,Irtsitavyam;☼
 ↰☀arDanIyam,arDanIyam,ardiDizaRIyam,IrtsanIyam;☼
 ↱☀ fdDyam,arDyam,ardiDizyam,Irtsyam;☼
@@ -2762,7 +2780,7 @@
 ↰☀ejizyamARaH,ejayizyamARaH,ejijizizyamARaH;☼
 ↱☀ ek-eg-ejO-ejaH;☼
 ↱☀ ejitaH-tam,ejitaH-tam,ejijizitaH-tavAn;☼
-↰☀ejaH,☼☀udejayaH,☼☀☼☀janamejayaH,aNgamejayaH,sattvamejayaH,☼☀ejaH,ejijizuH,ejijayizuH;☼
+↰☀ejaH,☼☀udejayaH,☼☀janamejayaH,aNgamejayaH,sattvamejayaH,☼☀ejaH,ejijizuH,ejijayizuH;☼
 ↰☀ejitavyam,ejayitavyam,ejijizitavyam;☼
 ↰☀ejanIyam,ejanIyam,ejijizaRIyam;☼
 ↱☀ ejyam,ejyam,ejijizyam;☼
@@ -3075,7 +3093,8 @@
 ↰☀kaWanIyam,kAWanIyam,cikaWizaRIyam,cAkaWanIyam;☼
 ↰☀kAWyam,kAWyam,cikaWizyam,cAkaWyam;☼
 ↰☀IzatkaWaH,duzkaWaH,sukaWaH;☼
-↰☀kaWyamAnaH,kAWyamAnaH,cikaWizyamARaH,cAkaWyamAnaH;☼☀kAWaH,kAWaH,cikaWizaH,cAkaWaH;☼
+↰☀kaWyamAnaH,kAWyamAnaH,cikaWizyamARaH,cAkaWyamAnaH;☼
+↷☀kAWaH,kAWaH,cikaWizaH,cAkaWaH;☼
 ↰☀kaWitum,kAWayitum,cikaWizitum,cAkaWitum;☼
 ↱☀ kawwiH,kAWanA,cikaWizA,cikAWayizA,cAkaWA;☼
 ↰☀kaWanam,kAWanam,cikaWizaRam,cAkaWanam;☼
@@ -3271,7 +3290,7 @@
 ↱☀ katTanam,katTanam,cikatTizaRam,cAkatTanam;☼
 ↰☀katTitvA,katTayitvA,cikatTizitvA,cAkatTitvA;☼
 ↰☀vikatTya,vikatTya,pracikatTizya,pracAkatTya;☼
-↰☀katTam_2 ☼☀katTitvA_2 ☼☀katTam_2 ☼☀katTayitvA_2 ☼☀cikatTizam_2 ☼☀cikatTizitvA_2 ☼☀cAkatTam_2;☼
+↰☀katTam_2,☼☀katTitvA_2,☼☀katTam_2,☼☀katTayitvA_2,☼☀cikatTizam_2,☼☀cikatTizitvA_2,☼☀cAkatTam_2;☼
 ↱☀cAkatTitvA_2;☼
 
 
@@ -3455,14 +3474,14 @@
 
 
 ⊥H_168∥
-↰☀ kAmakaH☼☀ kAmakaH mikA,kAmakaH-mikA,☼☀cikAmayizakaH-zikA,cikamizakaH-zikA,☼☀caNkAmakaH-mikA;caNkamakaH-mikA;☼
+↰☀ kAmakaH,☼☀kAmakaH mikA,kAmakaH-mikA,☼☀cikAmayizakaH-zikA,cikamizakaH-zikA,☼☀caNkAmakaH-mikA;caNkamakaH-mikA;☼
 ↰☀kAmayitA-trI,kamitA-trI,kAmayitA-trI,cikAmayizitA-trI,cikamizitA-trI,caNkAmayitA-trI;caNkamitA-trI;☼
 ↰☀ kAmayan-ntI,kAmayizyan-ntI-tI;☼
 ↱☀ kAmayamAnaH,kAmayamAnaH,cikAmayizamARaH cikamizamARaH caNkAmyamAnaH;caNkamyamAnaH;☼
 ↰☀kAmayizyamARaH,kAmayizyamARaH,cikAmayizizyamARaH,cikamizizyamARaH,caNkAmayizyamARaH;caNkamizyamARaH;☼
 ↱☀ kAn-kAmO-kAmaH;☼
 ↱☀ kAmitam-taH-tavAn,☼☀kAntam-ntaH-ntavAn,kAmitam-taH,cikAmayizitaH,cikamizitaH,caNkAmitaH caNkamitaH tavAn;☼
-↰☀kAmaH-kamaH,☼☀prakAmI,☼☀mAMsakAmaH-mAMsakAmA,☼☀hantukAmaH,☼☀☼☀harikAmA,☼☀kamraH,☼☀☼☀kamanaH,☼☀kAmuka☼☀ H-kAmukI-kAmukA,kAmaH,cikAmayizuH,cikamizuH,caNkAmaH-caNkamaH;☼
+↰☀kAmaH-kamaH,☼☀prakAmI,☼☀mAMsakAmaH-mAMsakAmA,☼☀hantukAmaH,☼☀harikAmA,☼☀kamraH,☼☀kamanaH,☼☀kAmuka☼☀ H-kAmukI-kAmukA,kAmaH,cikAmayizuH,cikamizuH,caNkAmaH-caNkamaH;☼
 ↰☀kAmayitavyam,kamitavyam,kAmayitavyam,cikAmayizitavyam,cikamizitavyam,caNkAmayitavyam;caNkamitavyam;☼
 ↱☀ prakAmanIyam,prakamanIyam,kAmanIyam,cikAmayizaRIyam,cikamizaRIyam,caNkAmanIyam;caNkamanIyam;☼
 ↱☀ kAmyam-kamyam,kAmyam,cikAmayizyam,cikamizyam,caNkAmyam-caNkamyam;☼
@@ -3474,7 +3493,7 @@
 ↰☀kAmanam,kamanam,kAmanam,cikAmayizaRam-cikamizaRam,caNkAmanam-caNkamanam;☼
 ↰☀kAmayitvA,☼☀kamitvA,kAntvA,kAmayitvA,cikAmayizitvA cikamizitvA caNkAmayitvA-caNkamitvA;☼
 ↰☀prakAmya-prakamya,prakAmya,pracikAmayizya-pracikamizya,pracaNkAmya-pracaNkamya;☼
-↱☀ kAmam_2 ☼☀kAmayitvA_2 ☼☀kAmam_2 ☼☀kamitvA_2 ☼☀kAntvA_2 ☼☀kAmam_2 ☼☀kAmayitvA_2 ☼☀cikAmayizam_2,☼☀cikAmayizitvA_2,☼
+↱☀ kAmam_2,☼☀kAmayitvA_2,☼☀kAmam_2,☼☀kamitvA_2,☼☀kAntvA_2,☼☀kAmam_2,☼☀kAmayitvA_2,☼☀cikAmayizam_2,☼☀cikAmayizitvA_2,☼
 
 
 
@@ -3960,7 +3979,8 @@
 ↰☀IzaccikitsaH-duScikitsaH-sucikitsaH;☼
 ↰☀cikitsyamAnaH,cikitsyamAnaH,cikitsizyamARaH,ketyamAnaH;☼
 ↰☀cikitsaH,cikitsaH,cikitsizaH,ketaH;☼
-↰☀cikitsitum,cikitsayitum,cikitsizitum,ketayitum;☼☀vicikitsA,cikitsanA,cikitsizA,ketanA;☼
+↰☀cikitsitum,cikitsayitum,cikitsizitum,ketayitum;☼
+↷☀vicikitsA,cikitsanA,cikitsizA,ketanA;☼
 ↰☀cikitsanam,cikitsanam,cikitsizaRam,ketanam,☼☀nikettanam;☼
 ↰☀cikitsitvA,cikitsayitvA,cikitsizitvA,ketayitvA;☼
 ↰☀vicikitsya,vicikitsya,vicikitsizya,viketya;☼
@@ -3987,7 +4007,7 @@
 ↰☀kelanam,kelanam,cikilizaRam-cikelizaRam,cekilanam;☼
 ↰☀kilitvA kelitvA kelayitvA,cikilizitvA-cikelizitvA,cekilitvA;☼
 ↰☀sakilya,prakelya,pracikilizya-pracikelizya,pracekilya;☼
-↰☀kelam_2 ☼☀kilitvA_2 ☼☀kelitvA_2 ☼☀kelam_2 ☼☀kelayitvA_2 ☼☀cikilizam_2 ☼☀cikilizitvA_2 ☼☀cikelizam_2 ☼☀cikelizitvA_2 ☼☀cekilam_2;☼
+↰☀kelam_2,☼☀kilitvA_2,☼☀kelitvA_2,☼☀kelam_2,☼☀kelayitvA_2,☼☀cikilizam_2,☼☀cikilizitvA_2,☼☀cikelizam_2,☼☀cikelizitvA_2,☼☀cekilam_2;☼
 ↱☀cekilitvA_2;☼
 ↱☀ keliH-kelI☼
 
@@ -4024,7 +4044,8 @@
 ↰☀kIlizyan-ntI-tI,kIlayizyan-ntI-tI,cikIlizizyan-ntI-tI;☼
 ↰☀kIlayamAnaH,kIlayizyamARaH,cekIlyamAnaH,cekIlizyamARaH;☼
 ↰☀kIl-kIlO-kIlaH;☼
-↱☀ kIlitam-taH,kIlitaH-tam,cikIlizitaH,cekIlitaH-tavAn;☼☀kIlaH,kIlaH,cikIlizuH,cikIlayizuH,cekIlaH;☼
+↱☀ kIlitam-taH,kIlitaH-tam,cikIlizitaH,cekIlitaH-tavAn;☼
+↷☀kIlaH,kIlaH,cikIlizuH,cikIlayizuH,cekIlaH;☼
 ↰☀kIlitavyam,kIlayitavyam,cikIlizitavyam,cekIlitavyam;☼
 ↰☀kIlanIyam,kIlanIyam,cikIlizaRIyam,cekIlanIyam;☼
 
@@ -4170,7 +4191,8 @@
 ↰☀kojizyan-ntI-tI,kojayizyan-ntI-tI,cukujizizyan-cukojizizyan-ntI-tI;☼
 ↰☀kojayamAnaH,kojayizyamARaH,cokujyamAnaH,cokujizyamARaH;☼
 ↰☀kuk-kujO-kujaH;☼
-↱☀ kuktam-taH,kojitaH-tam,cukujizitaH-cukojizitaH,cokujitaH-tavAn;☼☀kujaH,kojaH,cukujizuH-cukojizuH,cukojayizuH,cokujaH;☼
+↱☀ kuktam-taH,kojitaH-tam,cukujizitaH-cukojizitaH,cokujitaH-tavAn;☼
+↷☀kujaH,kojaH,cukujizuH-cukojizuH,cukojayizuH,cokujaH;☼
 ↰☀kojitavyam,kojayitavyam,cukujizitavyam-cukojizitavyam,cokujitavyam;☼
 ↰☀kojanIyam,kojanIyam,cukujizaRIyam-cukojizaRIyam,cokujanIyam;☼
 ↱☀ kogyam,kojyam,cukujizyam-cukojizyam,cokujyam;☼
@@ -4186,7 +4208,8 @@
 
 
 ⊥H_204∥
-↰☀kowakaH-wikA,kowakaH-wikA,☼☀cukuwizakaH-zikA,cokuwakaH-wikA;☼☀kuwitA-trI,kowayitA-trI,cukuwizitA-trI,cokuwitA-trI;☼
+↰☀kowakaH-wikA,kowakaH-wikA,☼☀cukuwizakaH-zikA,cokuwakaH-wikA;☼
+↷☀kuwitA-trI,kowayitA-trI,cukuwizitA-trI,cokuwitA-trI;☼
 ↱☀ kuwan-ntI-tI,kowayan-ntI,cukuwizan-ntI;☼
 ↰☀kuwizyan-ntI-tI,kowayizyan-ntI-tI,cukuwizizyan-ntI-tI;☼
 ↰☀kowayamAnaH,kowayizyamARaH,cokuwyamAnaH,cokuwizyamARaH;☼
@@ -4209,7 +4232,7 @@
 
 ⊥H_205∥
 
-⊕☀kowakaH-wikA,cukowayizakaH-zikA;☼☀☼
+⊕☀kowakaH-wikA,cukowayizakaH-zikA;☼
 ↰☀kowayitA-trI,cukowayizitA-trI;☼
 ↱☀ kowayamAnaH,cukowayizamARaH;☼
 ↰☀kowayizyamARaH,cukowayizizyamARaH;☼
@@ -4723,7 +4746,8 @@
 ⊕☀kosakaH-sikA,kosakaH-sikA,☼☀cukusizakaH-cukosizakaH-zikA,cokusakaH-sikA;☼
 ↰☀kositA-trI,kosayitA-trI,cukusizitA-cukosizitA-trI,cokusitA-trI;☼
 ↱☀ kusyan-ntI,kosayan-ntI,cukusizan-cukosizan-ntI;☼
-↰☀kosizyan-ntI-tI,kosayizyan-ntI-tI,cukusizizyan-cukosizizyan-ntI-tI;☼☀vyatikusyamAnaH,kosayamAnaH,cokusyamAnaH;☼
+↰☀kosizyan-ntI-tI,kosayizyan-ntI-tI,cukusizizyan-cukosizizyan-ntI-tI;☼
+↷☀vyatikusyamAnaH,kosayamAnaH,cokusyamAnaH;☼
 ↰☀vyatikosizyamARaH,kosayizyamARaH,cokusizyamARaH;☼
 ↱☀ kUH-kusO-kusaH;☼
 ↰☀kusitam-taH,☼☀kusitAyI,kositaH,cukusizitaH-cukosizitaH,cokusitaH-tavAn;☼
@@ -4754,7 +4778,7 @@
 
 ⊕☀ kusmakaH-smikA,cukusmayizakaH-zikA;☼
 ↰☀kusmayitA-trI,cukusmayizitA-trI;☼
-↱☀ kusmayamAnaH,☼☀☼☀cukusmayizamARaH;☼
+↱☀ kusmayamAnaH,☼☀cukusmayizamARaH;☼
 ↰☀kusmayizyamARaH,cukusmayizizyamARaH;☼
 ↱☀ kuH-kusmO-kusmaH;☼
 ↱☀ kusmitam-taH-tavAn,cukusmayizitaH-tavAn;☼
@@ -4992,7 +5016,8 @@
 
 ↰☀NkaraH-madraNkaraH,kzemakAraH-priyakAraH-madrakAraH,☼☀kaqaNkaraH,☼☀maskarI,☼☀akArI,☼☀apakArI-priyakArI-anapakArI-upakArI,☼☀rAjakftvA,☼☀rAjakftvarI,☼☀sahakftvA,sahakftvarI,☼☀viSvakarmA,☼☀alaNkarizRuH☼☀ nirAkarizRuH,☼☀cakriH,☼☀kArakaH-kArikA,kAraH,cikIrzuH,cikArayizuH,cekriyaH;☼
 ↰☀kartavyam,kArayitavyam,cikIrzitavyam,cekrIyitavyam;☼
-↰☀karaRIyam,kAraRIyam,cikIrzaRIyam,cekrIyaRIyam;☼☀kftyam-kAryam,kAryam,cikIrzyam,cekrIyyam;☼
+↰☀karaRIyam,kAraRIyam,cikIrzaRIyam,cekrIyaRIyam;☼
+↷☀kftyam-kAryam,kAryam,cikIrzyam,cekrIyyam;☼
 ↰☀IzatkaraH-duzkaraH-sukaraH,☼☀IzadAQyaNkaraH-durAQyaNkaraH-svAQyaNkaraH;☼
 ↱☀ kriyamARaH-saMskriyamARaH,kAryamARaH,cikIrzyamARaH,cekrIyyamARaH;☼
 ↰☀kAraH-upakAraH-apakAraH-prAkAraH,☼☀cakram,☼☀kftrimam-asaMskftrimam,kAraH,cikIrzaH,cekrIyaH;☼
@@ -5047,7 +5072,8 @@
 ↰☀kartakaH-rtikA,kartakaH-rtikA,☼☀cikftsakaH-cikartizakaH,☼☀carIkftakaH-tikA;☼
 ↰☀kartitA-trI,kartayitA-trI,cikftsitA-trI,cikartizitA-trI,carIkftitA-trI;☼
 ↱☀ kfntan-ntI-tI,kartayan-ntI,cikftsan-cikartizan-ntI;☼
-↱☀ kartizyan-kartsyan-ntI-tI,kartayizyan-ntI-tI,cikftsizyan-cikartizi-zyan-ntI-tI;☼☀vyatikfntamAnaH,kartayamAnaH,carIkftyamAnaH;☼
+↱☀ kartizyan-kartsyan-ntI-tI,kartayizyan-ntI-tI,cikftsizyan-cikartizi-zyan-ntI-tI;☼
+↷☀vyatikfntamAnaH,kartayamAnaH,carIkftyamAnaH;☼
 ↰☀vyatikartizyamARaH-vyatikartsyamAnaH,kartayizyamARaH,☼☀carIkftizyamARaH;☼
 ↰☀kAzWakft-kftO-kftaH;☼
 ↱☀ kfttam-ttaH,kartitaH,cikftsitaH-cikartizitaH,carIkftitaH-tavAn;☼
@@ -5209,7 +5235,8 @@
 ↱☀ vyatikarzamARaH,karzayamARaH,carIkfzyamARaH;☼
 ↰☀vyatikrakzyamARaH vyatikarkzyamARaH,karzayizyamARaH,carIkfzizyamARaH;☼
 ↰☀kfw-kfq-kfzO-kfzaH;☼
-↰☀kfzwaH-zwam-zwavAn,karzitaH,cikfkzitaH,carIkfzitaH-tavAn;☼☀kfzaH-karzaH,☼☀amandakarzI,☼☀karzaH,☼☀saNkarzaRaH,cikfkzuH,carIkfzaH;☼
+↰☀kfzwaH-zwam-zwavAn,karzitaH,cikfkzitaH,carIkfzitaH-tavAn;☼
+↷☀kfzaH-karzaH,☼☀amandakarzI,☼☀karzaH,☼☀saNkarzaRaH,cikfkzuH,carIkfzaH;☼
 ↰☀krazwavyam-karzwavyam,karzayitavyam,cikfkzitavyam,carIkfzitavyam;☼
 ↰☀karzaRiyam,karzaRIyam,cikfkzaRIyam,carIkfzaRIyam;☼
 ↱☀ kfzyam,karzyam,cikfkzyam,carIkfzyam;☼
@@ -5238,7 +5265,8 @@
 
 ⊥H_257∥
 ↶☀ kArakaH-rikA,kArakaH-rikA,☼☀cikarizakaH-zikA,☼☀cekirakaH-rikA;☼
-↱☀ karitA-karItA-trI,kArayitA-trI,cikarizitA-trI,cekiritA-trI;☼☀kiran-ntI-tI,☼☀upaskiran (SvApadaH),☼☀pratiskiran (SvApadaH),kArayan-ntI,cikarizan-ntI;☼
+↱☀ karitA-karItA-trI,kArayitA-trI,cikarizitA-trI,cekiritA-trI;☼
+↷☀kiran-ntI-tI,☼☀upaskiran (SvApadaH),☼☀pratiskiran (SvApadaH),kArayan-ntI,cikarizan-ntI;☼
 
 ↰☀BakzATIM),apaskiramARaH (SvA ASrayATIM),kArayamARaH,cekIryamARaH,☼☀apaceskIryamARaH;☼
 ↰☀apaskarizyamARaH-apaskarIzyamARaH,kArayizyamARaH,cekirizyamARaH;☼
@@ -5269,7 +5297,8 @@
 ↰☀kfRAnaH,kArayamARaH,cikarIzamARaH-cikarizamARaH-cikIrzamARaH,cekIryamARaH;☼
 ↰☀karIzyamARaH-karizyamARaH,kArayizyamARaH,cikarIzizyamARaH-cikarizizyamARaH-cikIrzizyamARaH,cekirizyamARaH;☼
 ↱☀ kIH-kirO-kiraH;☼
-↱☀ kIrRam-kIrRaH-kIrRavAn,kAritaH,cikarIzitaH-cikarizitaH-cikIrzitaH,cekiritaH-tavAn;☼☀kiraH,kAraH,cikarIzuH-cikarizuH-cikIrzuH,☼☀cekiraH;☼
+↱☀ kIrRam-kIrRaH-kIrRavAn,kAritaH,cikarIzitaH-cikarizitaH-cikIrzitaH,cekiritaH-tavAn;☼
+↷☀kiraH,kAraH,cikarIzuH-cikarizuH-cikIrzuH,☼☀cekiraH;☼
 ↰☀karItavyam-karitavyam,kArayitavyam,cikarIzitavyam-cikarizitavyam-cikIrzitavyam,cekiritavyam;☼
 ↰☀karaRIyam,kAraRIyam,cikarIzaRIyam-cikarizaRIyam-cikIrzaRIyam,cekiraRIyam;☼
 ↱☀ kAryam,kAryam,cikarIzyam-cikarizyam-cikIrzyam,cekIryam;☼
@@ -5300,7 +5329,8 @@
 ↰☀kIrt-kIrtO-kIrtaH;☼
 ↱☀ kIrtitam-taH,kIrtitaH,cikIrtayizitaH,cekIrtitaH-tavAn;☼
 ↰☀kIrtaH,☼☀kFtaH,cikIrtayizuH,cekIrtaH;☼
-↰☀kIrtayitavyam,kIrtitavyam,cikIrtayizitavyam,cekIrtitavyam;☼☀kIrtanIyam,kIrtanIyam,cikIrtayizaRIyam,cekIrtanIyam;☼
+↰☀kIrtayitavyam,kIrtitavyam,cikIrtayizitavyam,cekIrtitavyam;☼
+↷☀kIrtanIyam,kIrtanIyam,cikIrtayizaRIyam,cekIrtanIyam;☼
 ↰☀kIrtyam,kIrtyam,cikIrtayizyam,cekIrtyam;☼
 ↰☀IzatkIrtaH-duzkIrtaH-sukIrtaH;☼
 ↰☀kIrtyamAnaH,kIrtyamAnaH,cikIrtayizyamARaH,cekIrtyamAnaH;☼
@@ -5492,7 +5522,8 @@
 ↰☀knUyamAnaH,knopayamAnaH,cuknUyizamARaH,coknUyamAnaH;☼
 ↰☀knUyizyamARaH,knopayizyamARaH,cuknUyizizyamARaH,coknUyizyamARaH;☼
 ↱☀ suknUH-suknuvO-suknuvaH;☼
-↱☀ knUtam-taH,knopitaH,cuknUyizitaH,coknUyitaH-tavAn;☼☀knUyaH,☼☀knUyitA,knopaH,cuknUyizuH,coknUyaH;☼
+↱☀ knUtam-taH,knopitaH,cuknUyizitaH,coknUyitaH-tavAn;☼
+↷☀knUyaH,☼☀knUyitA,knopaH,cuknUyizuH,coknUyaH;☼
 ↰☀knUyitavyam,knopayitavyam,cuknUyizitavyam,coknUyitavyam;☼
 ↱☀ praniknUyanIyam,knopanIyam,cuknUyizaRIyam,coknUyanIyam;☼
 ↰☀knUyyam,knopyam,cuknUyizyam,coknUyyam;☼
@@ -5511,7 +5542,8 @@
 ⊥H_268∥
 
 ⊕☀kmArakaH-rikA,kmArakaH-rikA,☼☀cikmarizakaH-zikA,☼☀cAkmarakaH-rikA;☼
-↰☀kmaritA-trI,kmArayitA-trI,vikmarizitA-trI,cAkmaritA-trI;☼☀kmaran-ntI,kmArayan-ntI,cikmarizan-ntI;☼
+↰☀kmaritA-trI,kmArayitA-trI,vikmarizitA-trI,cAkmaritA-trI;☼
+↷☀kmaran-ntI,kmArayan-ntI,cikmarizan-ntI;☼
 ↰☀kmarizyan-ntI-tI,kmArayizyan-ntI-tI,cikmarizizyan-ntI-tI;☼
 ↰☀kmArayamARaH,kmArayizyamARaH,cAkmaryamARaH,cAkmarizyamARaH;☼
 ↱☀ kmaH-kmarE-kmaraH;☼
@@ -5572,7 +5604,7 @@
 ↰☀krandizyamARaH,krandayizyamARaH,cikrandizizyamARaH,cAkrandizyamARaH;☼
 ↱☀ kran-krandO-krandaH;☼
 ↰☀kranditam-taH,kranditaH,cikrandizitaH,cAkranditaH-tavAn;☼
-↰☀krandaH,☼☀saNkrandanaH,☼☀☼☀krandanaH,cikrandizuH,cAkrandaH;☼
+↰☀krandaH,☼☀saNkrandanaH,☼☀krandanaH,cikrandizuH,cAkrandaH;☼
 ↰☀kranditavyam,krandayitavyam,cikrandizitavyam,cAkranditavyam;☼
 ↰☀krandanIyam,krandanIyam,cikrandizaRIyam,cAkrandanIyam;☼
 ↰☀krandyam,krandyam,cikrandizyam,cAkrandyam;☼
@@ -5649,7 +5681,7 @@
 ↱☀ krAntam-vikrAntaH-krAntavAn,kramitaH,cikramizitaH-cikraMsitaH,☼
 ↰☀caNkramitaH-tavAn;☼
 
-↰☀caNkramaH-caNkramaRaH;☼☀☼
+↰☀caNkramaH-caNkramaRaH;☼
 ↱☀ kramitavyam,kramayitavyam,cikramizitavyam-cikraMsitavyam,caNkrami-☼
 ↰☀tavyam;☼
 ↰☀kramaRIyam,kramaRIyam,cikramizaRIyam-cikraMsanIyam,caNkramaRIyam;☼
@@ -5679,7 +5711,8 @@
 ↰☀krayaRIyam,krApaRIyam,cikrIzaRIyam,cekrIyaRIyam;☼
 ↱☀ krayyam-kreyam,krApyam,cikrIzyam,cekrIyyam;☼
 ↰☀IzatkayaH-duzkrayaH-sukrayaH;☼
-↰☀krIyamARaH,krApyamARaH,cikrIzyamARaH,cekrIyyamARaH;☼☀krayaH,☼☀nizkrayaH,☼☀avakrayaH,vikrayaH,krApaH,☼☀krItrimam,krApaH,cikrIzaH,cekrIyaH;☼
+↰☀krIyamARaH,krApyamARaH,cikrIzyamARaH,cekrIyyamARaH;☼
+↷☀krayaH,☼☀nizkrayaH,☼☀avakrayaH,vikrayaH,krApaH,☼☀krItrimam,krApaH,cikrIzaH,cekrIyaH;☼
 ↰☀kretum,krApayitum,cikrIzitum,cekrIyitum;☼
 ↰☀vikrItiH,krApaRA,cikrIzA,cekrIyA;☼
 ↰☀parikrayaRam,krApaRam,cikrIzaRam,cekrIyaRam;☼
@@ -5752,7 +5785,8 @@
 ↰☀kruYcan-ntI,kruYcayan-ntI,cukruYcizan-ntI;☼
 ↰☀kruYcizyan-ntI-tI,kruYcayizyan-ntI-tI,cukruYcizizyan-ntI-tI;☼
 ↰☀vyatikruYcamAnaH,kruYcayamAnaH,cokrucyamAnaH;☼
-↰☀vyatikruYcizyamARaH,kruYcayizyamARaH,cokrucizyamARaH;☼☀kruN-kruYcO-kruYcaH,☼☀kruYcA;☼
+↰☀vyatikruYcizyamARaH,kruYcayizyamARaH,cokrucizyamARaH;☼
+↷☀kruN-kruYcO-kruYcaH,☼☀kruYcA;☼
 ↱☀ krucitam-taH-tavAn,kruYcitaH,cukruYcizitaH,cokrucitaH-tavAn;☼
 ↰☀kruYcaH,kruYcaH,cukruYcizuH,cokruYcaH;☼
 ↰☀kruYcitavyam,kruYcayitavyam,cukruYcizitavyam,cokrucitavyam;☼
@@ -5919,7 +5953,8 @@
 
 ↰☀kledayamAnaH,kledayizyamARaH,ceklidyamAnaH,ceklidizyamARaH;☼
 ↰☀viklit-viklidO-viklidaH;☼
-↱☀ klinnam-klinnaH-klinnavAn,kleditaH-tam,ciklidizitaH-cikledizitaH-ciklitsitaH-cekliditaH-tavAn;☼☀klidaH,kledaH,ciklidizuH-cikledizuH-ciklitsuH,ceklidaH;☼
+↱☀ klinnam-klinnaH-klinnavAn,kleditaH-tam,ciklidizitaH-cikledizitaH-ciklitsitaH-cekliditaH-tavAn;☼
+↷☀klidaH,kledaH,ciklidizuH-cikledizuH-ciklitsuH,ceklidaH;☼
 ↰☀kleditavyam-klettavyam,kledayitavyam,ciklidizitavyam-cikledizi-tavyam-ciklitsitavyam,cekliditavyam;☼
 ↰☀kledanIyam,kledanIyam,ciklidizaRIyam-cikledizaRIyam-cikli-tsanIyam,ceklidanIyam;☼
 ↰☀kledyam,kledyam,ciklidizyam-cikledizyam-ciklitsyam,ceklidyam;☼
@@ -5978,7 +6013,8 @@
 ↰☀kleSaH,kleSaH,cikliSizaH-cikleSizaH-ciklikzaH,cekliSaH;☼
 ↰☀kleSitum-klezwum,kleSayitum,cikliSizitum-cikleSizitum-ciklikzitum,cekliSitum;☼
 ↰☀klizwiH,kleSanA,cikliSizA-cikleSizA-ciklikzA,cekliSA;☼
-↰☀kleSanam,kleSanam,cikliSizaRam-cikleSizaRam-ciklikzaRam,cekliSanam;☼☀kliSitvA-klizwvA,☼☀alaMkliSitvA,☼☀kleSayitvA,cikliSizitvA-cikleSizitvA-ciklikzitvA,cekliSitvA;☼
+↰☀kleSanam,kleSanam,cikliSizaRam-cikleSizaRam-ciklikzaRam,cekliSanam;☼
+↷☀kliSitvA-klizwvA,☼☀alaMkliSitvA,☼☀kleSayitvA,cikliSizitvA-cikleSizitvA-ciklikzitvA,cekliSitvA;☼
 ↰☀parikliSya,parikleSya,paricikliSizya-paricikli{??}Sizya-pariciklikzya,paricekliSya;☼
 
 
@@ -6232,7 +6268,8 @@
 ↰☀kzarizyan-ntI-tI,kzArayizyan-ntI-tI,cikzarizizyan-ntI-tI;☼
 ↰☀kzArayamARaH,kzArayizyamARaH,cAkzaryamARaH,cAkzarizyamARaH;☼
 ↰☀vikzaH-vikzarO-vikzaraH;☼
-↰☀kzaritam-taH,kzAritaH,cikzarizitaH,cAkzaritaH-tavAn;☼☀kzaraH,☼☀kzAraH-kzArI,☼☀kzAraH☼☀ kzaraRaH,☼☀akzaram,cikzarizuH,cAkzaraH;☼
+↰☀kzaritam-taH,kzAritaH,cikzarizitaH,cAkzaritaH-tavAn;☼
+↷☀kzaraH,☼☀kzAraH-kzArI,☼☀kzAraH,☼☀kzaraRaH,☼☀akzaram,cikzarizuH,cAkzaraH;☼
 ↰☀kzaritavyam,kzArayitavyam,cikzarizitavyam,cAkzaritavyam;☼
 ↰☀kzaraRIyam,kzAraRIyam,cikzarizaRIyam,cAkzaraRIyam;☼
 ↰☀kzAryam,kzAryam,cikzarizyam,cAkzaryam;☼
@@ -6283,7 +6320,8 @@
 ↰☀kzAyayamARaH,kzAyayizyamARaH,cekzIyamARaH,cekzIyizyamARaH;☼
 ↱☀ prakzit-prakzitO-prakzitaH,☼☀mahIkzit;☼
 ↱☀ kzitam-kzitaH-kzitavAn,☼☀kzIRaH-kzIRavAn,☼☀prakzIRaH-AkzIRaH;☼
-↰☀parikzIRaH,☼☀kzitAyuH-kzIRAyuH [vA Bava],kzIRaH kzito vA [tapasvI],kzAyitam-taH,cikzIzitaH,cekzIyitaH-tavAn;☼☀kzayaH,☼☀kzayI,☼☀kzayizRuH,kzAyaH,cikzIzuH,☼☀cekziyaH;☼
+↰☀parikzIRaH,☼☀kzitAyuH-kzIRAyuH [vA Bava],kzIRaH kzito vA [tapasvI],kzAyitam-taH,cikzIzitaH,cekzIyitaH-tavAn;☼
+↷☀kzayaH,☼☀kzayI,☼☀kzayizRuH,kzAyaH,cikzIzuH,☼☀cekziyaH;☼
 ↰☀kzetavyam,kzAyayitavyam,cikzIzitavyam,cekzIyitavyam;☼
 ↰☀kzayaRIyam,kzAyaRIyam,cikzIzaRIyam,cekzIyaRIyam;☼
 ↱☀ kzayyam-kzeyam,kzAyyam,cikzIzyam,cekzIyyam;☼
@@ -6358,7 +6396,7 @@
 ↰☀kzepayizyamARaH,cekzipizyamARaH;☼
 ↰☀prakzip-prakzipO-prakzipaH;☼
 ↰☀kziptam-taH-tavAn,kzepitaH,cikzipsitaH,cekzipitaH-tavAn;☼
-↰☀kzipaH,☼☀kzipakA,☼☀☼☀parikzepI,☼☀kzipRuH,☼☀☼☀parikzepakaH,kzepaH,cikzipsuH,cekzipaH;☼
+↰☀kzipaH,☼☀kzipakA,☼☀parikzepI,☼☀kzipRuH,☼☀parikzepakaH,kzepaH,cikzipsuH,cekzipaH;☼
 ↰☀kzeptavyam,kzepayitavyam,cikzipsitavyam,cekzipitavyam;☼
 ↰☀kzepaRIyam,kzepaRIyam,cikzipsanIyam,cekzipaRIyam;☼
 ↰☀kzepyam,kzepyam,cikzipsyam,cekzipyam;☼
@@ -6414,7 +6452,7 @@
 ↰☀kzIjayamARaH,kzIjayizyamARaH,cekzIjyamAnaH,cekzIjizyamARaH;☼
 ↱☀ prakzIk-prakzIjO-prakzIjaH;☼
 ↰☀kzIjitam-taH,kzIjitaH,cikzIjizitaH,cekzIjitaH-tavAn;☼
-↱☀ kzIjaH☼☀ kzIjanaH,kzIjaH,cikzIjizuH,cekzIjaH;☼
+↱☀ kzIjaH,☼☀kzIjanaH,kzIjaH,cikzIjizuH,cekzIjaH;☼
 ↰☀kzIjitavyam,kzIjayitavyam,cikzIjizitavyam,cekzIjitavyam;☼
 ↰☀kzIjanIyam,☼☀kzIjanIyam,cikzIjizaRIyam,cekzIjanIyam;☼
 ↰☀kzIjyam,kzIjyam,cikzIjizyam,cekzIjyam;☼
@@ -6521,7 +6559,7 @@
 ↰☀kzodDum,kzoDayitum,cukzutsitum,cokzuDitum;☼
 ↱☀ kzut-kzuDA,kzoDanA,cukzutsA,cokzuDA;☼
 ↰☀kzoDanam,kzoDanam,cukzutsanam,cokzuDanam;☼
-↱☀ kzuDitvA☼☀ kzoDitvA kzoDayitvA,cukzutsitvA,cokzuDitvA;☼
+↱☀ kzuDitvA,☼☀kzoDitvA kzoDayitvA,cukzutsitvA,cokzuDitvA;☼
 ↰☀saNkzuDya,prakzodDya,pracukzutsya,pracokzuDya;☼
 
 
@@ -6759,7 +6797,8 @@
 ↰☀KacitA-trI,KAcayitA-trI,ciKacizitA-trI,cAKacitA-trI;☼
 ↱☀ KacYan-tI,KAcayan-ntI,ciKacizan-ntI;☼
 ↰☀Kacizyan-ntI-tI,KAcayizyan-ntI-tI,ciKacizizyan-ntI-tI;☼
-↰☀KAcayamAnaH,KAcayizyamARaH,cAKacyamAnaH,cAKacizyamARaH;☼☀Kak-Kag-KacO-KacaH;☼
+↰☀KAcayamAnaH,KAcayizyamARaH,cAKacyamAnaH,cAKacizyamARaH;☼
+↷☀Kak-Kag-KacO-KacaH;☼
 ↱☀ Kacitam-taH,KAcitaH,ciKacizitaH,cAKacitaH-tavAn;☼
 ↰☀KacaH,KAcaH,ciKacizuH,cAKacaH;☼
 ↰☀Kacitavyam,KAcayitavyam,ciKacizitavyam,cAKacitavyam;☼
@@ -6949,7 +6988,8 @@
 ↰☀KazitA-trI,KAzayitA-trI,ciKazizitA-trI,cAKazitA-trI;☼
 ↰☀Kazan-ntI,KAzayan-ntI,ciKazizan-ntI;☼
 ↰☀Kazizyan-ntI-tI,KAzayizyan-ntI-tI,ciKazizizyan-ntI-tI;☼
-↰☀KAzayamARaH,KAzayizyamARaH,cAKazyamARaH,cAKazizyamARaH;☼☀Kaw-Kaq-KazO-KazaH;☼
+↰☀KAzayamARaH,KAzayizyamARaH,cAKazyamARaH,cAKazizyamARaH;☼
+↷☀Kaw-Kaq-KazO-KazaH;☼
 ↰☀Kazitam-taH,KAzitaH,ciKazizitaH,cAKazitaH-tavAn;☼
 ↰☀KazaH,☼☀surakAziKAzI,☼☀KAzaH,ciKazizuH,cAKazaH;☼
 ↰☀Kazitavyam,KAzayitavyam,ciKazizitavyam,cAKazitavyam;☼
@@ -7027,7 +7067,7 @@
 
 
 ⊥H_351∥
-↶☀ KindAnaH,☼☀KetsyamAnaH,KedaH;☼☀☼
+↶☀ KindAnaH,☼☀KetsyamAnaH,KedaH;☼
 
 
 
@@ -7110,7 +7150,8 @@
 ↱☀ AKAH,☼☀SattruKaH,☼☀KAyaH,KApaH,ciKAsuH,☼☀cAKAH;☼
 ↰☀KAtavyam,KApayitavyam,ciKAsitavyam,cAKAyitavyam;☼
 ↰☀KAnIyam,KApanIyam,ciKAsanIyam,cAKAyanIyam;☼
-↱☀ Keyam,KApyam,ciKAsyam,cAKAyyam;☼☀IzatKAnaH-duzKAnaH-suKAnaH;☼
+↱☀ Keyam,KApyam,ciKAsyam,cAKAyyam;☼
+↷☀IzatKAnaH-duzKAnaH-suKAnaH;☼
 ↰☀KAyamAnaH,KApyamAnaH,ciKAsyamAnaH,cAKAyyamAnaH;☼
 ↰☀KAyaH,KApaH,ciKAsaH,cAKAyaH;☼
 ↰☀KAtum,KApayitum,ciKAsitum,cAKAyitum;☼
@@ -7256,7 +7297,8 @@
 ↰☀gaRyamAnaH,jigaRayizyamARaH;☼
 ↰☀gaRaH,jigaRayizaH;☼
 ↰☀gaRayitum,jigaRayizitum;☼
-↰☀gaRanA,jigaRayizA;☼☀gaRanam,jigaRayizaRam;☼
+↰☀gaRanA,jigaRayizA;☼
+↷☀gaRanam,jigaRayizaRam;☼
 ↰☀gaRayitvA,jigaRayizitvA;☼
 ↱☀ vigaRayya,☼☀vijigaRayizya;☼
 
@@ -7324,7 +7366,7 @@
 ↱☀ gamizyan-ntI-tI,gamayizyan-ntI-tI,jigamizizyan-ntI-tI;☼
 ↱☀ saNgacCamAnaH,gamayamAnaH,☼☀AgamayamAnaH,☼☀saYjigaMsamAnaH,jaNgamyamAnaH;☼
 ↰☀saNgaMsyamAnaH,gamayizyamARaH,AgamayizyamARaH,saYjigaMsizyamARaH,jaNgamizyamARaH;☼
-↰☀aNgagat,☼☀mArgagat,agregUH,☼☀jagat☼☀ agregAH;☼
+↰☀aNgagat,☼☀mArgagat,agregUH,☼☀jagat,☼☀agregAH;☼
 ↱☀ gatam-gataH-pragataH-tavAn,☼☀antikAdAgataH-aByASAdAgataH-☼
 ↰☀dUrAdAgataH-viprakfzwAdAgataH,gamitaH,jigamizitaH,jaNgamitaH-tavAn;☼
 
@@ -7332,7 +7374,8 @@
 
 ↰☀gamaH,jigamizuH,☼☀jaNgamaH;☼
 ↰☀gantavyam,gamayitavyam,jigamizitavyam,jaNgamitavyam;☼
-↱☀ pragamanIyam,☼☀pragamanIyam,jigamizaRIyam,jaNgamanIyam;☼☀gamyam,gamyam,jigamizyam,jaNgamyam;☼
+↱☀ pragamanIyam,☼☀pragamanIyam,jigamizaRIyam,jaNgamanIyam;☼
+↷☀gamyam,gamyam,jigamizyam,jaNgamyam;☼
 ↰☀IzadgamaH-durgamaH-duraDigamaH-sugamaH;☼
 ↰☀gamyamAnaH,gamyamAnaH,jigaMsyamAnaH,jaNgamyamAnaH;☼
 ↱☀ gamaH,☼☀ekAhagamaH,☼☀nigamaH,☼☀aBigamaH,☼☀AgamaH,gamaH,jigamizaH,jaNgamaH;☼
@@ -7486,7 +7529,8 @@
 ↰☀galizyan-ntI-tI,gAlayizyan-ntI-tI,jigalizizyan-ntI-tI;☼
 ↰☀jAgalyamAnaH,jAgalizyamARaH;☼
 ↰☀sugal-sugalO-sugalaH;☼
-↰☀galitam-taH-tavAn,gAlitaH,jigalizitaH,jAgalitaH-tavAn;☼☀galaH,☼☀nigalaH,☼☀☼☀sugAlI,gAlaH,jigalizuH,jAgalaH;☼
+↰☀galitam-taH-tavAn,gAlitaH,jigalizitaH,jAgalitaH-tavAn;☼
+↷☀galaH,☼☀nigalaH,☼☀sugAlI,gAlaH,jigalizuH,jAgalaH;☼
 ↰☀galitavyam,gAlayitavyam,jigalizitavyam,jAgalitavyam;☼
 ↰☀galanIyam,gAlanIyam,jigalizaRIyam,jAgalanIyam;☼
 ↰☀gAlyam,gAlyam,jigalizyam,jAgalyam;☼
@@ -7503,7 +7547,8 @@
 
 ⊥H_388∥
 ⊕☀ gAlakaH-likA,☼☀jigAlayizakaH-zikA;☼
-↰☀gAlayitA-trI,jigAlayizitA-trI;☼☀gAlayamAnaH,jigAlayizamARaH;☼
+↰☀gAlayitA-trI,jigAlayizitA-trI;☼
+↷☀gAlayamAnaH,jigAlayizamARaH;☼
 ↰☀gAlayizyamARaH,jigAlayizizyamARaH;☼
 ↰☀sugAl-sugAlO-sugAlaH;☼
 ↰☀gAlitam-taH-tavAn,jigAlayizitaH-tavAn;☼
@@ -7567,7 +7612,8 @@
 ↱☀ gItam-taH-tavAn,gApitaH,jigAsitaH,jegIyitaH-tavAn;☼
 ↱☀ gAyaH,☼☀devagaH,☼☀pragaH,☼☀sugAvA,sugAmA,gApaH,jigAsuH,☼☀jAgaH;☼
 ↰☀gAtavyam,gApayitavyam,jigAsitavyam,jegIyitavyam;☼
-↰☀gAnIyam,gApanIyam,jigAsanIyam,jegIyanIyam;☼☀geyam,gApyam,jigAsyam,jegIyyam;☼
+↰☀gAnIyam,gApanIyam,jigAsanIyam,jegIyanIyam;☼
+↷☀geyam,gApyam,jigAsyam,jegIyyam;☼
 ↱☀ IzadgAnaH-durgAnaH-sugAnaH;☼
 ↰☀gIyamAnaH,gApyamAnaH,jigAsyamAnaH,jegIyyamAnaH;☼
 ↰☀gAyaH,gApaH,jigAsaH,jegIyaH;☼
@@ -7901,7 +7947,7 @@
 
 ↰☀prajugupsya,prajogupya;☼
 
-↰☀jugopAyizam_2-☼☀jugopizam_2,-☼☀jugupizam_2-☼☀jugupsam-_2,☼☀jogupam_2;☼
+↰☀jugopAyizam_2-jugopizam_2,-jugupizam_2-jugupsam-_2,☼☀jogupam_2;☼
 
 
 
@@ -7990,7 +8036,8 @@
 ↰☀IzadgUrvaH-durgUrvaH-sugUrvaH;☼
 ↰☀gUrvyamARaH,gUrvyamARaH,jugUrvizyamARaH,jogUrvyamARaH;☼
 ↰☀gUrvaH,gUrvaH,jugUrvizaH,jogUrvaH;☼
-↰☀gUrvitum,gUrvayitum,jugUrvizitum,jogUrvitum;☼☀gUrvA,gUrvaRA,jugUrvizA,jogUrvA;☼
+↰☀gUrvitum,gUrvayitum,jugUrvizitum,jogUrvitum;☼
+↷☀gUrvA,gUrvaRA,jugUrvizA,jogUrvA;☼
 ↱☀ gUrvaRam,gUrvaRam,jugUrvizaRam,jogUrvaRam;☼
 ↰☀gUrvitvA,gUrvayitva,jugUrvizitvA,jogUrvitvA;☼
 ↰☀pragUrvya,pragUrvya,prajugUrvizya,prajogUrvya;☼
@@ -8245,14 +8292,16 @@
 ↰☀garizyan-galizyan-garIzyan-galIzyan-ntI-tI,gArayizyan-gAlayizyan-ntI-tI,jigarizizyan-jigalizizyan-ntI-tI;☼
 ↱☀ avagiramARaH-saMgiramARaH,☼☀avagilamAnaH-saMgilamAnaH,☼☀avajigarizamARaH,-avajigalizamARaH,☼
 
-↰☀saYjigarizyamARaH,saYjigalizyamARaH,☼☀jegilyamAnaH,jegilizyamARaH;☼☀gIH-girO-giraH;☼
+↰☀saYjigarizyamARaH,saYjigalizyamARaH,☼☀jegilyamAnaH,jegilizyamARaH;☼
+↷☀gIH-girO-giraH;☼
 ↱☀ gIrRaH-gIrRam-gIrRavAn,gAritaH-gAlitaH,jigarizitaH-jigalizitaH,jegiritaH-jegilitaH,tavAn;☼
 ↱☀ garaH,galaH,☼☀ajagaraH,mudgaraH,☼☀timiNgilaH-gilagilaH,gAraH,gAlaH,☼☀jigarizuH-jigalizuH,jegiraH-jegilaH;☼
 ↰☀garitavyam-garItavyam,galitavyam-galItavyam,gArayitavyam-gAlayitavyam,jigarizitavyam-jigalizitavyam,jegiritavyam-jegilitavyam;☼
 ↰☀garaRIyam-galanIyam,gAraRIyam-gAlanIyam,jigarizaRIyam-jigalizaRIyam,jegiraRIyam-jegilanIyam;☼
 ↱☀ gAryam,gAryam-gAlyam,jigarizyam-jigalizyam,jegiryam-jegilyam;☼
 ↰☀IzadgaraH-IzadgalaH-durgaraH-durgalaH-sugaraH,-sugalaH;☼
-↱☀ gIryamARaH,gAryamARaH-gAlyamAnaH,jigarizyamARaH-jigalizyamARaH,jegIryamARaH;☼☀garaH,galaH,☼☀udgAraH-nigAraH,nigAlaH,jigarizaH-jigalizaH,jegiraH-jegilaH;☼
+↱☀ gIryamARaH,gAryamARaH-gAlyamAnaH,jigarizyamARaH-jigalizyamARaH,jegIryamARaH;☼
+↷☀garaH,galaH,☼☀udgAraH-nigAraH,nigAlaH,jigarizaH-jigalizaH,jegiraH-jegilaH;☼
 ↰☀garitum-garItum,galitum-galItum,gArayitum-gAlayitum,jigarizitum-jigalizitum,jegiritum-jegilitum;☼
 ↱☀ gIrRiH,gAraRA-gAlanA,jigarizA-jigalizA,jegirA-jegilA;☼
 ↰☀nigaraRam-giraRam-nigalanam,gAraRam-gAlanam,jigarizaRam-jigalizaRam;jegiraRam-jegilanam;☼
@@ -8498,7 +8547,8 @@
 ↱☀ grAsayan-ntI,jigrAsayizan-ntI;☼
 ↰☀grAsayizyan-ntI-tI,jigrAsayizizyan-ntI-tI;☼
 ↰☀grAsayamAnaH,jigrAsayizamARaH;☼
-↰☀grAsayizyamARaH,jigrAsayizizyamARaH;☼☀vigrAH-vigrAsO-vigrAsaH;☼
+↰☀grAsayizyamARaH,jigrAsayizizyamARaH;☼
+↷☀vigrAH-vigrAsO-vigrAsaH;☼
 ↰☀grAsitam-taH,jigrAsayizitaH-tavAn;☼
 
 ↰☀grAsayitavyam,jigrAsayizitavyam;☼
@@ -8551,7 +8601,8 @@
 ↰☀gfhRAnaH,grAhayamARaH,jiGfkzamARaH,jarIgfhyamARaH;☼
 ↰☀grahIzyamARaH,grAhayizyamARaH,jiGfkzizyamARaH,jarIgfhizyamARaH;☼
 ↱☀ viGfw-viGfq-vigfhO-vigfhaH;☼
-↱☀ gfhItam-taH,☼☀pARigfhItI-pARigfhItA,grAhitaH,jiGfkzitaH,jarIgfhitaH-tavAn;☼☀grAhI,☼☀guRagrAhI,☼☀grAhaH-grahaH,☼☀gfham-gfhAH,☼☀SaktigrahaH,☼
+↱☀ gfhItam-taH,☼☀pARigfhItI-pARigfhItA,grAhitaH,jiGfkzitaH,jarIgfhitaH-tavAn;☼
+↷☀grAhI,☼☀guRagrAhI,☼☀grAhaH-grahaH,☼☀gfham-gfhAH,☼☀SaktigrahaH,☼
 ↰☀lANgalagrahaH,aNkuSagrahaH,yazwigrahaH,tomaragrahaH,GawagrahaH,GawI grahaH GanurgrahaH,☼☀sUtragrahaH,☼☀PalegrahiH,☼☀grAhaH,☼☀jiGfkzuH,☼☀vijigrAhayizuH,jarIgfhaH;☼
 ↰☀grahItavyam,grAhayitavyam,jiGfkzitavyam,jarIgfhitavyam;☼
 ↰☀grahaRIyam,grAhaRIyam,jiGfkzaRIyam,jarIgfhaRIyam;☼
@@ -8712,7 +8763,7 @@
 ↰☀glapayizyamARaH-glApayizyamARaH,jAglAyizyamARaH;☼
 ↰☀suglAH-suglO-suglAH;☼
 ↱☀ glAnaH-glAnam-glAnavAn,☼☀glapitaH-glApitaH,jiglAsitaH,jAglAyitaH-tavAn;☼
-↱☀ suglaH,praglaH,☼☀☼☀glAyaH,☼☀glAsnuH☼☀ glapaH-glApaH,jiglAsuH,☼☀jAglaH;☼
+↱☀ suglaH,praglaH,☼☀glAyaH,☼☀glAsnuH,☼☀glapaH-glApaH,jiglAsuH,☼☀jAglaH;☼
 ↰☀glAtavyam,glapayitavyam-glApayitavyam,jiglAsitavyam,jAglAyitavyam;☼
 ↱☀ praRiglAnIyam-praniglAnIyam,glapanIyam-glApanIyam,jiglAsanIyam,jAglAyanIyam;☼
 ↱☀ gleyam,glapyam-glApyam,jiglAsyam,jAglAyyam;☼
@@ -8869,7 +8920,8 @@
 ↰☀GoRanIyam,GoRanIyam,juGuRizaRIyam-juGoRizaRIyam,joGuRanIyam;☼
 ↰☀GoRyam,GoRyam,juGuRizyam-juGoRizyam,joGuRyam;☼
 ↰☀IzadGoRaH-durGoRaH-suGoRaH;☼
-↰☀GuRyamAnaH,GoRyamAnaH,juGuRizyamARaH-juGoRizyamARaH,joGuRyamAnaH;☼☀GoRaH-GoRA,☼☀GoRaH,juGuRizaH-juGoRizaH,joGuRaH;☼
+↰☀GuRyamAnaH,GoRyamAnaH,juGuRizyamARaH-juGoRizyamARaH,joGuRyamAnaH;☼
+↷☀GoRaH-GoRA,☼☀GoRaH,juGuRizaH-juGoRizaH,joGuRaH;☼
 ↰☀GoRitum,GoRayitum,juGuRizitum-juGoRizitum,joGuRitum;☼
 ↱☀ GuRitiH,GoRanA,juGuRizA-juGoRizA,joGuRA;☼
 ↰☀GoRanam,GoRanam,juGuRizaRam-juGoRizaRam,joGuRanam;☼
@@ -9094,7 +9146,7 @@
 ↰☀GrApayamARaH,GrApayizyamARaH,jeGrIyamARaH,jeGrIyizyamARaH;☼
 ↰☀saMGrAH-saMGrO-saMGrAH;☼
 ↱☀ GrARaH-GrARam-GrARavAn,GrAtaH,-tam-tavAn,GrApitaH,jiGrAsitaH,jeGrIyitaH-tavAn;☼
-↱☀ vyAGraH-vyAGrI,☼☀AjiGraH,☼☀☼☀GrAyaH,☼☀puzpasaNGrAyaH,GrApaH,jiGrAsuH,☼☀jAGrAH;☼
+↱☀ vyAGraH-vyAGrI,☼☀AjiGraH,☼☀GrAyaH,☼☀puzpasaNGrAyaH,GrApaH,jiGrAsuH,☼☀jAGrAH;☼
 ↰☀GrAtavyam,GrApayitavyam,jiGrAsitavyam,jeGrIyitavyam;☼
 ↰☀GrARIyam,GrApaRIyam,jiGrAsanIyam,jeGrIyaRIyam;☼
 ↱☀ GreyaH,AGreyaH,GrApyam,jiGrAsyam,jeGrIyyam;☼
@@ -9171,7 +9223,7 @@
 
 ⊥H_487∥
 
-⊕☀☼
+⊕
 ↰☀ KyAyakaH-yikA-kSAyakaH-yikA,☼☀KyApakaH-pikA,kSApakaH-pikA,☼☀ciKyAsakaH-sikA,cikSAsakaH-sikA,cAKyAyakaH-yikA,cAkSAyakaH-yikA;☼
 ↰☀KyAtA-kSAtA-trI,KyApayitA-kSApayitA-trI,ciKyAsitA-cikSAsitA-trI cAKyAyitA-cAkSAyitA-trI;☼
 ↰☀KyApayan-kSApayan-ntI,☼☀ciKyAsan-cikSAsan-ntI;,☼
@@ -9459,7 +9511,7 @@
 ↰☀caritA-trI,cArayitA-trI,cicarizitA-trI,caYcuritA-trI;☼
 ↰☀caran-ntI,☼☀cArayan-ntI,cicarizan-ntI;☼
 ↰☀carizyan-ntI-tI,cArayizyan-ntI-tI,cicarizizyan-ntI-tI;☼
-↱☀ [guruvacanaM]☼☀ uccaramARaH,☼☀[raTena]☼☀ saYcaramARaH,cArayamARaH,☼☀[guruvacanaM] uccicarizamARaH,☼☀[hayena] saYcicarizamARaH,☼☀caYcUryamARaH;☼☀☼
+↱☀ [guruvacanaM],☼☀uccaramARaH,☼☀[raTena]☼☀ saYcaramARaH,cArayamARaH,☼☀[guruvacanaM] uccicarizamARaH,☼☀[hayena] saYcicarizamARaH,☼☀caYcUryamARaH;☼
 ↰☀uccarizyamARaH,saYcarizyamARaH,cArayizyamARaH,uccicarizizyamARaH;☼
 ↰☀saYcicarizizyamARaH,caYcurizyamARaH;☼
 ↱☀ grAmacaH-grAmacarO-grAmacaraH;☼
@@ -9641,7 +9693,8 @@
 ↰☀IzaccahaH-duScahaH-sucahaH;☼
 ↰☀cahyamAnaH;cAhyamAnaH,cicahizyamARaH,cAcahyamAnaH;☼
 ↱☀ cAhaH,cAhaH,cicahizaH,cAcahaH;☼
-↰☀cahitum,cAhayitum,cicahizitum;cAcahitum;☼☀cAQiH,cAhanA,cicahizA,cAcahA;☼
+↰☀cahitum,cAhayitum,cicahizitum;cAcahitum;☼
+↷☀cAQiH,cAhanA,cicahizA,cAcahA;☼
 ↰☀cahanam,cAhanam,cicahizaRam,cAcahanam;☼
 ↰☀cahitvA,cAhayitvA,cicahizitvA,cAcahitvA;☼
 ↰☀pracahya,pracAhya,pracicahizya,pracAcahya;☼
@@ -9847,7 +9900,8 @@
 
 
 
-↰☀cetakaH-tikA,cicetayizakaH-zikA;cetayitA-trI,cicetayizitA-trI;☼☀cetayamAnaH,☼☀cicetayizamARaH;cetayizyamARaH,cicetayizizyamARaH;☼
+↰☀cetakaH-tikA,cicetayizakaH-zikA;cetayitA-trI,cicetayizitA-trI;☼
+↷☀cetayamAnaH,☼☀cicetayizamARaH;cetayizyamARaH,cicetayizizyamARaH;☼
 ↰☀cet-cetO-cetaH;☼
 ↰☀cetitam-taH,cicetayizitaH-tavAn;cetaH,☼☀cetayaH,☼☀cetanaH,cicetayizuH;☼
 ↰☀cetayitavyam,cicetayizitavyam;cetanIyam,cicetayizaRIyam;cetyam,☼
@@ -9912,7 +9966,8 @@
 ⊥H_525∥
 
 
-↰☀citrakaH-trikA,cicitrayizakaH-zikA;citrayitA-trI,cicitrayizitA-trI;☼☀citrayan-ntI,cicitrayizan-ntI;citrayizyan-ntI-tI,☼
+↰☀citrakaH-trikA,cicitrayizakaH-zikA;citrayitA-trI,cicitrayizitA-trI;☼
+↷☀citrayan-ntI,cicitrayizan-ntI;citrayizyan-ntI-tI,☼
 ↰☀cicitrayizizyan-ntI-tI;citrayamARaH,cicitrayizamARaH;citrayizyamARaH,☼
 ↰☀cicitrayizizyamARaH;☼
 ↱☀ cit-citrO-citraH;☼
@@ -9932,7 +9987,8 @@
 
 
 
-↰☀ cirAyakaH-yikA,cirAyakaH-yikA,☼☀cicirayizakaH-zikA;☼☀cirayitA-trI,cirAyayitA-trI,cicirayizitA-trI;☼
+↰☀ cirAyakaH-yikA,cirAyakaH-yikA,☼☀cicirayizakaH-zikA;☼
+↷☀cirayitA-trI,cirAyayitA-trI,cicirayizitA-trI;☼
 ↱☀ cirRivan-tI,cirAyayan-ntI,cicirayizan-ntI;☼
 ↰☀cirayizyan-ntI-tI,cirAyayizizyan-ntI-tI,cicirayizizyan-ntI-tI;☼
 ↰☀cirAyayamARaH,cirAyayizizyamARaH;☼
@@ -10072,7 +10128,8 @@
 ↰☀IzaccucyaH-duScucyaH-sucucyaH;☼
 ↰☀cucyyamAnaH-cucyamAnaH,cucyamAnaH,cucucyizyamARaH,cocucyyamAnaH;☼
 ↰☀cucyaH,cucyaH,cucucyizaH,cocucyaH;☼
-↰☀cucyitum,cucyayitum,cucucyizitum,cocucyitum;☼☀cucyA,cucyanA,cucucyizA,cocucyA;☼
+↰☀cucyitum,cucyayitum,cucucyizitum,cocucyitum;☼
+↷☀cucyA,cucyanA,cucucyizA,cocucyA;☼
 ↰☀cucyanam,cucyanam,cucucyizaRam,cocucyanam;☼
 ↰☀cucyitvA,cucyayitvA,cucucyizitvA,cocucyitvA;☼
 ↰☀pracucyya-pracucya,pracucya,pracucucyizya,pracocucya;☼
@@ -10338,7 +10395,8 @@
 ↰☀cyozyamARaH,cyAvayizyamARaH,cucyUzizyamARaH,cocyUyizyamARaH,cucyAvayizizyamARaH-cicyAvayizizyamARaH;☼
 ↱☀ pracyut-pracyutO-pracyutaH;☼
 
-↰☀cucyAvayizitaH-cicyAvayizitaH-tavAn;☼☀cyavaH,☼☀cyavanaH,cyAvaH,cucyUzuH,☼☀cocyuvaH,cucyAvayizuH-cicyAvayizuH;☼
+↰☀cucyAvayizitaH-cicyAvayizitaH-tavAn;☼
+↷☀cyavaH,☼☀cyavanaH,cyAvaH,cucyUzuH,☼☀cocyuvaH,cucyAvayizuH-cicyAvayizuH;☼
 ↰☀cyotavyam,cyAvayitavyam,cucyUzitavyam,cocyUyitavyam,cucyAvayizitavyam-cicyAvayizitavyam;☼
 ↰☀cyavanIyam,cyAvanIyam,cucyUzaRIyam,cocyUyanIyam,cucyAvayiza-RIyam-cicyAvayizaRIyam;☼
 ↱☀ cyavyam-avaSyacyAvyam,cyAvyam,cucyUzyam,cocyUyyam,cucyAvayizyam-cicyAvayizyam;☼
@@ -10404,7 +10462,8 @@
 ↰☀CAdayizyan-ntI-tI,cicCAdayizizyan-ntI-tI,Cadizyan-ntI-tI,cicCa-dizizyan-ntI-tI,Cadayizizyan-ntI-tI;☼
 ↰☀CAdayamAnaH,cicCAdayizamARaH;☼
 ↱☀ CadamAnaH,cicCadizamARaH,cAcCadyamAnaH,CadayamAnaH;☼
-↰☀CAdayizyamARaH,cicCAdayizizyamARaH,CadizyamARaH,cicCadizizyamARaH,cAcCadizyamARaH,CadayizizyamARaH;☼☀tanucCat-tanucCadO-tanucCadaH;☼
+↰☀CAdayizyamARaH,cicCAdayizizyamARaH,CadizyamARaH,cicCadizizyamARaH,cAcCadizyamARaH,CadayizizyamARaH;☼
+↷☀tanucCat-tanucCadO-tanucCadaH;☼
 ↱☀ Cannam-CannaH-CAditaH-tam,cicCAdayizitaH,CaditaH-tam,cicCadizitaH,cAcCaditaH,☼☀CaditaH-tavAn;☼
 ↰☀CAdaH,cicCAdayizuH,CadaH,cicCadizuH,cAcCadaH,CadaH;☼
 ↰☀CAdayitavyam,cicCAdayizitavyam,Caditavyam,cicCadizitavyam,cAcCaditavyam,Cadayitavyam;☼
@@ -10472,7 +10531,7 @@
 ↰☀CetsyamAnaH,cedayizyamARaH,cicCitsizyamARaH,ceccidizyamARaH;☼
 ↱☀ rajjucCit-rajjucCidO-rajjucCidaH,☼☀SokacCit;☼
 ↱☀ Cinnam-CinnaH-CinnavAn,CeditaH,cicCitsitaH,cecCiditaH-tavAn;☼
-↱☀ CidaH,☼☀CiduraH,☼☀☼☀cicCidvAn,CedaH,cicCitsuH,cecCidaH;☼
+↱☀ CidaH,☼☀CiduraH,☼☀cicCidvAn,CedaH,cicCitsuH,cecCidaH;☼
 ↰☀Cettavyam,Cedayitavyam,cicCitsitavyam,cecCiditavyam;☼
 ↰☀CedanIyam,CedanIyam,cicCitsanIyam,cecCidanIyam;☼
 ↰☀Cedyam,☼☀CidelimaH [jIrRarajjuH],Cedyam,cicCitsyam,cecCidyam;☼
@@ -10666,7 +10725,8 @@
 ↱☀ jAyamAnaH,jijanizamARaH,jaYjanyamAnaH-jAjAyamAnaH;☼
 ↰☀janizyamARaH,jijanizizyamARaH,jaYjanizyamARaH-jAjAyizyamARaH;☼
 ↱☀ prajA-prajAnO-prajAnaH;☼
-↱☀ jAtam-jAtaH-jAtavAn,janitaH,jijanizitaH,jaYjanitaH-jAjAyitaH-tavAn;☼☀janaH,☼☀prajanizRuH,☼☀jajYiH,☼☀vijAvA-vijAvAnO-vijAvAnaH,☼
+↱☀ jAtam-jAtaH-jAtavAn,janitaH,jijanizitaH,jaYjanitaH-jAjAyitaH-tavAn;☼
+↷☀janaH,☼☀prajanizRuH,☼☀jajYiH,☼☀vijAvA-vijAvAnO-vijAvAnaH,☼
 
 
 
@@ -10840,7 +10900,7 @@
 ↰☀jAsayizyamARaH,jijAsayizizyamARaH,jAjasizyamARaH;☼
 ↱☀ ujjAH-ujjAsO-ujjAsaH;☼
 ↰☀jAsitaH,jijAsayizitaH,☼☀jastaM-taH,jijasizitaH,jAjasitaH-tavAn;☼
-↰☀jAsaH☼☀ asurajAsI,jijAsayizuH,jasaH,jijasizuH,jAjasaH;☼
+↰☀jAsaH,☼☀asurajAsI,jijAsayizuH,jasaH,jijasizuH,jAjasaH;☼
 ↰☀jAsayitavyam,jijAsayizitavyam,jasitavyam,jijasizitavyam,jAjasitavyam;☼
 ↰☀jAsanIyam,jijAsayizaRIyam,jasanIyam,jijasizaRIyam,jAjasanIyam;☼
 ↰☀jAsyam,jijAsayizyam,jAsyam,jijasizyam,jAjasyam;☼
@@ -10871,7 +10931,7 @@
 ↰☀jAgarizyan-ntI-tI,jAgarayizyan-ntI-tI,jijAgarizizyan-ntI-tI;☼
 ↱☀ jAgaH-jAgarO-jAgaraH,jAgft-jAgftO-jAgftaH;☼
 ↰☀jAgaritam-taH,jAgaritaH,jijAgarizitaH-tavAn;☼
-↰☀jAgaraH,☼☀sADujAgarI,☼☀jAgarUkaH,☼☀☼☀jajAgarvAn-jajAgfvAn,☼☀jajAgrARaH,jajAgaraRaH,jijAgarizuH;☼
+↰☀jAgaraH,☼☀sADujAgarI,☼☀jAgarUkaH,☼☀jajAgarvAn-jajAgfvAn,☼☀jajAgrARaH,jajAgaraRaH,jijAgarizuH;☼
 ↰☀jAgaritavyam,jAgarayitavyam,jijAgarizitavyam;☼
 ↰☀jAgaraRIyam,jAgaraRIyam,jijAgarizaRIyam;☼
 ↱☀ jAgaryam,jAgaryam,jijAgarizyam;☼
@@ -10939,7 +10999,8 @@
 ↰☀jemizyan-ntI-tI,jemayizyan-ntI-tI,jijemizizyan-jijimizizyan-ntI-tI;☼
 ↱☀ vyatijemamAnaH,vyatijemizyamARaH,jemayamAnaH,jemayizyamARaH,jejimyamAnaH,jejimizyamARaH;☼
 ↱☀ prajIn-prajImO-prajImaH;☼
-↰☀jimitam-taH,jemitaH,jijemizitaH-jijimizitaH jejimitaH-tavAn;☼☀jimaH,jemaH,jijemizuH-jijimizuH,jejimaH;☼
+↰☀jimitam-taH,jemitaH,jijemizitaH-jijimizitaH jejimitaH-tavAn;☼
+↷☀jimaH,jemaH,jijemizuH-jijimizuH,jejimaH;☼
 ↰☀jemitavyam,jemayitavyam,jijemizitavyam-jijimizitavyam-jejimitavyam;☼
 ↰☀jemanIyam,jemanIyam,jijemizaRIyam-jijimizaRIyam-jejimanIyam;☼
 ↰☀jemyam,jemyam,jijemizyam-jijimizyam,jejimyam;☼
@@ -11008,7 +11069,7 @@
 ↰☀jIvyamAnaH,jIvyamAnaH,jijIvizyamARaH,jejIvyamAnaH;☼
 ↰☀jIvaH,jIvaH,jijIvizaH,jejIvaH;☼
 ↰☀jIvitum,jIvayitum,jijIvizitum,jejIvitum;☼
-↰☀jyUtiH,☼☀ajIvaniH,☼☀☼☀jIvikA,jIvanA,jijIvizA,jejIvA;☼
+↰☀jyUtiH,☼☀ajIvaniH,☼☀jIvikA,jIvanA,jijIvizA,jejIvA;☼
 ↱☀ jIvanam,jIvanam,jijIvizaRam,jejIvamam;☼
 ↰☀jIvitvA,jIvayitvA,jijIvizitvA,jejIvitvA;☼
 ↰☀saYjIvya,saYjIvya,saYjijIvizya,saYjejIvya;☼
@@ -11027,7 +11088,8 @@
 ↰☀jAvakaH-vikA,jAvakaH-vikA,☼☀jijAvayizkaH,☼☀jujUzakaH-zikA,☼☀jojUyakaH-yikA;☼
 ↱☀ jotA-trI,jAvayitA-trI,jijAvayizitA-trI,jujUzitA-trI,jojUyitA-trI;☼
 ↰☀javan-ntI,jAvayan-ntI,jijAvayizan-ntI,jujUzan-ntI;☼
-↰☀jozyan,jAvayizyan-ntI-tI,jijAvayizizyan-ntI-tI,jujUzizyan-ntI-tI;☼☀javamAnaH,jAvayamAnaH,jijAvayizamARaH,jojUyamAnaH;☼
+↰☀jozyan,jAvayizyan-ntI-tI,jijAvayizizyan-ntI-tI,jujUzizyan-ntI-tI;☼
+↷☀javamAnaH,jAvayamAnaH,jijAvayizamARaH,jojUyamAnaH;☼
 ↰☀jozyamARaH,jAvayizyamARaH,jijAvayizizyamARaH,jojUyizyamARaH;☼
 ↱☀ jUH-juvO-juvaH;☼
 ↰☀jutam-jutaH-jutavAn,jAvitaH,jijAvayizitaH,jujUzitaH,jojUyitaH-tavAn;☼
@@ -11316,14 +11378,15 @@
 ↰☀uktasyoktiH,‘RicaSce’ (☼1☀-☼3☀-☼74☀) tyuditavihataye;jYApayet—☼
 
 ↰☀psikA,☼☀jijYAsakaH-sikA,☼☀jAjYAyakaH-yikA;☼
-↰☀jYAtA-trI,jYApayitA-jYapayitA-trI,jijYapayizitA-jYIpsitA-trI,jijYAsitA-trI,jAjYAyitA-trI;☼☀jAnan-tI,[mAtuH]☼☀ saYjAnan,[pituH] pratijAnan,[svAM gAM]☼☀ jAnan,☼
-↰☀jYApayan-jYapayan-ntI,jijYapayizan-jYIpsan-ntI,[putraM]☼☀ anujijYAsan-ntI;☼
+↰☀jYAtA-trI,jYApayitA-jYapayitA-trI,jijYapayizitA-jYIpsitA-trI,jijYAsitA-trI,jAjYAyitA-trI;☼
+↷☀jAnan-tI,[mAtuH]☼☀ saYjAnan,[pituH] pratijAnan,[svAM gAM]☼☀ jAnan,☼
+↰☀jYApayan-jYapayan-ntI,jijYapayizan-jYIpsan-ntI,[putraM],☼☀anujijYAsan-ntI;☼
 
 ↰☀jYIpsizyan-ntI-tI,[putraM] anujijYAsizyan-ntI-tI;☼
 
 
 
-↰☀pratijijYAsamAnaH,[OzaDasya]☼☀ anujijYAsamAnaH,jAjAyamAnaH;☼
+↰☀pratijijYAsamAnaH,[OzaDasya],☼☀anujijYAsamAnaH,jAjAyamAnaH;☼
 ↱☀ [SataM] apajYAsyamAnaH,jYApayizyamARaH-jYapayizyamARaH,jijYapayizizyamARaH-☼
 ↰☀jYIpsizyamARaH,[SataM] apajijYAsizyamARaH,jAjYAyizyamARaH;☼
 ↱☀ sujYAH-sujYO-sujYaH;☼
@@ -11359,7 +11422,7 @@
 
 
 
-↰☀AjijYApayizam_2 ☼☀jijYApayizitvA_2;☼
+↰☀AjijYApayizam_2,☼☀jijYApayizitvA_2;☼
 
 
 ⊥H_627∥
@@ -11371,7 +11434,8 @@
 ↰☀jyApayamAnaH,jejIyamAnaH;☼
 ↰☀jyApayizyamARaH,jejIyizyamARaH;☼
 ↱☀ prajIH-prajyO-prajyaH;☼
-↱☀ jInam-jInaH-jInavAn,jyApitaH,jijyAsitaH,jejIyitaH-tavAn;☼☀brahmajyaH,prajyaH,☼☀jyAyaH,jyApaH,jijyAsuH,☼☀jejyaH;☼
+↱☀ jInam-jInaH-jInavAn,jyApitaH,jijyAsitaH,jejIyitaH-tavAn;☼
+↷☀brahmajyaH,prajyaH,☼☀jyAyaH,jyApaH,jijyAsuH,☼☀jejyaH;☼
 ↰☀jyAtavyam,jyApayitavyam,jijyAsitavyam,jejIyitavyam;☼
 ↰☀jyAnIyam,jyApanIyam,jijyAsanIyam,jejIyanIyam;☼
 ↱☀ jyeyam,jyApyam,jijyAsyam,jejIyyam;☼
@@ -11436,7 +11500,8 @@
 ↰☀IzajjvaraH-durjvaraH-sujvaraH;☼
 ↰☀jvaryamARaH,jvaryamARaH,jijvarizyamARaH,jAjvaryamARaH;☼
 ↰☀jvAraH,jvaraH,jijvarizaH,jAjvaraH;☼
-↰☀jvaritum,jvarayitum,jijvarizitum,jAjvaritum;☼☀jUrtiH,☼☀jvaraRA,jijvarizA,jAjvarA;☼
+↰☀jvaritum,jvarayitum,jijvarizitum,jAjvaritum;☼
+↷☀jUrtiH,☼☀jvaraRA,jijvarizA,jAjvarA;☼
 ↰☀jvaraRam,jvaraRam,jijvarizaRam,jAjvaraRam;☼
 ↰☀jvaritvA,jvarayitvA,jijvarizitvA,jAjvaritvA;☼
 ↰☀prajvarya,☼☀prajvarayya,prajijvarizya,prajAjvarya;☼
@@ -11787,7 +11852,8 @@
 ↰☀naman-ntI,namayan-nAmayan-praRamayan-ntI,☼☀unnAmayan,ninaMsan-ntI;☼
 ↰☀naMsyan-ntI-tI,namayizyan-nAmayizyan-praRamayizyan-ntI-tI,ninaMsizyan-ntI-tI;☼
 ↰☀namayamAnaH-nAmayamAnaH-praRamayamAnaH,naMnamyamAnaH;☼
-↰☀namayizyamARaH-nAmayizyamARaH-praRamayizyamARaH,naMnamizyamARaH;☼☀praRAn-praRAmO-praRAmaH;☼
+↰☀namayizyamARaH-nAmayizyamARaH-praRamayizyamARaH,naMnamizyamARaH;☼
+↷☀praRAn-praRAmO-praRAmaH;☼
 ↱☀ natam-nataH-natavAn,namitaH-nAmitaH-praRamitaH,ninaMsitaH,naMnamitaH-tavAn;☼
 ↰☀namaH,☼☀nfnamaH,☼☀praRAmI,☼☀naptA,☼☀nemiH,☼☀namanaH,☼☀namraH,-praRamraH,☼☀namaH-nAmaH-praRamaH,ninaMsuH,naMnamaH;☼
 ↰☀nantavyam,namayitavyam-nAmayitavyam-praRamayitavyam,ninaMsitavyam,naMnamitavyam;☼
@@ -11851,7 +11917,8 @@
 
 
 ⊥H_669∥
-⊕☀nAhakaH-hikA,nAhakaH-hikA,☼☀ninatsakaH-tsikA,nAnahakaH-hikA;☼☀nadDA-dDrI,nAhayitA-trI,ninatsitA-trI,nAnahitA-trI;☼
+⊕☀nAhakaH-hikA,nAhakaH-hikA,☼☀ninatsakaH-tsikA,nAnahakaH-hikA;☼
+↷☀nadDA-dDrI,nAhayitA-trI,ninatsitA-trI,nAnahitA-trI;☼
 ↱☀ nahyan-ntI,nAhayan-ntI,ninatsan-ntI;☼
 ↰☀natsyan-ntI-tI,nAhayizyan-ntI-tI,ninatsizyan-ntI-tI;☼
 ↰☀nahyamAnaH,nAhayamAnaH,ninatsamAnaH,nAnahyamAna;☼
@@ -11920,7 +11987,8 @@
 ↰☀niktam-ktaH-ktavAn,nejitaH,ninikzitaH,nenijitaH-tavAn;☼
 ↱☀ nijaH,nejaH,ninikzuH,nenijaH;☼
 ↰☀nektavyam,nejayitavyam,ninikzitavyam,nenijitavyam;☼
-↰☀nejanIyam,nejanIyam,ninikzaRIyam,nenijanIyam;☼☀negyam,nejyam,ninikzyam,nenijyam;☼
+↰☀nejanIyam,nejanIyam,ninikzaRIyam,nenijanIyam;☼
+↷☀negyam,nejyam,ninikzyam,nenijyam;☼
 ↰☀IzannejaH-durnejaH-sunejaH;☼
 ↰☀nijyamAnaH,nejyamAnaH,ninikzyamARaH,nenijyamAnaH;☼
 ↰☀negaH,nejaH,ninikzaH,nenijaH;☼
@@ -11985,7 +12053,7 @@
 
 ↰☀ninIzamARaH,nenIyamAnaH;☼
 ↰☀nezyamARaH,nAyayizyamARaH,ninIzizyamARaH,nenIyizyamARaH;☼
-↱☀ agraRIH,grAmaRIH-grAmaRyO-grAmaRyaH,☼☀tiTipraRIH,senAnIH;☼☀☼
+↱☀ agraRIH,grAmaRIH-grAmaRyO-grAmaRyaH,☼☀tiTipraRIH,senAnIH;☼
 ↰☀nItaH-nItam-nItavAn,nAyitaH,ninIzitaH,nenIyitaH-tavAn;☼
 ↱☀ nAyaH,anunayaH-nayaH,☼☀uzwrapraRAyaH-nezwA-netA,☼☀netram,☼☀anunAyakaH,☼
 ↰☀anunAyikA,nAyaH,ninIzuH,anuninIzuH,☼☀nenyaH;☼
@@ -12045,7 +12113,8 @@
 
 ⊥H_684∥
 ⊕☀nodakaH-dikA,nodakaH-dikA,☼☀nunutsakaH-tsikA,nonudakaH-dikA;☼
-↱☀ nottA-trI,nodayitA-trI,nunutsitA-trI,nonuditA-trI;☼☀nudan tI-ntI,nodayan-ntI,nunutsan-ntI;☼
+↱☀ nottA-trI,nodayitA-trI,nunutsitA-trI,nonuditA-trI;☼
+↷☀nudan tI-ntI,nodayan-ntI,nunutsan-ntI;☼
 ↰☀notsyan-ntI-tI,nodayizyan-ntI-tI,nunutsizyan-ntI-tI;☼
 ↰☀nudamAnaH,☼☀praRudamAnaH,nodayamAnaH,nunutsamAnaH,nonudyamAnaH;☼
 ↰☀notsyamAnaH,nodayizyamARaH,nunutsizyamARaH,nonudizyamARaH;☼
@@ -12140,7 +12209,8 @@
 
 
 ⊕☀takzakaH-kzikA,takzakaH-kzikA,titakzizakaH-titakzakaH-kzikA,tAtakzakaH-kzikA;☼
-↱☀ takzitA-trI-tazwA-zwrI,takzayitA-trI,titakzizitA-titakzitA-trI,tAtakzitA-trI;☼☀takzRuvan-tI,takzan-ntI,takzayan-ntI,titakzizan-titakzan-ntI;☼
+↱☀ takzitA-trI-tazwA-zwrI,takzayitA-trI,titakzizitA-titakzitA-trI,tAtakzitA-trI;☼
+↷☀takzRuvan-tI,takzan-ntI,takzayan-ntI,titakzizan-titakzan-ntI;☼
 ↰☀takzizyan-takzyan-ntI-tI,takzayizyan-ntI-tI,titakzizizyan-titakzizyan-ntI-tI;☼
 ↰☀takzayamARaH,takzayizyamARaH,tAtakzyamARaH,tAtakzizyamARaH;☼
 ↱☀ taw-taq-takzO-takzaH;☼
@@ -12202,7 +12272,8 @@
 ↰☀tantrayitavyam,titantrayizitavyam;tantraRIyam,titantrayizaRIyam;☼
 ↰☀tantryam,titantrayizyam;IzattantraH-dustantraH-sutantraH;☼
 ↰☀tantryamARaH,titantrayizyamARaH;tantraH,tantram,titantrayizaH;☼
-↰☀tantrayitum,titantrayizitum;tantraRA,titantrayizA;☼☀tantraRam,titantrayizaRam;tantrayitvA,titantrayizitvA;☼
+↰☀tantrayitum,titantrayizitum;tantraRA,titantrayizA;☼
+↷☀tantraRam,titantrayizaRam;tantrayitvA,titantrayizitvA;☼
 
 
 
@@ -12258,7 +12329,8 @@
 
 
 ↰☀taYcakaH-YcikA,taYcakaH-YcikA,☼☀titaYcizakaH-zikA-titaNkzakaH-kzikA,☼☀tAtacakaH-cikA;☼
-↱☀ taYcitA-taNktA-trI,taYcayitA-trI,titaYcizitA-titaNkzitA-trI,tAtacitA-trI;☼☀taYcan-tI,taYcayan-ntI,titaYcizan-titaNkzan-ntI;☼
+↱☀ taYcitA-taNktA-trI,taYcayitA-trI,titaYcizitA-titaNkzitA-trI,tAtacitA-trI;☼
+↷☀taYcan-tI,taYcayan-ntI,titaYcizan-titaNkzan-ntI;☼
 ↰☀taYcizyan-taNkzyan-ntI-tI,taYcayizyan-ntI-tI,titaYcizizyan,titaNkzizyan-ntI-tI;☼
 ↰☀taYcayamAnaH,taYcayizyamARaH,tAtacyamAnaH,tAtacizyamARaH;☼
 ↱☀ saMtak-saMtag-santacO-santacaH;☼
@@ -12290,7 +12362,7 @@
 ↰☀saMtap-santapO-saMtapaH;☼
 ↰☀taptaH-santaptaH,taptam,tApitaH,titapsitaH,tAtapitaH-tavAn;☼
 ↱☀ tapanaH,☼☀lalAwantapaH☼☀ [AdityaH],☼☀dvizattApaH,☼☀saMtApI,☼☀dvizantapaH;☼
-↰☀dvizatItApaH,☼☀parantapaH,☼☀SatruntapaH☼☀ aBitApI,☼☀tApaH,titapsuH,tAtapaH;☼
+↰☀dvizatItApaH,☼☀parantapaH,☼☀SatruntapaH,☼☀aBitApI,☼☀tApaH,titapsuH,tAtapaH;☼
 ↰☀taptavyam,nizwaptavyam,tApayitavyam,titapsitavyam,tAtapitavyam;☼
 ↰☀tapanIyam,tApanIyam,titapsanIyam,tAtapanIyam;☼
 ↱☀ tapyam,tApyam,titapsyam,tAtapyam;☼
@@ -13058,7 +13130,8 @@
 ⊥H_767∥
 
 ⊕☀tardakaH-rdikA,tardakaH-rdikA,☼☀titardizakaH-zikA-titftsakaH-tsikA,☼☀tarItfdakaH-dikA;☼
-↰☀tarditA-trI,tardayitA-trI,titardizitA-titftsitA-trI,tarItfditA-trI;☼☀tfndan-tfndatI,tardayan-ntI,titardizan-titftsan-ntI;☼
+↰☀tarditA-trI,tardayitA-trI,titardizitA-titftsitA-trI,tarItfditA-trI;☼
+↷☀tfndan-tfndatI,tardayan-ntI,titardizan-titftsan-ntI;☼
 ↱☀ tardizyan-tartsyan-ntI-tI,tardayizyan-ntI-tI,titardizizyan-titftsizyan-ntI-tI;☼
 ↰☀tfndAnaH,tardayamAnaH,titardizamARaH-titftsamAnaH,tarItfdyamAnaH;☼
 ↰☀tardizyamARaH-tartsyamAnaH,titardizizyamARaH-titftsizyamARaH,tarItfdizyamARaH;☼
@@ -13082,7 +13155,8 @@
 ⊥H_768∥
 
 ⊗☀ tfmPakaH-mPikA,tfmPakaH-mPikA,titfmPizakaH-zikA,☼☀tarItfPakaH-PikA;☼
-↰☀tfmPitA-trI,tfmPayitA-trI,titfmPizitA-trI,tarItfPitA-trI;☼☀tfmPan-ntI-tI,☼☀tfmPayan-ntI,titfmPizan-ntI;☼
+↰☀tfmPitA-trI,tfmPayitA-trI,titfmPizitA-trI,tarItfPitA-trI;☼
+↷☀tfmPan-ntI-tI,☼☀tfmPayan-ntI,titfmPizan-ntI;☼
 ↰☀tfmPizyan-ntI-tI,tfmPayizyan-ntI-tI,titfmPizizyan-ntI-tI;☼
 ↱☀ vyatitfmPamARaH,tarItfPyamARaH;☼
 ↰☀vyatitfmPizyamARaH,tarItfPizyamARaH;☼
@@ -13138,7 +13212,7 @@
 ↱☀ vyatitfpyamARaH,tarpayamARaH,☼☀vyatititarpizamARaH-vyatititfpsamAnaH,☼☀tarItfpyamARaH;☼
 ↰☀vyatitarpizyamARaH-vyatitarpsyamAnaH-vyatitrapsyamAnaH,tarpayizyamARaH,vyatititarpizizyamARaH-vyatititfpsizyamARaH,tarItfpizyamARaH;☼
 ↰☀sutfp-sutfb-sutfpO-sutfpaH;☼
-↱☀ tfptam-[PalAnAM]☼☀ tfptaH-tfptavAn,tarpitaH,titarpizitaH-titfpsitaH,tarItfpitaH-tavAn;☼
+↱☀ tfptam-[PalAnAM],☼☀tfptaH-tfptavAn,tarpitaH,titarpizitaH-titfpsitaH,tarItfpitaH-tavAn;☼
 ↰☀tfpaH,☼☀santarpI,tarpaH,titarpizuH-titfpsuH,tarItfpaH;☼
 ↰☀tarpitavyam-tarptavyam-traptavyam,tarpayitavyam,titarpizitavyam-titfpsitavyam,tarItfpitavyam;☼
 ↰☀tarpaRIyam,tarpaRIyam,titarpizaRIyam-titfpsanIyam,tarItfpaRIyam;☼
@@ -13307,7 +13381,8 @@
 ↰☀taraRIyam,tAraRIyam,titarizaRIyam-titarIzaRIyam-titIrzaRIyam,tetiraRIyam;☼
 ↱☀ tAryam,tAryam,titarizyam-titarIzyam-titIrzyam,tetIryam;☼
 ↰☀IzattaraH-dustaraH-sutaraH;☼
-↰☀tIryamARaH,tAryamARaH,titarizyamARaH-titarIzyamARaH-titIrzyamARaH,tetIryamARaH;☼☀taraH,☼☀avatAraH,tAraH,titarizaH-titarIzaH-titIrzaH,tetiraH;☼
+↰☀tIryamARaH,tAryamARaH,titarizyamARaH-titarIzyamARaH-titIrzyamARaH,tetIryamARaH;☼
+↷☀taraH,☼☀avatAraH,tAraH,titarizaH-titarIzaH-titIrzaH,tetiraH;☼
 ↰☀taritum-avatarItum,tArayitum,titarizitum-titarIzitum-titIrzitum,tetiritum;☼
 ↱☀ tIrRiH,☼☀tArA,tAraRA,titarizA-titarIzA-titIrzA,tetirA;☼
 ↰☀taraRam,tAraRam,titarizaRam-titarIzaRam-titIrzaRam,tetiraRam;☼
@@ -13397,7 +13472,7 @@
 ↰☀trapizyamARaH-trapsyamAnaH,trapayizyamARaH,titrapizizyamARaH-titrapsizyamARaH,tAtrapizyamARaH;☼
 ↰☀trapU-trapO-trapaH;☼
 ↱☀ traptam-traptaH-traptavAn,trapitaH,titrapizitaH-titrapsitaH,tAtrapitaH-tavAn;☼
-↰☀trapaH,☼☀apatrapizRuH,☼☀☼☀trepivAn,trapaH,titrapizuH-titrapsuH;tAtrapaH;☼
+↰☀trapaH,☼☀apatrapizRuH,☼☀trepivAn,trapaH,titrapizuH-titrapsuH;tAtrapaH;☼
 ↰☀trapitavyam-traptavyam,trapayitavyam,titrapizitavyam-titrapsitavyam,tAtrapitavyam;☼
 ↰☀trapaRIyam,trapaRIyam,titrapizaRIyam-titrapsanIyam,tAtrapaRIyam;☼
 ↱☀ trApyam,trapyam,titrapizyam-titrapsyam,tAtrapyam;☼
@@ -13434,7 +13509,8 @@
 
 
 ↰☀trAsakaH-sikA,trAsakaH-sikA,titrasizakaH-zikA,tAtrasakaH-sikA;☼
-↰☀trasitA-trI,trAsayitA-trI,titrasizitA-trI,tAtrasitA-trI;☼☀trasyan-trasan-ntI,trAsayan-ntI,titrasizan-ntI;☼
+↰☀trasitA-trI,trAsayitA-trI,titrasizitA-trI,tAtrasitA-trI;☼
+↷☀trasyan-trasan-ntI,trAsayan-ntI,titrasizan-ntI;☼
 ↰☀trasizyan-ntI-tI,trAsayizyan-ntI-tI,titrasizizyan-ntI-tI;☼
 ↰☀trAsayamAnaH,trAsayizyamARaH,tAtrasyamAnaH,tAtrasizyamARaH;☼
 ↱☀ sutraH-sutrasO-sutrasaH;☼
@@ -13546,7 +13622,8 @@
 ↰☀tvAcaH,tvAcaH,titvacizaH,tAtvacaH;☼
 ↰☀tvacitum,tvAcayitum,titvacizitum,tAtvacitum;☼
 ↱☀ tvaktiH-tvak,tvAcanA,titvacizA,tAtvacA;☼
-↰☀tvacanam,tvAcanam,titvacizaRam,tAtvacanam;☼☀tvacitvA,tvAcayitvA,titvacizitvA,tAtvacitvA;☼
+↰☀tvacanam,tvAcanam,titvacizaRam,tAtvacanam;☼
+↷☀tvacitvA,tvAcayitvA,titvacizitvA,tAtvacitvA;☼
 ↰☀pratvacya,pratvAcya,pratitvacizya,pratAtvacya;☼
 
 
@@ -13559,7 +13636,7 @@
 ⊥H_805∥
 
 
-⊕☀tvArakaH-rikA☼☀ tvarakaH-rikA,titvarizakaH-zikA,tAtvarakaH-rikA;☼
+⊕☀tvArakaH-rikA,☼☀tvarakaH-rikA,titvarizakaH-zikA,tAtvarakaH-rikA;☼
 ↰☀tvaritA-trI,tvarayitA-trI,titvarizitA-trI,tAtvaritA-trI;☼
 ↰☀ tvarayan-ntI,tvarayizyan-ntI-tI;☼
 ↰☀tvaramARaH,titvarizamARaH;tAtvaryamARaH;☼
@@ -13657,7 +13734,8 @@
 
 ⊥H_816∥
 ↰☀ damBakaH-mBikA,damBakaH-mBikA,☼☀didamBizakaH-zikA,DipsakaH-DIpsakaH-psikA,☼☀dAdaBakaH-BikA;☼
-↰☀damBitA-trI,damBayitA-trI,didamBizitA-DipsitA-DIpsitA-trI,dAdaBitA-trI;☼☀daBnuvan-daBnuvatI,☼☀damBayan-ntI,didamBizan-Dipsan-DIpsan-ntI;☼
+↰☀damBitA-trI,damBayitA-trI,didamBizitA-DipsitA-DIpsitA-trI,dAdaBitA-trI;☼
+↷☀daBnuvan-daBnuvatI,☼☀damBayan-ntI,didamBizan-Dipsan-DIpsan-ntI;☼
 ↰☀damBizyan-ntI-tI,damBayizyan-ntI-tI,didamBizizyan-Dipsizyan-DIpsizyan-ntI-tI;☼
 ↱☀ vyatidaBnuvAnaH,—vyatididamBizamARaH-vyatiDipsamAnaH-vyatiDIpsamAnaH,dAdaByamAnaH;☼
 ↰☀vyatidamBizyamARaH,vyatididamBizizyamARaH-vyatiDipsizyamARaH-vyatiDIpsizyamoRaH,dAdaBizyamARaH;☼
@@ -13689,7 +13767,7 @@
 ↰☀daMSayamAnaH,daMSayizyamARaH,dandaSyamAnaH,dandaSizyamARaH;☼
 ↱☀ praDaw-praDaq-pradaSO-pradaSaH;☼
 ↰☀dazwam-dazwaH-dazwavAn,daMSitaH,didaNkzitaH,dandaSitaH-tavAn;☼
-↰☀daMSaH,☼☀daSanaH,☼☀vfzadaMSaH,daMSaH,didaNkzuH,☼☀dandaMSaH,☼☀dandaSUkaH;☼☀☼
+↰☀daMSaH,☼☀daSanaH,☼☀vfzadaMSaH,daMSaH,didaNkzuH,☼☀dandaMSaH,☼☀dandaSUkaH;☼
 ↰☀daMzwavyam,daMSayitavyam,didaNkzitavyam,dandaSitavyam;☼
 ↰☀daMSanIyam,daMSanIyam,didaNkzaRIyam,dandaSanIyam;☼
 ↰☀daMSyam,daMSyam,didaNkzyam,dandaSyam;☼
@@ -13698,7 +13776,7 @@
 ↰☀daMSaH,daMSaH,didaNkzaH,dandaSaH;☼
 ↰☀daMzwum,daMSayitum,didaNkzitum,dandaSitum;☼
 ↱☀ daSA-dazwiH,daMSanA,didaNkzA,dandaSA;☼
-↰☀daMSanam-daSanam,☼☀☼☀daMzwraH-daMzwrA,daMSanam,didaNkzaRam,dandaSanam;☼
+↰☀daMSanam-daSanam,☼☀daMzwraH-daMzwrA,daMSanam,didaNkzaRam,dandaSanam;☼
 ↰☀dazwvA,daMSayitvA,didaNkzitvA,dandaSitvA;☼
 
 
@@ -13778,10 +13856,11 @@
 ↰☀daridrayamARaH,daridrayizyamARaH;☼
 ↱☀ darid-daridrO-daridraH;☼
 ↱☀ daridritam-taH,daridritaH,didaridrizitaH-didaridrAsitaH-tavAn;☼
-↱☀ daridraH,☼☀☼☀dadaridravAn,daridraH,didaridrizuH-didaridrAsuH;☼
+↱☀ daridraH,☼☀dadaridravAn,daridraH,didaridrizuH-didaridrAsuH;☼
 ↰☀daridritavyam,daridrayitavyam,didaridrizitavyam-didaridrAsitavyam;☼
 ↰☀daridraRIyam,daridraRIyam,didaridrizaRIyam-didaridrAsanIyam;☼
-↰☀daridryam,daridryam,didaridrizyam-didaridrAsyam;☼☀IzaddaridraH-durdaridraH-sudaridraH;☼
+↰☀daridryam,daridryam,didaridrizyam-didaridrAsyam;☼
+↷☀IzaddaridraH-durdaridraH-sudaridraH;☼
 ↰☀daridryamARaH,daridryamARaH,didaridrizyamARaH-didaridrAsyamAnaH;☼
 ↰☀daridraH,daridraH,didaridrizaH-didaridrAsaH;☼
 ↰☀daridritum,daridrayitum,didaridrizitum-didaridrAsitum;☼
@@ -13881,7 +13960,7 @@
 ⊥H_829∥
 ⊕☀dAhakaH-hikA,dAhakaH-hikA,☼☀diDakzakaH-kzikA,☼☀dandahakaH-daMdahakaH-hikA;☼
 ↱☀ dagDA-dagDrI,dAhayitA-trI,diDakzitA-trI,dandahitA-trI;☼
-↰☀dahan-ntI,dAhayan-ntI,diDakzan-ntI,☼☀diDakzayan;☼☀☼
+↰☀dahan-ntI,dAhayan-ntI,diDakzan-ntI,☼☀diDakzayan;☼
 ↱☀ Dakzyan-ntI-tI,dAhayizyan-ntI-tI,diDakzizyan-ntI-tI;☼
 ↰☀vyatidahamAnaH,dAhayamAnaH,dandahyamAnaH;☼
 ↰☀vyatiDakzyamARaH,dAhayizyamARaH,dandahizyamARaH;☼
@@ -13905,14 +13984,16 @@
 ⊥H_830∥
 
 ↶☀ dAyakaH-yikA,☼☀dApakaH-pikA,☼☀ditsakaH-tsikA,☼☀dedIyakaH-yikA;☼
-↰☀dAtA-trI,dApayitA-trI,ditsitA-trI,dedIyitA-trI;☼☀dadat-dadatO-dadataH,[AsyaM] vyAdadat,[BikzAM] Adadat,[vipAdikAM]☼☀ vyAdadat,dApayan-ntI,ditsan-ntI;☼
+↰☀dAtA-trI,dApayitA-trI,ditsitA-trI,dedIyitA-trI;☼
+↷☀dadat-dadatO-dadataH,[AsyaM] vyAdadat,[BikzAM] Adadat,[vipAdikAM]☼☀ vyAdadat,dApayan-ntI,ditsan-ntI;☼
 ↰☀dAsyan-ntI-tI,dApayizyan-ntI-tI,ditsizyan-tI;☼
 
 ↰☀dApayamAnaH,ditsamAnaH,[vidyAM]☼☀ AditsamAnaH,dedIyamAnaH;☼
 ↰☀dAsyamAnaH,AdAsyamAnaH,dApayizyamARaH,ditsizyamARaH,dedIyizyamARaH;☼
 ↰☀pradAH-pradO-pradAH;☼
 ↱☀ dattam-dattaH-dattavAn,☼☀manasAdattA,☼☀prattam-nIttam-sUttam-maruttaH,☼☀avadattam-vidattam-pradattam-sudattam-anudattam-nidattam,avattam-anUttam,☼
-↰☀dApitaH,☼☀ditsitaH,dedIyitaH-tavAn;☼☀pradaH,☼☀dadaH-dAyaH,☼☀godaH,[gavAM goMzu vA]☼☀ dAyAdaH,☼☀kambala-☼
+↰☀dApitaH,☼☀ditsitaH,dedIyitaH-tavAn;☼
+↷☀pradaH,☼☀dadaH-dAyaH,☼☀godaH,[gavAM goMzu vA]☼☀ dAyAdaH,☼☀kambala-☼
 
 ↰☀ditsuH,☼☀dedyaH;☼
 ↰☀dAtavyam,dApayitavyam,ditsitavyam,dedIyitavyam;☼
@@ -14020,9 +14101,10 @@
 ↰☀dASan-ntI,dASayan-ntI,didASizan-ntI;☼
 ↰☀dASizyan-ntI-tI,dASayizyan-ntI-tI,didASizizyan-ntI-tI;☼
 ↰☀dASamAnaH,dASayamAnaH,didASizamARaH,dAdASyamAnaH;☼
-↰☀dASizyamARaH,dASayizyamARaH,didASizizyamARaH,dAdASizyamARaH;☼☀dAw-dAq-dASO-dASaH;☼
+↰☀dASizyamARaH,dASayizyamARaH,didASizizyamARaH,dAdASizyamARaH;☼
+↷☀dAw-dAq-dASO-dASaH;☼
 ↰☀dASitam-taH,dASitaH,didASizitaH,dAdASitaH-tavAn;☼
-↱☀ dASaH,☼☀☼☀dASvAn,pradASI,dASaH,didASizuH,dAdASaH;☼
+↱☀ dASaH,☼☀dASvAn,pradASI,dASaH,didASizuH,dAdASaH;☼
 ↰☀dASitavyam,dASayitavyam,didASizitavyam,dAdASitavyam;☼
 ↰☀dASanIyam,dASanIyam,didASizaRIyam,dAdASanIyam;☼
 ↰☀dASyam,dASyam,didASizyam,dAdASyam;☼
@@ -14065,7 +14147,8 @@
 ↱☀ vyatidIvyamAnaH,devayamAnaH,☼☀vyatididevizamARaH-vyatidudyUzamARaH,☼☀dedIvyamAnaH;☼
 ↰☀vyatidevizyamARaH,devayizyamARaH,vyatididevizizyamARaH-vyatidudyUzizyamARaH,dedivizyamARaH;☼
 ↱☀ akzadyUH-mfgadyUH-mfgadyuvO-mfgadyuvaH,☼☀dayUH-dayvO-dayvaH;☼
-↱☀ AdyUnaH,☼☀dyUtam-dyUtaH-dyUtavAn,devitaH,didevizitaH-dudyUzitaH,dedivitaH-tavAn;☼☀devaH-devI,☼☀manasAdevaH,☼☀devakaH-devakI,☼☀devanaH,☼☀dIvyamAnaH,☼☀dudyUvAn-didivAn,devaH,☼☀AdevakaH,☼☀paridevakaH,☼☀paridevI,didevizuH-dudyUzuH;☼
+↱☀ AdyUnaH,☼☀dyUtam-dyUtaH-dyUtavAn,devitaH,didevizitaH-dudyUzitaH,dedivitaH-tavAn;☼
+↷☀devaH-devI,☼☀manasAdevaH,☼☀devakaH-devakI,☼☀devanaH,☼☀dIvyamAnaH,☼☀dudyUvAn-didivAn,devaH,☼☀AdevakaH,☼☀paridevakaH,☼☀paridevI,didevizuH-dudyUzuH;☼
 ↰☀devitavyam,devayitavyam,didevizitavyam-dudyUzitavyam,dedivitavyam;☼
 ↰☀devanIyam,devanIyam,didevizaRIyam-dudyUzaRIyam,dedivanIyam;☼
 ↰☀devyam,devyam,didevizyam-dudyUzyam,dedIvyam;☼
@@ -14126,7 +14209,8 @@
 ⊥H_842∥
 
 ⊕☀dehakaH-hikA,dehakaH-hikA,☼☀diDikzakaH-kzikA,dedihakaH-hikA;☼
-↱☀ degDA-degDrI,dehayitA-trI,diDikzitA-trI,dedihitA-trI;☼☀praRidihan-tI,dehayan-ntI,diDikzan-ntI;☼
+↱☀ degDA-degDrI,dehayitA-trI,diDikzitA-trI,dedihitA-trI;☼
+↷☀praRidihan-tI,dehayan-ntI,diDikzan-ntI;☼
 ↰☀praRiDekzyan-ntI-tI,dehayizyan-ntI-tI,diDikzizyan-ntI-tI;☼
 ↰☀praRidihAnaH,dehayamAnaH,diDikzamARaH,dedihyamAnaH;☼
 ↰☀praRiDekzyamARaH,dehayizyamARaH,diDikzizyamARaH,dedihizyamARaH;☼
@@ -14182,7 +14266,8 @@
 ↰☀dAtum,dApayitum,didIzitum,dedIyitum;☼
 ↰☀dAtiH,dApanA,didIzA,dedIyA;☼
 ↰☀dAnam,dApanam,didIzaRam,dedIyanam;☼
-↰☀dAtvA,dApayitvA,didIzitvA,dedIyitvA;☼☀pradAya,pradApya,pradidIzya,pradedIyya;☼
+↰☀dAtvA,dApayitvA,didIzitvA,dedIyitvA;☼
+↷☀pradAya,pradApya,pradidIzya,pradedIyya;☼
 
 
 
@@ -14306,7 +14391,8 @@
 ↱☀ duzyan-ntI,dUzayan-dozayan-ntI,dudukzan-ntI;☼
 ↰☀dokzyan-ntI,dUzayizyan-dozayizyan-ntI-tI,dudukzizyan-ntI-tI;☼
 ↱☀ vyatiduzyamARa;dUzayamARaH-dozayamARaH,☼☀vyatidudukzamARaH,doduzyamARaH;☼
-↰☀vyatidokzyamARaH,dUzayizyamARaH-dozayizyamARaH;vyatidudukzizyamARaH,doduzizyamARaH;☼☀praduw-praduq-praduzO-praduzaH;☼
+↰☀vyatidokzyamARaH,dUzayizyamARaH-dozayizyamARaH;vyatidudukzizyamARaH,doduzizyamARaH;☼
+↷☀praduw-praduq-praduzO-praduzaH;☼
 ↰☀duzwam-duzwaH-duzwavAn,dUzitam-taH,dozitaH,dudukzitaH,doduzitaH-tavAn;☼
 ↰☀dozaH,duzaH,☼☀dozI,☼☀dUzaRaH,dudukzuH,dodozaH;☼
 ↰☀dozwavyam,dUzayitavyam-dozayitavyam,dudukzitavyam,doduzitavyam;☼
@@ -14443,16 +14529,17 @@
 ↱☀ saMpaSyamAnaH,darSayamAnaH,☼☀didfkzamARaH,darIdfSyamAnaH,☼
 ↰☀sandrakzyamARaH,darSayizyamARaH,didfkzizyamARaH,darIdfSizyamARaH;☼
 ↱☀ tAdfk-tAdfSO-tAdfSaH;☼
-↰☀dfzwam-dfzwaH-dfzwavAn,darSitaH,didfkzitaH,darIdfSitaH-tavAn;☼☀paSyaH,utpaSyaH,☼☀tAdfSaH,yAdfSaH,☼☀sadfk-sadfSaH,anyAdfk-☼
+↰☀dfzwam-dfzwaH-dfzwavAn,darSitaH,didfkzitaH,darIdfSitaH-tavAn;☼
+↷☀paSyaH,utpaSyaH,☼☀tAdfSaH,yAdfSaH,☼☀sadfk-sadfSaH,anyAdfk-☼
 
 
-↰☀vivekadfSvA,☼☀yamAsyadfSvarI,☼☀asUryampaSyAH☼☀ [rAjadArAH],☼☀ugrampaSyaH,☼☀☼☀kaSyapaH,☼☀sudarSanaH,☼☀dadfSivAn-dadfSvAn,☼☀mArgadarSI,darSaH,☼☀didfkzuH,☼☀sandidarSayizuH,darIdarSaH;☼
+↰☀vivekadfSvA,☼☀yamAsyadfSvarI,☼☀asUryampaSyAH☼☀ [rAjadArAH],☼☀ugrampaSyaH,☼☀kaSyapaH,☼☀sudarSanaH,☼☀dadfSivAn-dadfSvAn,☼☀mArgadarSI,darSaH,☼☀didfkzuH,☼☀sandidarSayizuH,darIdarSaH;☼
 ↰☀drazwavyam,darSayitavyam,didfkzitavyam,darIdfSitavyam;☼
 ↰☀darSanIyam,darSanIyam,didfkzaRIyam,darIdfSanIyam;☼
 ↰☀dfSyam,darSyam,didfkzyam,darIdfSyam;☼
 ↱☀ IzaddarSanaH-durdarSanaH-sudarSanaH;☼
 ↰☀dfSyamAnaH,darSyamAnaH,didfkzyamARaH,darIdfSyamAnaH;☼
-↰☀darSaH,☼☀AdarSaH,,☼☀☼☀darSaH darSaH,didfkzaH,darIdfSaH;☼
+↰☀darSaH,☼☀AdarSaH,,☼☀darSaH darSaH,didfkzaH,darIdfSaH;☼
 ↰☀drazwum,☼☀drazwum,☼☀darSayitum,didfkzitum,darIdfSitum;☼
 ↱☀ dfk,dfzwiH,☼☀dfzwiH,darSanA,didfkzA,darIdfSA;☼
 ↰☀darSanam,☼☀paSyaH,darSanam,didfkzaRam,darIdfSanam;☼
@@ -14509,7 +14596,8 @@
 ↰☀IzaddaraH-durdaraH-sudaraH;☼
 ↰☀dIryamARaH,dAryamARaH-daryamARaH,didarizyamARaH-didarIzyamARaH-didIrzyamARaH,dedIryamARaH;☼
 ↰☀daraH,dAraH-daraH,didarizaH-didarIzaH-didIrzaH,dediraH;☼
-↰☀daritum-darItum,dArayitum,darayitum,didarizitum-didarIzitum-didIrzitum,dediritum;☼☀dIrRiH,dAraRA-daraRA,didarizA-didarIzA-didIrzA,dedirA;☼
+↰☀daritum-darItum,dArayitum,darayitum,didarizitum-didarIzitum-didIrzitum,dediritum;☼
+↷☀dIrRiH,dAraRA-daraRA,didarizA-didarIzA-didIrzA,dedirA;☼
 ↰☀daraRam,dAraRam-daraRam,didarizaRam-didarIzaRam-didIrzaRam,dediraRam;☼
 ↱☀ dIrtvA,dArayitvA-darayitvA,didarizitvA-didarIzitvA-didIrzitvA,dediritvA;☼
 
@@ -14691,7 +14779,7 @@
 ⊕☀drohakaH-hikA,drohakaH-hikA;☼
 ↱☀ dudruhizakaH-dudrohizakaH-duDrukzakaH-kzikA,dodruhakaH-hikA;☼
 ↱☀ drohitA-trI-drogDA-gDrI-droQA-QrI,drohayitA-trI,dudruhizitA-dudrohizitA-duDrukzitA-trI,dodruhitA-trI;☼
-↰☀[devadattAya] druhyan-ntI,[devadattaM]☼☀ aBidruhyan-ntI,drohayan-ntI,dudruhizan-dudrohizan-duDrukzan-ntI;☼
+↰☀[devadattAya] druhyan-ntI,[devadattaM],☼☀aBidruhyan-ntI,drohayan-ntI,dudruhizan-dudrohizan-duDrukzan-ntI;☼
 ↰☀drohizyan-Drokzyan-ntI-tI,drohayizyan-ntI-tI,dudruhizizyan-dudrohizizyan-duDrukzizyan-ntI-tI;☼
 ↰☀drohayamARaH,drohayizyamARaH,dodruhyamARaH,dodruhizyamARaH;☼
 ↱☀ mitraDruk-mitraDrug-mitraDruw-mitraDruq-druhO-druhaH;☼
@@ -14740,7 +14828,8 @@
 ↱☀ dvizan [SatruM,SatrorvA]-tI,dvezayan-ntI,didvikzan-ntI;☼
 ↱☀ dvekzyan-ntI-tI,dvezayizyan-ntI-tI,didvikzizyan-ntI-tI;☼
 ↰☀dvizARaH,dvezayamARaH,didvikzamARaH,dedvizyamARaH;☼
-↰☀dvekzyamARaH,dvezayizyamARaH,didvikzizyamARaH,dedvizizyamARaH;☼☀vipradviw,mitradviw,☼☀maDudviw,pradviw,☼☀dviw,brahmadviw-dvizO-dvizaH;☼
+↰☀dvekzyamARaH,dvezayizyamARaH,didvikzizyamARaH,dedvizizyamARaH;☼
+↷☀vipradviw,mitradviw,☼☀maDudviw,pradviw,☼☀dviw,brahmadviw-dvizO-dvizaH;☼
 ↰☀dvizwam-dvizwaH-zwavAn,dvezitaH,didvikzitaH,dedvizitaH-tavAn;☼
 ↰☀dvizaH,☼☀dvezI,mitradvezI,brahmadvezI,☼☀dvezaRaH,☼☀dvizan,☼☀didvikzuH,dedvizaH;☼
 ↰☀dvezwavyam,dvezayitavyam,didvikzitavyam,dedvizitavyam;☼
@@ -14814,7 +14903,8 @@
 ↱☀ praRidaDAnaH,DApayamAnaH,DitsamAnaH,deDIyamAnaH;☼
 ↰☀DAsyamAnaH,DApayizyamARaH,DitsizyamARaH,deDIyizyamARaH;☼
 ↰☀ratnaDAH-DO-DAH;☼
-↱☀ hitam-praRihitaH-hitavAn,DApitaH,DitsitaH,deDIyitaH-tavAn;☼☀praDaH,☼☀daDaH,☼☀☼☀DAyaH,☼☀kizkinDA,☼☀☼☀DAmA,☼☀DIvA-DIvarI,☼
+↱☀ hitam-praRihitaH-hitavAn,DApitaH,DitsitaH,deDIyitaH-tavAn;☼
+↷☀praDaH,☼☀daDaH,☼☀DAyaH,☼☀kizkinDA,☼☀DAmA,☼☀DIvA-DIvarI,☼
 ↰☀bahuDIvarI,☼☀SiroDiH-viDiH,praRiDiH,bAlaDiH-upADiH,☼☀BUtaDAtrI,☼☀SradDAluH,☼☀viDeyaH,☼☀viDAtA,DApaH,DitsuH,☼☀dADAH;☼
 ↰☀DAtavyam,DApayitavyam,Ditsitavyam,deDIyitavyam;☼
 ↰☀praRiDAnIyam,DApanIyam,DitsanIyam,deDIyanIyam;☼
@@ -15084,7 +15174,8 @@
 ↰☀Dftam-taH-tavAn,DAritaH,diDIrzitaH,deDrIyitaH-tavAn;☼
 ↱☀ DaraH,☼☀DaraRaH,DAraH,diDIrzuH,deDrIyaH;☼
 ↰☀Dartavyam,DArayitavyam,diDIrzitavyam,deDrIyitavyam;☼
-↰☀DaraRIyam,DAraRIyam,diDIrzaRIyam,deDrIyaRIyam;☼☀DAryam,DAryam,diDIrzyam,deDrIyyam;☼
+↰☀DaraRIyam,DAraRIyam,diDIrzaRIyam,deDrIyaRIyam;☼
+↷☀DAryam,DAryam,diDIrzyam,deDrIyyam;☼
 ↰☀IzadDaraH-durDaraH-suDaraH;☼
 ↱☀ DriyamARaH,DAryamARaH,diDIrzyamARaH,deDrIyyamARaH;☼
 ↰☀DAraH,DAraH,diDIrzaH,deDrIyaH;☼
@@ -15181,7 +15272,7 @@
 ↰☀DApayamAnaH,DApayizyamARaH,deDIyamAnaH,deDIyizyamARaH;☼
 ↱☀ DAH-DO-DAH;☼
 ↱☀ DItam-DItaH-DItavAn,DApitaH,DitsitaH,deDIyitaH-tavAn;☼
-↱☀ udDayaH-DayaH,☼☀nAsikanDayaH-stananDayaH,stananDayI,☼☀nAqinDayaH-☼☀muzwinDayaH,☼☀SuninDayaH,☼☀GawinDayaH-KArinDayaH-KarinDayaH-vAtanDayaH,☼☀DAruH,☼☀DAtrI,☼☀puzpanDayaH,☼☀muYjanDayaH-kUlanDayaH-AsyanDayaH,☼☀kzIraDAH,DApaH,DitsuH,deDyaH;☼
+↱☀ udDayaH-DayaH,☼☀nAsikanDayaH-stananDayaH,stananDayI,☼☀nAqinDayaH-muzwinDayaH,☼☀SuninDayaH,☼☀GawinDayaH-KArinDayaH-KarinDayaH-vAtanDayaH,☼☀DAruH,☼☀DAtrI,☼☀puzpanDayaH,☼☀muYjanDayaH-kUlanDayaH-AsyanDayaH,☼☀kzIraDAH,DApaH,DitsuH,deDyaH;☼
 ↰☀DAtavyam,DApayitavyam,Ditsitavyam,deDIyitavyam;☼
 ↰☀praRiDAnIyam,DApanIyam,DitsanIyam,deDIyanIyam;☼
 ↰☀praRiGeyam,DApyam,Ditsyam,deDIyyam;☼
@@ -15407,7 +15498,8 @@
 ↰☀IzadDvaMsaH-durDvaMsaH-suDvaMsaH;☼
 ↰☀DvasyamAnaH,DvaMsyamAnaH,diDvaMsizyamARaH,danIDvasyamAnaH;☼
 ↰☀DvaMsaH,DvaMsaH,diDvaMsizaH,danIDvasaH;☼
-↰☀DvaMsitum,DvaMsayitum,diDvaMsizitum,danIDvasitum;☼☀DvastiH,DvaMsanA,diDvaMsizA,danIDvasA;☼
+↰☀DvaMsitum,DvaMsayitum,diDvaMsizitum,danIDvasitum;☼
+↷☀DvastiH,DvaMsanA,diDvaMsizA,danIDvasA;☼
 ↰☀DvaMsanam,DvaMsanam,diDvaMsizaRam,danIDvasanam;☼
 ↱☀ DvaMsitvA-DvastvA,DvaMsayitvA,diDvaMsizitvA,danIDvasitvA;☼
 ↰☀praDvasya,praDvaMsya,pradiDvaMsizya,pradanIDvasya;☼
@@ -15556,7 +15648,7 @@
 ↰☀piRqapAkaH,mUlapAkaH-ulUkapAkaH,☼☀prasTaMpacaH-KArimpacaH-droRaMpacaH,☼☀mitampacaH-naKampacaH,☼☀alpampacaH,☼☀utpacizRuH,☼☀pacelimAH☼☀ [SAlayaH],☼☀kimpacAnaH,☼☀pecivAn,pAcaH,pipakzuH,pApacaH;☼
 ↰☀paktavyam,pAcayitavyam,pipakzitavyam,pApacitavyam;☼
 ↰☀pacanIyam,pAcanIyam,pipakzaRIyam,pApacanIyam;☼
-↱☀ pAkyam,☼☀☼☀kfzwapacyam,☼☀kfzwapAkyam,☼☀avaSyapAkyam,pAcyam,pipakzyam,pApacyam;☼
+↱☀ pAkyam,☼☀kfzwapacyam,☼☀kfzwapAkyam,☼☀avaSyapAkyam,pAcyam,pipakzyam,pApacyam;☼
 ↰☀IzatpacaH-duzpacaH-supacaH;☼
 ↰☀pacyamAnaH,pAcyamAnaH,pipakzyamARaH,pApacyamAnaH;☼
 ↱☀ pAkaH,☼☀mAMsapAkaH-mAMspAkaH,☼☀paktrimam,☼☀pAcaH,pipakzaH,pApacaH;☼
@@ -15627,7 +15719,8 @@
 
 ↰☀pipaRAyizitA-trI,pampaRitA-trI;☼
 ↰☀paRAyayan-pARayan-ntI;☼
-↰☀paRAyayizyan-pARayizyan-ntI-tI;☼☀paRamAnaH,paRAyayamAnaH-paRayamAnaH,pipaRAyizamARaH-pipaRizamARaH,pampaRyamARaH;☼
+↰☀paRAyayizyan-pARayizyan-ntI-tI;☼
+↷☀paRamAnaH,paRAyayamAnaH-paRayamAnaH,pipaRAyizamARaH-pipaRizamARaH,pampaRyamARaH;☼
 ↰☀paRAyizyamARaH-paRizyamARaH-paRAyayizyamARaH,pARayizyamARaH,pipaRAyizizyamARaH-pipaRizizyamARaH,pampaRizyamARaH☼☀ supAR-supARO-supARaH,paRAH-paRO-paRAH;☼
 ↰☀paRAyitam-paRitam-taH,paRAyitaH-pARitaH,pipaRAyizitaH-pipaRizitaH,pampaRitaH-tavAn;☼
 ↰☀paRAyaH-paRaH,paRAyaH-pARaH,pipaRAyizuH-pipaRizuH,pampaRaH;☼
@@ -15738,7 +15831,8 @@
 ↱☀ sampat-sampattiH,vipat-pratipat-Apat,☼☀padyA,pAdanA,pitsA,panIpadA;☼
 ↰☀padanam,ApAdanam,pitsanam,panIpadanam;☼
 ↰☀pattvA,pAdayitvA,pitsitvA,panIpaditvA;☼
-↰☀praRipadya,sampAdya,prapitsya,prapanIpadya;☼☀gehAnuprapAdam,gehaMgehamanuprapAdam,gehamanuprapAdamanuprapAdamAste;☼
+↰☀praRipadya,sampAdya,prapitsya,prapanIpadya;☼
+↷☀gehAnuprapAdam,gehaMgehamanuprapAdam,gehamanuprapAdamanuprapAdamAste;☼
 
 
 
@@ -15872,7 +15966,7 @@
 ↰☀vyatipAsyamAnaH,pAyayizyamARaH,vyatipipAsizyamARaH,pepIyizyamARaH;☼
 ↱☀ daDipIH-daDipyO-daDipyaH;☼
 ↱☀ pItam-pItaH-pItavAn,pAyitaH,pipAsitaH,pepIyitaH-tavAn;☼
-↱☀ utpibaH-vipibaH-pibaH,☼☀ruDirapAyI,☼☀☼☀maDupAyI,☼☀☼☀kzIrapAyI,☼☀surApaH-SIDupaH-surApI-SIDupI,☼☀maDupaH,pAdapaH,kzIrapA[brAhmaRI],☼☀dvipaH—kacCapaH,☼☀kuRqapAyyaH☼☀ [kratuH],☼☀kzIrapIvA-kzIrapIvarI,☼☀GftapAvA,☼☀kIlAlapAH,pIvA,☼☀gajapAyI,☼☀papiH,☼☀papivAn,☼☀pAmA,☼☀daDipAyaH,pApaH,☼☀pipAsuH,pepyaH;☼
+↱☀ utpibaH-vipibaH-pibaH,☼☀ruDirapAyI,☼☀maDupAyI,☼☀kzIrapAyI,☼☀surApaH-SIDupaH-surApI-SIDupI,☼☀maDupaH,pAdapaH,kzIrapA[brAhmaRI],☼☀dvipaH—kacCapaH,☼☀kuRqapAyyaH☼☀ [kratuH],☼☀kzIrapIvA-kzIrapIvarI,☼☀GftapAvA,☼☀kIlAlapAH,pIvA,☼☀gajapAyI,☼☀papiH,☼☀papivAn,☼☀pAmA,☼☀daDipAyaH,pApaH,☼☀pipAsuH,pepyaH;☼
 ↰☀pAtavyam,pAyayitavyam,pipAsitavyam,pepIyitavyam;☼
 ↱☀ prapAnIyam-prapARIyam,pAyanIyam,pipAsanIyam,pepIyanIyam;☼
 ↰☀peyam,pAyyam,pipAsyam,pepIyyam;☼
@@ -15934,7 +16028,8 @@
 ↰☀payanIyam,pAyanIyam,pipIzaRIyam,pepIyanIyam;☼
 ↰☀peyam,pAyyam,pipIzyam,pepIyyam;☼
 ↰☀IzatpayaH-duzpayaH-supayaH;☼
-↰☀pIyamAnaH,pAyyamAnaH,pipIzyamARaH,pepIyyamAnaH;☼☀payaH,pAyaH,pipIzaH,pepIyaH;☼
+↰☀pIyamAnaH,pAyyamAnaH,pipIzyamARaH,pepIyyamAnaH;☼
+↷☀payaH,pAyaH,pipIzaH,pepIyaH;☼
 ↰☀petum,pAyayitum,pipIzitum,pepIyitum;☼
 ↰☀pitiH,pAyanA,pipIzA,pepIyA;☼
 ↰☀payanam,pAyanam,pipIzaRam,pepIyanam;☼
@@ -16144,7 +16239,8 @@
 ↰☀puRitam-taH,poRitaH,pupuRizitaH-pupoRizitaH,popuRitaH-tavAn;☼
 ↱☀ nipuRaH,AcAranipuRaH,poRaH,pupuRizuH-pupoRizuH,popuRaH;☼
 ↰☀poRitavyam,poRayitavyam,pupuRizitavyam-pupoRizitavyam,popuRitavyam;☼
-↰☀poRanIyam,poRanIyam,pupuRizaRIyam-pupoRizaRIyam,popuRanIyam;☼☀puRyam-poRyam,pupuRizyam-pupoRizyam,popuRyam;☼
+↰☀poRanIyam,poRanIyam,pupuRizaRIyam-pupoRizaRIyam,popuRanIyam;☼
+↷☀puRyam-poRyam,pupuRizyam-pupoRizyam,popuRyam;☼
 ↰☀IzatpoRaH-duzpoRaH-supoRaH;☼
 ↰☀puRyamAnaH,poRyamAnaH,pupuRizyamARaH,pupoRizyamARaH,popuRyamAnaH;☼
 ↰☀poRaH,poRaH,pupuRizaH-pupoRizaH,popuRaH;☼
@@ -16297,7 +16393,8 @@
 
 ↰☀pAvaH,☼☀pipavizuH-pipAvayizuH,popuvaH;☼
 ↰☀pavitavyam,pAvayitavyam,pipavizitavyam,popUyitavyam;☼
-↱☀ prapavaRIyam-prapavanIyam,☼☀prapAvaRIyam-prapAvanIyam,pipavizaRIyam,popUyanIyam;☼☀vipUyaH-pavyam,☼☀avaSyapAvyam,pAvyam,pipavizyam,popUyyam;☼
+↱☀ prapavaRIyam-prapavanIyam,☼☀prapAvaRIyam-prapAvanIyam,pipavizaRIyam,popUyanIyam;☼
+↷☀vipUyaH-pavyam,☼☀avaSyapAvyam,pAvyam,pipavizyam,popUyyam;☼
 ↰☀pUyamAnaH,pAvyamAnaH,pipavizyamARaH,popUyyamAnaH;☼
 ↱☀ pavaH,☼☀nizpAvaH,☼☀utpAvaH,☼☀potram,☼☀vanapotraH,☼☀pavitram,pAvaH,pipavizaH,popUyaH;☼
 ↰☀pavitum,pAvayitum,pipavizitum,popUyitum;☼
@@ -16321,7 +16418,8 @@
 ↱☀ punan-punAti,pAvayan-ntI,☼☀pupUzan-ntI;☼
 ↰☀pavizyan-ntI-tI,pAvayizyan-ntI-tI,pupUzizyan-ntI-tI;☼
 ↰☀punAnaH,pAvayamAnaH,pupUzamARaH,popUyamAnaH;☼
-↰☀pavizyamARaH,pAvayizyamARaH,pupUzizyamARaH,popUyizyamARaH;☼☀KalapUH-KalapvO-KalapvaH;☼
+↰☀pavizyamARaH,pAvayizyamARaH,pupUzizyamARaH,popUyizyamARaH;☼
+↷☀KalapUH-KalapvO-KalapvaH;☼
 ↱☀ pUtam-taH-tavAn-pUnaH-pUnavAn (yavaH),pAvitaH,pupUzitaH,popUyitaH-tavAn;☼
 ↰☀pavaH-pavanaH,☼☀pupavivAn,☼☀pavitram (agniH,devatA vA),☼☀potA,pAvaH,☼☀pAvanaH,☼☀pupUzuH,☼☀pipAvayizuH,popuvaH;☼
 ↰☀pavitavyam,pAvayitavyam,pupUzitavyam,popUyitavyam;☼
@@ -16542,7 +16640,8 @@
 ↱☀ pfzwam-pfzwaH-pfzwavAn,parzitaH,piparzizitaH,parIpfzitaH-tavAn;☼
 ↰☀parzaH,☼☀parzaRaH,suparzI,parzaH,piparzizuH,parIparzaH;☼
 ↰☀parzitavyam,parzayitavyam,piparzizitavyam,parIpfzitavyam;☼
-↰☀parzaRIyam,parzaRIyam,piparzizaRIyam,parIpfzaRIyam;☼☀pfzyam,parzyam,piparzizyam,parIpfzyam;☼
+↰☀parzaRIyam,parzaRIyam,piparzizaRIyam,parIpfzaRIyam;☼
+↷☀pfzyam,parzyam,piparzizyam,parIpfzyam;☼
 ↰☀IzatparzaH-duzparzaH-suparzaH;☼
 ↰☀pfzyamARaH,parzyamARaH,piparzizyamARaH,parIpfzyamARaH;☼
 ↰☀parzaH,parzaH,piparzizaH,parIpfzaH;☼
@@ -16688,7 +16787,7 @@
 ↰☀ApyAyizyamARaH,ApyAyayizyamARaH,pipyAyizizyamARaH,pepIyizyamARaH;☼
 ↱☀ supyAH-supyO-supyaH;☼
 ↱☀ pInaH-pInavAn,☼☀ApyAnaH-prapyAnaH (candramAH),☼☀ApInam☼☀ (anDUH,UDo vA),pyAyitaH,pipyAyizitaH,pepIyitaH-tavAn;☼
-↰☀pyAyaH,☼☀pyAyitA,☼☀☼☀pipyivAn,☼☀ApIH,pyAyaH,pipyAyizuH,pepyaH;☼
+↰☀pyAyaH,☼☀pyAyitA,☼☀pipyivAn,☼☀ApIH,pyAyaH,pipyAyizuH,pepyaH;☼
 ↰☀pyAyitavyam,pyAyayitavyam,pipyAyizitavyam,pepIyitavyam;☼
 ↱☀ prapyAyanIyam,prapyAyanIyam,pipyAyizaRIyam,pepIyanIyam;☼
 ↰☀ApyAyyam,pyAyyam,pipyAyizyam,pepIyyam;☼
@@ -16733,7 +16832,8 @@
 ↱☀ prakzyan-ntI-tI,pracCayizyan,pipfcCizizyan-ntI-tI;☼
 ↱☀ sampfcCamAnaH,☼☀ApfcCamAnaH,☼☀pracCayamAnaH,☼☀ApipfcCizamARaH,saMpipfcCizamARaH,parIpfcCyamAnaH;☼
 
-↰☀sampipfcCizizyamARaH,parIpfcCizyamARaH;☼☀prAw,SabdaprAw-prAq-prASO-prASaH;☼
+↰☀sampipfcCizizyamARaH,parIpfcCizyamARaH;☼
+↷☀prAw,SabdaprAw-prAq-prASO-prASaH;☼
 ↱☀ pfzwam-pfzwaH-pfzwavAn,pracCitaH,pitfcCizitaH,parIpfcCitaH-tavAn;☼
 ↰☀pracCaH,pracCaH,☼☀pipfcCizuH,parIpfcCaH;☼
 ↰☀prazwavyam,pracCayitavyam,pipfcCizitavyam,parIpfcCitavyam;☼
@@ -17046,7 +17146,8 @@
 ⊥H_1098∥
 
 ↰☀banDakaH-nDikA,banDakaH-nDikA,☼☀biBantsakaH-tsikA,☼☀bAbaDakaH-DikA;☼
-↱☀ bandDA-bandDrI,banDayitA-trI,biBantsitA-trI,bAbaDitA-trI;☼☀baDnan-tI,☼☀banDayan-ntI,biBantsan-ntI;☼
+↱☀ bandDA-bandDrI,banDayitA-trI,biBantsitA-trI,bAbaDitA-trI;☼
+↷☀baDnan-tI,☼☀banDayan-ntI,biBantsan-ntI;☼
 ↱☀ Bantsyan-ntI-tI,banDayizayan-ntI-tI,biBantsizyan-ntI-tI;☼
 ↰☀banDayamAnaH,banDayizyamARaH,bAbaDyamAnaH,bAbaDizyamARaH;☼
 ↱☀ Bat-BaD-baDO-baDaH;☼
@@ -17058,7 +17159,8 @@
 ↰☀IzadbanDaH-durbanDaH-subanDaH;☼
 ↰☀baDyamAnaH,banDyamAnaH,biBantsyamAnaH,bAbaDyamAnaH;☼
 ↰☀banDaH,☼☀paryaNkabanDaH,cakrabanDaH,dfzadbanDaH,☼☀anUbanDaH,banDaH,biBantsaH,bAbaDaH;☼
-↰☀bandDum,banDayitum,biBantsitum,bAbaDitum;☼☀banDA,badDiH,banDanA,biBantsA,bAbaDA;☼
+↰☀bandDum,banDayitum,biBantsitum,bAbaDitum;☼
+↷☀banDA,badDiH,banDanA,biBantsA,bAbaDA;☼
 ↰☀banDanam,banDanam,biBantsanam,bAbaDanam;☼
 ↰☀badDvA,banDayitvA,biBantsitvA,bAbaDitvA;☼
 ↰☀anubaDya,prabanDya,prabiBantsya,prabAbaDya;☼
@@ -17314,9 +17416,11 @@
 ↰☀bruvARaH,vAcayamAnaH,vivakzamARaH,vAvacyamAnaH;☼
 ↰☀vakzyamARaH,vAcayizyamARaH,vivakzizyamARaH,vAvacizyamARaH;☼
 ↱☀ suvAk-suvAg-suvAcO-suvAcaH;☼
-↱☀ uktam-uktaH-uktavAn,vAcitam-taH,vivakzitaH,vAvacitaH-tavAn;☼☀bruvaH,brAhmaRibruvA,☼☀viduzibruvA-viduzIbruvA,SreyasibruvA-SreyasIbruvA,☼☀vidvadbruvA,SreyobruvA,vAk-vAcA,☼☀anUcAnaH,☼☀vAggmI,vAcAlaH-vAcAwaH,☼☀pravacanIyaH (brAhmaRaH,anuvAko vA),☼☀guRavacanaH,vAcaH viva kzuH,vAvacaH;☼
+↱☀ uktam-uktaH-uktavAn,vAcitam-taH,vivakzitaH,vAvacitaH-tavAn;☼
+↷☀bruvaH,brAhmaRibruvA,☼☀viduzibruvA-viduzIbruvA,SreyasibruvA-SreyasIbruvA,☼☀vidvadbruvA,SreyobruvA,vAk-vAcA,☼☀anUcAnaH,☼☀vAggmI,vAcAlaH-vAcAwaH,☼☀pravacanIyaH (brAhmaRaH,anuvAko vA),☼☀guRavacanaH,vAcaH viva kzuH,vAvacaH;☼
 ↰☀vaktavyam,vAcayitavyam,vivakzitavyam,vAvacitavyam;☼
-↰☀pravacanIyam,vAcanIyam,vivakzaRIyam,vAvacanIyam;☼☀vAcyam-vAkyam,☼☀pravAcyam,avivAkyam,vAcyam,vAkovAkyam,vivakzyam,vAvacyam;☼
+↰☀pravacanIyam,vAcanIyam,vivakzaRIyam,vAvacanIyam;☼
+↷☀vAcyam-vAkyam,☼☀pravAcyam,avivAkyam,vAcyam,vAkovAkyam,vivakzyam,vAvacyam;☼
 ↰☀IzadvacaH-durvacaH-suvacaH;☼
 ↰☀ucyamAnaH,vAcyamAnaH,vivakzyamARaH,vAvacyamAnaH;☼
 ↰☀vAcaH,☼☀anuvAkaH-prAqvivAkaH,vAcaH,vivakzaH,vAvacaH;☼
@@ -17366,7 +17470,7 @@
 ↰☀BakzyamARaH,BAjayizyamARaH,biBakzizyamARaH,bABajizyamARaH;☼
 ↱☀ dehaBAk-dehaBAg-dehaBAjO-dehaBAjaH;☼
 ↰☀viBaktam-BaktavAn,BAjitaH,biBakzitaH,bABajitaH-tavAn;☼
-↰☀BajaH,☼☀BAgI,☼☀Baktam-BaktaH,☼☀rAjyaBAk-praBAk,☼☀BejivAn,☼☀☼☀BrAtA,☼☀DanaBAjI,☼☀viBaktiH,☼☀BajamAnaH,BAjaH,biBakzuH,bABajaH;☼
+↰☀BajaH,☼☀BAgI,☼☀Baktam-BaktaH,☼☀rAjyaBAk-praBAk,☼☀BejivAn,☼☀BrAtA,☼☀DanaBAjI,☼☀viBaktiH,☼☀BajamAnaH,BAjaH,biBakzuH,bABajaH;☼
 ↰☀Baktavyam,BAjayitavyam,biBakzitavyam,bABajitavyam;☼
 ↰☀BajanIyam,BAjanIyam,biBakzaRIyam,bABajanIyam;☼
 ↱☀ viBajyam,☼☀viBAgyam,BAjyam,biBakzyam,bABajyam;☼
@@ -17510,7 +17614,8 @@
 
 ⊥H_1153∥
 ⊕☀ BAyakaH-yikA,☼☀BApakaH-pikA,biBAsakaH-sikA,bABAyakaH-yikA;☼
-↰☀BAtA-BAtrI,BApayitA-trI,biBAsitA-trI,bABAyitA-trI;☼☀BAn-BAntI-BAtI,☼☀BApayan-ntI,biBAsan-ntI;☼
+↰☀BAtA-BAtrI,BApayitA-trI,biBAsitA-trI,bABAyitA-trI;☼
+↷☀BAn-BAntI-BAtI,☼☀BApayan-ntI,biBAsan-ntI;☼
 ↰☀BAsyan-ntI-tI,BApayizyan-ntI-tI,biBAsizyan-ntI-tI;☼
 ↱☀ vyatipraBAnaH,BApayamAnaH,BApayizyamARaH,bABAyamAnaH,bABAyizyamARaH;☼
 ↰☀BAH-BO-BAH;☼
@@ -17541,7 +17646,8 @@
 ⊥H_1155∥
 
 ↰☀BAmakaH-mikA,BAmakaH-mikA,viBAmizakaH-zikA,bABAmakaH-mikA;☼
-↰☀BAmitA-trI,BAmayitA-trI,biBAmizitA-trI,bABAmitA-trI;☼☀BAmayan-ntI,BAmayizyan-ntI-tI;☼
+↰☀BAmitA-trI,BAmayitA-trI,biBAmizitA-trI,bABAmitA-trI;☼
+↷☀BAmayan-ntI,BAmayizyan-ntI-tI;☼
 ↱☀ devadattAya BAmamAnaH,biBAmizamARaH,bABAmyamAnaH;☼
 ↰☀BAmizyamARaH,biBAmizizyamARaH,bABAmizyamARaH;☼
 ↱☀ BAn-BAmO-BAmaH;☼
@@ -17598,14 +17704,16 @@
 ↰☀BindAnaH,BedayamAnaH,biBitsamAnaH,beBidyamAnaH;☼
 ↰☀BetsyamAnaH,BedayizyamARaH,biBitsizyamARaH,beBidizyamARaH;☼
 ↱☀ gotraBid,kAzWaBid,udBit,praBit-praBidO-praBidaH;☼
-↱☀ Bittam [Sakalam],BittaH,☼☀Binnam-BinnavAn,Beditam-taH,biBitsitaH,beBiditaH-tavAn;☼☀udBidaH,☼☀BidelimAH,☼☀Biduram,☼☀BidyaH☼☀ [nadaH],☼☀karRaBedI,☼☀kAzWaBedaH,☼☀biBidvAn,☼☀BedanaH-BedaH,biBitsuH,beBidaH;☼
+↱☀ Bittam [Sakalam],BittaH,☼☀Binnam-BinnavAn,Beditam-taH,biBitsitaH,beBiditaH-tavAn;☼
+↷☀udBidaH,☼☀BidelimAH,☼☀Biduram,☼☀BidyaH☼☀ [nadaH],☼☀karRaBedI,☼☀kAzWaBedaH,☼☀biBidvAn,☼☀BedanaH-BedaH,biBitsuH,beBidaH;☼
 ↰☀Bettavyam,Bedayitavyam,biBitsitavyam,beBiditavyam;☼
 ↰☀BedanIyam,BedanIyam,biBitsanIyam,beBidanIyam;☼
 ↰☀Bedyam,Bedyam,biBitsyam,beBidyam;☼
 ↰☀BidyamAnaH,BedyamAnaH,biBitsyamAnaH,beBidyamAnaH;☼
 ↰☀IzadBedaH-durBedaH-suBedaH;☼
 ↰☀BedaH,udBedaH,BedaH,biBitsaH,beBidaH;☼
-↰☀Bettum,Bedayitum,biBitsitum,beBiditum;☼☀BidA,BittiH-BidiH,BedanA,biBitsA,beBidA;☼
+↰☀Bettum,Bedayitum,biBitsitum,beBiditum;☼
+↷☀BidA,BittiH-BidiH,BedanA,biBitsA,beBidA;☼
 ↰☀Bedanam,Bedanam,biBitsanam,beBidanam;☼
 ↰☀BittvA,BedayitvA,biBitsitvA,beBiditvA;☼
 ↰☀saMBidya,saMBedya,prabiBitsya,prabeBidya,☼☀prabeBidayya gataH;☼
@@ -17646,7 +17754,8 @@
 ↱☀ BuYjAnaH,BojayamAnaH,buBukzamARaH,boBujyamAnaH;☼
 ↰☀BokzyamARaH,BojayizyamARaH,buBukzizyamARaH,boBujizyamARaH;☼
 ↰☀hutaBuk,havyaBuk,☼☀baliBuk-baliBujO-baliBujaH;☼
-↰☀Buktam-BuktavAn,☼☀praBuktaH,BojitaH,buBukzitaH,boBujitaH-tavAn;☼☀BojaH,☼☀viSvaBojaH,☼☀uzRaBojI-SItaBojI,☼☀kalahaBojI,☼☀aSrAdDaBojI,☼
+↰☀Buktam-BuktavAn,☼☀praBuktaH,BojitaH,buBukzitaH,boBujitaH-tavAn;☼
+↷☀BojaH,☼☀viSvaBojaH,☼☀uzRaBojI-SItaBojI,☼☀kalahaBojI,☼☀aSrAdDaBojI,☼
 ↰☀kAMsyaBojI,(BogaM)☼☀ BuYjAnaH,BojaH,☼☀buBukzuH,boBujaH;☼
 ↰☀Boktavyam,Bojayitavyam,buBukzitavyam,boBujitavyam;☼
 ↰☀praniBojanIyam-praRiBojanIyam,BojanIyam,buBukzaRIyam,boBujanIyam;☼
@@ -17705,7 +17814,7 @@
 ↰☀vyatiBavizyamARaH,BAvayizyamARaH,vyatibuBUzizyamARaH,boBUyizyamARaH;☼
 ↱☀ gAndinIBUH-gAndinIBuvO-gAndinIBuvaH;☼
 ↱☀ BUtam,BUtavAn,BAvitaH,buBUzitaH,boBUyitaH-tavAn;☼
-↱☀ BavaH,BAvaH,☼☀BavyaH (devadattaH),☼☀aBiBAvI,☼☀pariBAvI☼☀ pariBavI,☼☀aBAvI,☼☀BAvI,☼☀aBiBAvakaH-aBiBavitA,☼☀BavitA,☼☀AQyamBavizRuH-☼
+↱☀ BavaH,BAvaH,☼☀BavyaH (devadattaH),☼☀aBiBAvI,☼☀pariBAvI,☼☀pariBavI,☼☀aBAvI,☼☀BAvI,☼☀aBiBAvakaH-aBiBavitA,☼☀BavitA,☼☀AQyamBavizRuH-☼
 
 
 
@@ -17776,7 +17885,7 @@
 ↰☀BarizyamARaH,BArayizyamARaH,biBarizizyamARaH-buBUrzizyamARaH,beBrIyizyamARaH;☼
 ↱☀ medinIBft-BftO-BftaH;☼
 ↰☀Bftam-tavAn,BftakI,☼☀BAritaH,biBarizitaH-buBUrzitaH,beBrIyitaH-tavAn;☼
-↱☀ jAraBaraH,☼☀udakaBAraH,vaMSaBAraH☼☀ AtmamBariH,☼☀☼☀kukzimBariH-udaramBariH,☼☀SAkamBarI,☼☀abBram,☼☀mAlaBArI-utpalamAlaBArI,☼☀viSvamBaraH-viSvamBarA,☼☀grAmaBartA,☼☀baBriH,BAraH,biBarizuH-buBUrzuH,☼☀☼☀beBriyaH;☼
+↱☀ jAraBaraH,☼☀udakaBAraH,vaMSaBAraH☼☀ AtmamBariH,☼☀kukzimBariH-udaramBariH,☼☀SAkamBarI,☼☀abBram,☼☀mAlaBArI-utpalamAlaBArI,☼☀viSvamBaraH-viSvamBarA,☼☀grAmaBartA,☼☀baBriH,BAraH,biBarizuH-buBUrzuH,☼☀beBriyaH;☼
 ↰☀Bartavyam,BArayitavyam,biBarizitavyam-buBUrzitavyam,beBrIyitavyam;☼
 ↰☀BaraRIyam,BAraRIyam,biBarizaRIyam-buBUrzaRIyam,beBrIyaRIyam;☼
 ↱☀ BftyaH,BAryAH (kzatriyAH),☼☀saMBftyaH-saMBAryaH,☼☀samBaryam,BAryam,biBarizyam-buBUrzyam,beBrIyyam;☼
@@ -17909,7 +18018,8 @@
 
 ⊥H_1186∥
 
-↰☀biBarkzakaH-biBrajjizakaH-biBrakzakaH-kzikA,☼☀barIBfjjakaH-jjikA;☼☀BarzwA-BarzwrI-BrazwA-BrazwrI,BarjayitA-BrajjayitA-trI,biBarjizitA-biBarkzitA-☼
+↰☀biBarkzakaH-biBrajjizakaH-biBrakzakaH-kzikA,☼☀barIBfjjakaH-jjikA;☼
+↷☀BarzwA-BarzwrI-BrazwA-BrazwrI,BarjayitA-BrajjayitA-trI,biBarjizitA-biBarkzitA-☼
 ↰☀biBrajjizitA-biBrakzitA-trI,barIBfjjitA-trI;☼
 ↱☀ Bfjjan-ntI-tI,Barjayan-Brajjayan-ntI,biBarjizan-biBarkzan-biBrajjizan-☼
 ↰☀biBrakzan-ntI;☼
@@ -18202,7 +18312,7 @@
 ↰☀madayamAnaH,madayizyamARaH,—mAmadyamAnaH,mAmadizyamARaH;☼
 ↰☀sumat-sumad-sumadO-sumadaH;☼
 ↱☀ mattam-mattaH-mattavAn,maditaH,mimadizitaH,mAmaditaH-tavAn;☼
-↰☀madaH,☼☀pramadvaraH,☼☀pramAdI,☼☀irammadaH,☼☀☼☀unmadizRuH,☼☀madaH,☼☀madanaH,mimadizuH,mAmadaH;☼
+↰☀madaH,☼☀pramadvaraH,☼☀pramAdI,☼☀irammadaH,☼☀unmadizRuH,☼☀madaH,☼☀madanaH,mimadizuH,mAmadaH;☼
 ↰☀maditavyam,madayitavyam,mimadizitavyam,mAmaditavyam;☼
 ↰☀madanIyam,madanIyam,mimadizaRIyam,mAmadanIyam;☼
 ↰☀mAdyam-madyam,madyam,mimadizyam,mAmadyam;☼
@@ -18321,7 +18431,7 @@
 ⊕☀mAlakaH-likA,mAlakaH-likA,mimalizakaH-zikA,mAmalakaH-likA;☼
 ↰☀malitA-trI,mAlayitA-trI,mimalizitA-trI,mAmalitA-trI;☼
 
-↰☀ malam,☼☀kamalam,☼☀parimalam,☼☀mAlA-mAlI,☼☀mAlaBArI☼☀ mAlyam,☼☀malinaH-malImasaH,☼☀Amalakam-AmalakI,☼☀malayaH;☼
+↰☀ malam,☼☀kamalam,☼☀parimalam,☼☀mAlA-mAlI,☼☀mAlaBArI,☼☀mAlyam,☼☀malinaH-malImasaH,☼☀Amalakam-AmalakI,☼☀malayaH;☼
 
 
 
@@ -18410,10 +18520,11 @@
 ↱☀ magnaH-magnavAn,majjitaH,mimaNkzitaH,mAmajjitaH-tavAn;☼
 ↰☀majjaH,majjaH,mimaNUkzuH,mAmajjaH;☼
 ↰☀maNktavyam,majjayitavyam,mimaNkzitavyam,mAmajjitavyam;☼
-↰☀majjanIyam,majjanIyam,mimaNkzaRIyam,mAmajjanIyam;☼☀madgyam-madgyaH,majjyam,mimaNkzyam,mAmajjyam;☼
+↰☀majjanIyam,majjanIyam,mimaNkzaRIyam,mAmajjanIyam;☼
+↷☀madgyam-madgyaH,majjyam,mimaNkzyam,mAmajjyam;☼
 ↰☀IzanmajjaH-durmajjaH-sumajjaH;☼
 ↰☀majjyamAnaH,majjyamAnaH,mimaNkzyamARaH,mAmajjyamAnaH;☼
-↰☀madgaH,☼☀majjaTuH☼☀ majjaH,mimaNkzaH,mAmajjaH;☼
+↰☀madgaH,☼☀majjaTuH,☼☀majjaH,mimaNkzaH,mAmajjaH;☼
 ↰☀maNktum,majjayitum,mimaNkzitum,mAmajjitum;☼
 ↱☀ majjA,majjanA,mimaNkzA,mAmajjA;☼
 ↰☀majjanam,majjanam,mimaNkzaRam,mAmajjanam;☼
@@ -18457,7 +18568,8 @@
 
 
 ↰☀ mAyakaH-yikA,☼☀mApakaH-pikA,☼☀mitsakaH-tsikA,☼☀memIyakaH-yikA;☼
-↰☀mAtA-trI,mApayitA-trI,mitsitA-trI,memIyitA-trI;☼☀nirmAn-ntI-tI,mApayizyan-ntI-tI,mitsizyan-ntI-tI;☼
+↰☀mAtA-trI,mApayitA-trI,mitsitA-trI,memIyitA-trI;☼
+↷☀nirmAn-ntI-tI,mApayizyan-ntI-tI,mitsizyan-ntI-tI;☼
 ↰☀mApayamAnaH,mApayizyamARaH,memIyamAnaH,memIyizyamARaH;☼
 ↰☀pramIH-pramyO-pramyaH;☼
 ↱☀ mitam-taH-tavAn,mApitaH,mitsitaH,memIyitaH-tavAn;☼
@@ -18592,7 +18704,8 @@
 ↰☀minvAnaH,mApayamAnaH,mitsamAnaH,memIyamAnaH;☼
 ↰☀mAsyamAnaH,mApayizyamARaH,mitsizyamARaH,memIyizyamARaH;☼
 ↰☀pramAH-pramO-pramAH;☼
-↱☀ mitam-taH-tavAn,mApitaH,mitsitaH,memIyitaH-tavAn;☼☀mayaH,☼☀mAyI,mApaH,mitsuH,☼☀memyaH;☼
+↱☀ mitam-taH-tavAn,mApitaH,mitsitaH,memIyitaH-tavAn;☼
+↷☀mayaH,☼☀mAyI,mApaH,mitsuH,☼☀memyaH;☼
 ↰☀mAtavyam,mApayitavyam,mitsitavyam,memIyitavyam;☼
 ↱☀ praRimAnIyam,praRimApanIyam,mitsanIyam,memIyanIyam;☼
 ↱☀ meyam,mApyam,mitsyam,memIyyam;☼
@@ -19363,7 +19476,8 @@
 ↰☀yajan-ntI,yAjayan-ntI,yiyakzan-ntI;☼
 ↰☀yakzyan-ntI-tI,yAjayizyan-ntI-tI,yiyakzizyan-ntI-tI;☼
 ↰☀yajamAnaH,yAjayamAnaH,☼☀yiyakzamARaH,yAyajyamAnaH;☼
-↰☀yakzyamARaH,yAjayizyamARaH,yiyakzizyamARaH,yAyajizyamARaH;☼☀devew-deveq-devejO-devejaH;☼
+↰☀yakzyamARaH,yAjayizyamARaH,yiyakzizyamARaH,yAyajizyamARaH;☼
+↷☀devew-deveq-devejO-devejaH;☼
 ↱☀ izwam-izwaH-izwavAn-izwI,yAjitaH,yiyakzitaH,yAyajitaH-tavAn;☼
 
 ↰☀yAjaH,yiyakzuH,☼☀yAyajUkaH,☼☀yAyajaH;☼
@@ -19373,7 +19487,8 @@
 ↰☀IzadyajaH-duryajaH-suyajaH;☼
 ↱☀ ijyamAnaH,yAjyamAnaH,yiyakzyamARaH,yAyajyamAnaH;☼
 ↱☀ yAgaH-anuyAgaH-prayAgaH,☼☀prayAjaH-anuyAjaH,☼☀upAMSuyAjaH-patnIsaMyAjaH-ftuyAjaH-upayAjaH,☼☀yajYaH,yAjaH,yiyakzaH,yAyajaH;☼
-↰☀yazwum,☼☀yazwuM,yAjako [vA yAti],yAjayitum,yiyakzitum,yAyajitum;☼☀izwiH-ijyA,☼☀☼☀yazwiH,yAjanA,yiyakzA,yAyajA;☼
+↰☀yazwum,☼☀yazwuM,yAjako [vA yAti],yAjayitum,yiyakzitum,yAyajitum;☼
+↷☀izwiH-ijyA,☼☀yazwiH,yAjanA,yiyakzA,yAyajA;☼
 ↰☀yajanam,yAjanam,yiyakzaRam,yAyajanam;☼
 ↰☀izwvA,yAjayitvA,yiyakzitvA,yAyajitvA;☼
 ↰☀anvijya,prayAjya,prayiyakzya,prayAyajya;☼
@@ -19415,7 +19530,8 @@
 ⊥H_1340∥
 
 ↰☀yAmakaH-mikA,☼☀yamakaH-mikA,☼☀AyAmakaH-mikA,☼☀yiyaMsakaH-sikA,☼☀yaMyamakaH-ya~yyamakaH-mikA;☼
-↱☀ yantA-yantrI,yamayitA-AyAmayitA-trI,yiyaMsitA-trI,yaMyamitA-trI;☼☀yacCan-ntI,niyamayan-yAmayan-ntI,yiyaMsan-ntI;☼
+↱☀ yantA-yantrI,yamayitA-AyAmayitA-trI,yiyaMsitA-trI,yaMyamitA-trI;☼
+↷☀yacCan-ntI,niyamayan-yAmayan-ntI,yiyaMsan-ntI;☼
 ↰☀yaMsyan-ntI-tI,niyamayizyan-yAmayizyan-ntI-tI,yiyaMsizyan-ntI-tI;☼
 ↱☀ AyacCamAnaH,☼
 
@@ -19423,10 +19539,11 @@
 
 ↰☀yamayamAnaH,niyamayamAnaH,☼☀AyAmayamAnaH,☼☀AyiyaMsamAnaH,yaMyamyamAnaH;☼
 
-↰☀AyAmayizyamARaH,yamayizyamARaH-niyamayizyamARaH,AyiyaMsizyamARaH,yaMyamizyamARaH;☼☀ripuyat-ripuyatO-ripuyataH;☼
+↰☀AyAmayizyamARaH,yamayizyamARaH-niyamayizyamARaH,AyiyaMsizyamARaH,yaMyamizyamARaH;☼
+↷☀ripuyat-ripuyatO-ripuyataH;☼
 ↱☀ viyat-viyatO-viyataH;☼
 ↱☀ yatam-yataH-yatavAn,niyamitaH-AyAmitaH,yiyaMsitaH,yaMyamitaH-tavAn;☼
-↱☀ yamaH,☼☀vAcaMyamaH,☼☀☼☀yatiH,☼☀AyAmI,☼☀vAgyAmaH,yamaH,niyamaH-AyAmaH,☼☀saMyamanaH,yiyaMsuH,yaMyamaH;☼
+↱☀ yamaH,☼☀vAcaMyamaH,☼☀yatiH,☼☀AyAmI,☼☀vAgyAmaH,yamaH,niyamaH-AyAmaH,☼☀saMyamanaH,yiyaMsuH,yaMyamaH;☼
 ↰☀yantavyam,yamayitavyam-AyAmayitavyam,yiyaMsitavyam,yaMyamitavyam;☼
 ↰☀yamanIyam,yamanIyam-yAmanIyam,yiyaMsanIyam,yaMyamanIyam;☼
 ↱☀ yamyam,☼☀aniyamyam-viniyamyam,niyAmyam,yamyam-AyAmyam,yiyaMsyam,yaMyamyam;☼
@@ -19482,7 +19599,8 @@
 ↱☀ yutam-yutaH-yutavAn,yAvitaH,yiyavizitaH-yuyUzitaH,yoyUyitaH-tavAn;☼
 ↱☀ yavaH-yavAnI,☼☀yavanaH-yavanAnI,yavanI,☼☀yavakaH,yAvaH,yAvakaH,☼☀yAvakam,yAvaH,yiyavizuH-yuyUzuH-yiyAvayizuH,yoyuvaH;☼
 ↰☀yavitavyam,yAvayitavyam,yiyavizitavyam-yuyUzitavyam,yoyUyitavyam;☼
-↱☀ prayavaRIyam,praRiyavanIyam-praniyavanIyam,☼☀prayAvanIyam-prayAvaRIyam,yiyavizaRIyam-yuyUzaRIyam,yoyUyanIyam;☼☀yAvyam,yAvyam,yiyavizyam-yuyUzyam,yoyUyyam;☼
+↱☀ prayavaRIyam,praRiyavanIyam-praniyavanIyam,☼☀prayAvanIyam-prayAvaRIyam,yiyavizaRIyam-yuyUzaRIyam,yoyUyanIyam;☼
+↷☀yAvyam,yAvyam,yiyavizyam-yuyUzyam,yoyUyyam;☼
 ↰☀IzadyavaH-duryavaH-suyavaH;☼
 ↱☀ yUyamAnaH,yAvyamAnaH,yiyavizyamARaH-yuyUzyamARaH,yoyUyyamAnaH;☼
 ↱☀ prayavaH,☼☀saMyAvaH,☼☀udyAvaH,☼☀udyAvaH,☼☀yavaH,☼☀yotram,☼☀yOtram,yAvaH,yiyavizaH,yuyUzaH,yoyUyaH;☼
@@ -19790,7 +19908,8 @@
 ↱☀ AraBamARaH,[Boktum] AraBamARaH,ramBayamARaH,ripsamAnaH,rAraByamARaH,☼
 ↰☀rapsyamAnaH,ramBayizyamARaH,ripsizyamARaH,rAraBizyamARaH;☼
 ↰☀surap-suraB-suraBO-suraBaH;☼
-↰☀ArabDam-bDaH,ramBitam-taH,ripsitam,rAraBitam-taH-tavAn;☼☀ramBaH-ramBA,☼☀sADvAramBI,ramBaH,ripsuH,☼☀rAramBaH;☼
+↰☀ArabDam-bDaH,ramBitam-taH,ripsitam,rAraBitam-taH-tavAn;☼
+↷☀ramBaH-ramBA,☼☀sADvAramBI,ramBaH,ripsuH,☼☀rAramBaH;☼
 ↰☀ArabDavyam,AramBayitavyam,ripsitavyam,rAraBitavyam;☼
 ↰☀AramBaRIyam,AramBaRIyam,ripsanIyam,rAraBaRIyam;☼
 ↱☀ AraByam,AramByam,ripsyam,rAraByam;☼
@@ -19822,7 +19941,8 @@
 
 ↰☀[yAvadBuktam] upariraMsizyan-ntI-tI;☼
 ↰☀ramamARaH,yAvadBuktamuparamamARaH,ramayamARaH,riraMsamAnaH,raMramyamARaH;☼
-↰☀raMsyamAnaH,[yAvadBuktam] uparaMsyamAnaH,ramayizyamARaH,riraMsizyamARaH,raMramizyamARaH;☼☀surat-suratO-surataH;☼
+↰☀raMsyamAnaH,[yAvadBuktam] uparaMsyamAnaH,ramayizyamARaH,riraMsizyamARaH,raMramizyamARaH;☼
+↷☀surat-suratO-surataH;☼
 ↰☀ratam-rataH-ratavAn,ramitaH,riraMsitaH,raMramitaH-tavAn;☼
 ↱☀ ramaH-ramA,rAmaH-rAmA,☼☀rAmaH,☼☀ramyaH,ramaRIyaH,☼☀remiH,☼☀rantiH,☼
 
@@ -20075,7 +20195,8 @@
 
 
 ↰☀recakaH-cikA,recakaH-cikA,☼☀ririkzakaH-kzikA,rericakaH-cikA;☼
-↰☀rektA-rektrI,recayitA-trI,ririkzitA-trI,rericitA-trI;☼☀riYcan-tI,recayan-ntI,ririkzan-ntI;☼
+↰☀rektA-rektrI,recayitA-trI,ririkzitA-trI,rericitA-trI;☼
+↷☀riYcan-tI,recayan-ntI,ririkzan-ntI;☼
 ↰☀rekzyan-ntI-tI,recayizyan-ntI-tI,ririkzizyan-ntI-tI;☼
 ↰☀riYcAnaH,recayamAnaH,ririkzamARaH,rericyamAnaH;☼
 
@@ -20109,7 +20230,8 @@
 
 
 ⊥H_1408∥
-⊕☀rezakaH-zikA,rezakaH-zikA,☼☀ririzizakaH-rirezizakaH-zikA,rerizakaH-zikA;☼☀rezitA-trI-rezwA-rezwrI,rezayitA-trI,ririzizitA-rirezizitA-trI,rerizitA-trI;☼
+⊕☀rezakaH-zikA,rezakaH-zikA,☼☀ririzizakaH-rirezizakaH-zikA,rerizakaH-zikA;☼
+↷☀rezitA-trI-rezwA-rezwrI,rezayitA-trI,ririzizitA-rirezizitA-trI,rerizitA-trI;☼
 ↰☀rezan-ntI,rezayan-ntI,ririzizan-rirezizan-ntI;☼
 ↰☀rezizyan-ntI-tI,rezayizyan-ntI-tI,ririzizizyan-rirezizizyan-ntI-tI;☼
 ↰☀rezayamARaH,rezayizyamARaH,rerizyamARaH,rerizizyamARaH;☼
@@ -20332,7 +20454,8 @@
 ↰☀ropayamARaH-rohayamARaH,roruhyamARaH;☼
 ↰☀ropayizyamARaH-rohayizyamARaH,roruhizyamARaH;☼
 ↱☀ amburuw-ruq-ruhO-ruhaH;☼
-↰☀rUQam-rUQaH-rUQavAn,☼☀ArUQo vfkzam-ArUQo vfkzaH,☼☀rUQaH,ropitaH-rohitaH,☼☀rohitaH,lohitaH-lohitAyA,lohitakaH,lohitakaM [muKam],rurukzitaH,roruhitaH-tavAn;☼☀ruhaH-rohaH,praruhaH-prarohaH,☼☀pARiruhaH-BUruhaH-urvIruhaH-SiroruhaH-saroruham,☼☀nyagroDaH,☼☀vIrut,☼☀☼☀virohI-rohiRI,☼☀rohaRaH,ropaH-rohaH,☼☀DAnyaropI,rurukzuH-rorohaH;☼
+↰☀rUQam-rUQaH-rUQavAn,☼☀ArUQo vfkzam-ArUQo vfkzaH,☼☀rUQaH,ropitaH-rohitaH,☼☀rohitaH,lohitaH-lohitAyA,lohitakaH,lohitakaM [muKam],rurukzitaH,roruhitaH-tavAn;☼
+↷☀ruhaH-rohaH,praruhaH-prarohaH,☼☀pARiruhaH-BUruhaH-urvIruhaH-SiroruhaH-saroruham,☼☀nyagroDaH,☼☀vIrut,☼☀virohI-rohiRI,☼☀rohaRaH,ropaH-rohaH,☼☀DAnyaropI,rurukzuH-rorohaH;☼
 ↰☀roQavyam,ropayitavyam-rohayitavyam,rurukzitavyam,roruhitavyam;☼
 ↰☀rohaRIyam,ropaRIyam-rohaRIyam,rurukzaRIyam,roruhaRIyam;☼
 ↰☀rohyam,ropyam-rohyam,rurukzyam,roruhyam;☼
@@ -20656,7 +20779,7 @@
 
 
 
-↰☀☼
+↰
 ↰
 ↰☀anyaTA vinnAdivat vidita ityatrApi nizWAtakArasya nakAraH syAt;☼
 
@@ -20906,7 +21029,8 @@
 ↰☀ jawABirlApayamAnaH,varttikAmullApayamAnaH,bAlamullApayamAnaH;☼
 ↰☀lApayizyamARaH-lAlayizyamARaH-lInayizyamARaH,—lelIyizyamARaH;☼
 ↰☀lIH-liyO-liyaH;☼
-↱☀ lInam-naH-navAn,lApitaH-lAlitaH-lInitaH,lilIzitaH,lelItaH-tavAn;☼☀layaH,lApaH-lAlaH-lInaH,lilIzuH,lilApayizuH,lelyaH-leliyaH;☼
+↱☀ lInam-naH-navAn,lApitaH-lAlitaH-lInitaH,lilIzitaH,lelItaH-tavAn;☼
+↷☀layaH,lApaH-lAlaH-lInaH,lilIzuH,lilApayizuH,lelyaH-leliyaH;☼
 ↰☀letavyam-lAtavyam,lApayitavyam-lAlayitavyam-lInayitavyam,lilIzitavyam,lelIyitavyam;☼
 ↰☀layanIyam-lAnIyam,lApanIyam-lAlanIyam-lInanIyam,lilIzaRIyam,lelIyanIyam;☼
 ↱☀ IzallayaH-durlayaH-sulayaH;☼
@@ -20936,7 +21060,7 @@
 ↰☀lilAyayizitavyam;lAyanIyam,lilAyayizaRIyam;lAyyam,lilAyayizyam;☼
 ↰☀IzallAyaH-durlAyaH-sulAyaH;lAyyamAnaH,lilAyayizyamARaH;lAyaH,lilAyayizaH;☼
 ↰☀lAyayitum,lilAyayizitum;lAyanA,lilAyayizA;lAyanam,lilAyayizaRam;☼
-↰☀lAyayitvA,lilAyayizitvA;pralAyya,pralilAyayizya;lAyam_2-☼☀lAyayitvA_2;☼
+↰☀lAyayitvA,lilAyayizitvA;pralAyya,pralilAyayizya;lAyam_2-lAyayitvA_2;☼
 
 
 
@@ -21990,13 +22114,15 @@
 ↰☀BAraM devadattena,vAhayan yavAn balIvardAn,vivakzan-ntI;☼
 ↰☀vakzyan-ntI-tI,vAhayizyan-ntI-tI,vivakzizyan-ntI-tI;☼
 ↰☀vahamAnaH,☼☀vAhayamAnaH,vivakzamARaH,vAvahyamAnaH;☼
-↰☀vakzyamARaH,vAhayizyamARaH,vivakzizyamARaH,vAvahizyamARaH;☼☀viSvow,☼☀anaqvAn-anaqvAhO-anaqvAhaH;☼
+↰☀vakzyamARaH,vAhayizyamARaH,vivakzizyamARaH,vAvahizyamARaH;☼
+↷☀viSvow,☼☀anaqvAn-anaqvAhO-anaqvAhaH;☼
 ↱☀ UQam-kalpanApoQaH-prOQaH-UQavAn,vAhitaH,vivakzitaH,vAvahitaH-tavAn;☼
 ↱☀ vahaH-vahanaH-vAhaH,☼☀kUlamudvahaH,☼☀vahaH,☼☀BAravAhI,☼☀pravAhaRaH;☼
 ↱☀ fzIvahaH,☼
 ↰☀kapIvahaH,munIvahaH,☼☀vAvahiH,vAhaH,vivakzuH,vAvahaH;☼
 ↰☀praRivoQavyam,vAhayitavyam,vivakzitavyam,vAvahitavyam;☼
-↱☀ praRivahanIyam,vAhanIyam,vivakzaRIyam,vAvahanIyam;☼☀vahyam☼☀ [Sakawam],vAhyam,vAhyam,vivakzyam,vAvahyam;☼
+↱☀ praRivahanIyam,vAhanIyam,vivakzaRIyam,vAvahanIyam;☼
+↷☀vahyam☼☀ [Sakawam],vAhyam,vAhyam,vivakzyam,vAvahyam;☼
 ↰☀uhyamAnaH,vAhyamAnaH,vivakzyamARaH,vAvahyamAnaH;☼
 ↰☀IzadvahaH-durvahaH-suvahaH;☼
 ↱☀ vahaH,vAhaH,parivAhaH-parIvAhaH,vAhaH,vivakzaH,vAvahaH;☼
@@ -22166,7 +22292,8 @@
 
 ↰☀vevicCyamAnaH;☼
 
-↰☀cCizizyamARaH,vevicCizyamARaH;☼☀goviw-govicCO-govicCaH;☼
+↰☀cCizizyamARaH,vevicCizyamARaH;☼
+↷☀goviw-govicCO-govicCaH;☼
 ↱☀ vicCAH-vicCAyO-vicCAyaH;☼
 ↰☀vicCAyitam-taH;vicCitam-taH,vicCAyayitam-taH,vicCAyitaH,vivicCA-☼
 ↰☀yizitaH-vivicCizitaH,vevicCitaH-tavAn;☼
@@ -22228,7 +22355,8 @@
 ↱☀ udvegyam,udvejyam,vivijizyam,vevijyam;☼
 ↰☀vijyamAnaH,vejyamAnaH,vivijizyamARaH,vevijyamAnaH;☼
 ↰☀IzadvejaH-durvejaH-suvejaH;☼
-↱☀ udvegaH,☼☀vegitam,udvegaH,udvivijizaH,udvevijaH;☼☀udvijitum,udvejayitum,udvivijizitum,udvevijitum;☼
+↱☀ udvegaH,☼☀vegitam,udvegaH,udvivijizaH,udvevijaH;☼
+↷☀udvijitum,udvejayitum,udvivijizitum,udvevijitum;☼
 ↰☀udvektiH,udvejanA,vivijizA,vevijA;☼
 ↰☀udvejanam,udvejanam,udvivijizaRam,vevijanam;☼
 ↱☀ vijitvA,vejayitvA,vivijizitvA,vevijitvA;☼
@@ -22533,7 +22661,8 @@
 
 
 
-↰☀vArakaH-rikA,vArakaH-rikA,☼☀vivarizakaH-vivarIzakaH-vuvUrzakaH-rzikA,☼☀vevrIyakaH-yikA;☼☀varitA-varItA-trI,vArayitA-trI,vivarizitA-vivarIzitA-vuvUrzitA-trI,vevrIyitA-trI;☼
+↰☀vArakaH-rikA,vArakaH-rikA,☼☀vivarizakaH-vivarIzakaH-vuvUrzakaH-rzikA,☼☀vevrIyakaH-yikA;☼
+↷☀varitA-varItA-trI,vArayitA-trI,vivarizitA-vivarIzitA-vuvUrzitA-trI,vevrIyitA-trI;☼
 ↰☀vArayan-ntI,vArayizyan-ntI-tI;☼
 ↰☀vfRAnaH,vArayamARaH,vivarizamARaH-vivarIzamARaH-vuvUrzamARaH,vevrIyamARaH;☼
 ↰☀varizyamARaH,vArayizyamARaH,vivirizizyamARaH-vivarIzizyamARaH,vUvurzizyamARaH,vevrIyizyamARaH;☼
@@ -22915,7 +23044,8 @@
 ↰☀vyayyamAnaH,vyAyyamAnaH,vivyayizyamARaH,vAvyayyamARaH;☼
 ↰☀IzadvyayaH-durvyayaH-suvyayaH;☼
 ↰☀vyayaH,vyAyaH,vivyayaH,vAvyayaH;☼
-↰☀vyayitum,vyAyayitum,vivyayizitum,vAvyayitum;☼☀vyatiH,vyAyanA,vivyayizA,vAvyayA;☼
+↰☀vyayitum,vyAyayitum,vivyayizitum,vAvyayitum;☼
+↷☀vyatiH,vyAyanA,vivyayizA,vAvyayA;☼
 ↰☀vyayanam,vyAyanam,vivyayizaRam,vAvyayanam;☼
 ↰☀vyayitvA,vyAyayitvA,vivyayizitvA,vAvyayitvA;☼
 ↰☀pravyayya,pravyAyya,pravivyayizya,pravAvyayya;☼
@@ -23471,9 +23601,9 @@
 ↰☀Seyam,SAyyam,SiSayizyam,SASayyam;☼
 ↰☀IzacCayaH-duSSayaH-suSayaH;☼
 ↱☀ SayyamAnaH,SAyyamAnaH,SiSayizyamARaH,SASayyamAnaH;☼
-↱☀ SayaH,tava☼☀ upaSAyaH-viSAyaH,upaSayaH,viSayaH,☼☀saMSayaH-sAMSayikaH,☼☀atiSayaH-AtiSAyikaH-AtiSayikaH,SAyaH,SiSayizaH,SASayyaH;☼
+↱☀ SayaH,tava,☼☀upaSAyaH-viSAyaH,upaSayaH,viSayaH,☼☀saMSayaH-sAMSayikaH,☼☀atiSayaH-AtiSAyikaH-AtiSayikaH,SAyaH,SiSayizaH,SASayyaH;☼
 ↰☀Sayitum,SAyayitum,SiSayizitum,SASayyitum;☼
-↱☀ saMSItiH☼☀ SayyA,☼☀☼☀suKaSAyikA,☼☀suSayikA,SAyanA,SiSayizA-SiSAyayizA,SASayyA;☼
+↱☀ saMSItiH☼☀ SayyA,☼☀suKaSAyikA,☼☀suSayikA,SAyanA,SiSayizA-SiSAyayizA,SASayyA;☼
 
 ↰☀nam-AtiSAyanikam,SAyanam,SiSayizaRam,SASayyanam;☼
 ↱☀ SayitvA,☼☀SAyayitvA,SiSayizitvA,SASayyitvA;☼
@@ -24353,7 +24483,7 @@
 
 ⊥H_1836∥
 
-↰☀☼
+↰
 
 
 
@@ -24570,7 +24700,7 @@
 ⊥H_1876∥
 
 ↰☀tezWIyitA-trI;☼
-↱☀ tizWan-aDitizWan [vEkuRWaM]-ntI,☼☀[grAmAt SataM] uttizWat,[AsanAt]☼☀ uttizWan,☼☀[yOvanena BartAraM] upatizWantI,[yAcakaH praBuM]☼☀ upatizWan,☼
+↱☀ tizWan-aDitizWan [vEkuRWaM]-ntI,☼☀[grAmAt SataM] uttizWat,[AsanAt],☼☀uttizWan,☼☀[yOvanena BartAraM] upatizWantI,[yAcakaH praBuM],☼☀upatizWan,☼
 ↰☀sTApayan-ntI,tizWAsan-ntI;☼
 ↰☀sTAsyan-aDizWAsyan-ntI-tI,sTApayizyan-ntI-tI,tizWAsizyan-ntI-tI;☼
 ↱☀ santizWamAnaH-avatizWamAnaH-pratizWamAnaH-vitizWamAnaH,[SabdaM nityaM]☼☀ AtizWa-☼
@@ -24586,10 +24716,11 @@
 ↱☀ sTAyI,☼☀duHsTaH,☼☀kakutsTaH,☼☀tapassTaH,☼☀prasTaH-prazWaH,☼☀samasTaH-☼
 
 
-↰☀agnizWaH,☼☀AKUtTaH-SalaBotTaH,☼☀aSvatTAmA,☼☀SaMsTaH,SaMsTAH,☼☀cirasTAyI,☼☀sTAsnuH,☼☀sTAyukaH,☼☀sTAvaraH,☼☀tasTivAn,☼☀prasTAyI,[cEtro guroH]☼☀ upasTAnIyaH,sTApaH,☼☀pratizWAsuH,tizWApayizuH,☼☀tezWiyaH;☼
+↰☀agnizWaH,☼☀AKUtTaH-SalaBotTaH,☼☀aSvatTAmA,☼☀SaMsTaH,SaMsTAH,☼☀cirasTAyI,☼☀sTAsnuH,☼☀sTAyukaH,☼☀sTAvaraH,☼☀tasTivAn,☼☀prasTAyI,[cEtro guroH],☼☀upasTAnIyaH,sTApaH,☼☀pratizWAsuH,tizWApayizuH,☼☀tezWiyaH;☼
 ↰☀sTAtavyam,sTApayitavyam,tizWAsitavyam,tezWIyitavyam;☼
 ↱☀ sTAnIyam,sTApanIyam,tizWAsanIyam,tezWIyanIyam;☼
-↱☀ sTeyaH,sTeyam,sTApyam,tizWAsyam,tezWIyyam;☼☀IzatsTAnaH-duHsTAnaH-durupasTAnaH-susTAnaH;☼
+↱☀ sTeyaH,sTeyam,sTApyam,tizWAsyam,tezWIyyam;☼
+↷☀IzatsTAnaH-duHsTAnaH-durupasTAnaH-susTAnaH;☼
 ↱☀ upasTIyamAnaH,sTApyamAnaH,tizWAsyamAnaH,tezWIyyamAnaH;☼
 ↱☀ prasTaH,mAhikaprasTaH-indraprasTaH-mAlAprasTaH,sTApaH,tizWAsaH,tezWIyaH;☼
 ↰☀sTAtum-utTAtum,sTApayitum,tizWAsitum,tezWIyitum;☼
