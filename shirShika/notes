@@ -277,6 +277,27 @@ shirshika|vakya
     sed -i.bk 's/^\(.\)[^,\n]*[ \.]iti devaH [^\n]*$/\1/' ./*vakya*1.2.txt
     sed -i.bk 's/^\(.\)[^-\=,\n]*[ \.]iti[^-\=\n,]*$/\1/' ./*vakya*1.2.txt
     sed -i.bk 's/^\(.\)[^\n]*[ \.]iti devaH [^\n]*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/^\(.\)[^\n,\. ]* *\.*☼ *\.*$/\1/g' ./*vakya*1.2.txt
+    sed -i.bk 's/⊥/∥⊥/' ./*vakya*1.2.txt
+    sed -i.bk '/☼ *2[^0-9]/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\([ ,\.]\)\([a-zA-Z][a-zA-Z]\)\([^\n ,\.☀☼]*\)\([, \.][, \.]*\)\([☀☼]*\)\2/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/^.$/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/[a-zA-Z] *- *[a-zA-Z]/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\([ ☀☼,\.]\)\([a-zA-Z][a-zA-Z]\)\([^\n ,\.☀☼]*\)\([, \.][, \.]*\)\([☀☼]*\)\2/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\=/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/‘[ -]*[a-zA-Z][a-zA-Z]*[ -]*’/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk 's/, *☼ *$/☼/' ./*vakya*1.2.txt
+    sed -i.bk '/[☼☀, ]*,[☼☀, *]*☼[☼☀, *]*/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/^.☀[^\.☼☀(]*,[^\.(☼☀]*☼ *$/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\([ ☀☼,\.‘]\)\([a-zA-Z][a-zA-Z]\)\([^\n ,\.☀☼‘]*\)\([, \.][, \.]*\)\([☀☼]*\)\2/s/^/∥/' ./*vakya*1.2.txt
+    
+3. అస్సలు పరిగణలోకి రాని వాటిని  తీసేయాలి....
+    sed -i.bk '/^[^∥]/s/^\(.\).*$/∥\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/([^(]*)//g' ./*vakya*1.2.txt
+    sed -i.bk 's/\([☀’☼\.,]\)[^\n☼☀’\.,]* it[iy][^☼’☀\n\.,]*[☼☀\n\,.]/\1/g' ./*vakya*1.2.txt
+    sed -i.bk 's/[, ]*☼2☀[ ,]*/_2,☼☀/g' ./*vakya*1.2.txt
+    sed -i.bk 's/[, ]*☼2 *\./_2,/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/[, ]*☼2 *$/_2,/g' ./*vakya*1.2.txt
     
     
 
