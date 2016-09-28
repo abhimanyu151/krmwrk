@@ -1,0 +1,7 @@
+1.  మొదట సెమీకాలన్ ఉన్నయ్యి సిద్ధం చెయ్యాలి .  
+     first replace '\n([↱↷])' with '$1' in jedit
+     paste a_pattika1.1.txt shira_scln_vachan1.2.1.txt > a_scln1.1.txt
+     sed -i.bk 's/∥.*$//' a_scln1.1.txt
+     sed -i.bk 's/\t//' a_scln1.1.txt
+     paste a_scln1.1.txt shira_vakya1.2.txt > a_shira1.1.txt
+     
