@@ -5,7 +5,7 @@ along with them. pattern is [\$↰][\$↰]*[☀↰ ¤☼]*✔ to only ✔ .
 shirshika|scln|pattika
 =================================================
 
-1. పట్టికలో సరిపోయే అన్ని వరస్లు పొందడానికి 
+1.  పట్టికలో సరిపోయే అన్ని వరస్లు పొందడానికి 
     sed  '/^[⊕⊗↰]☀[^\n☼☀]*☼$\|⊥\|[-,;] *☼ *$/!s/^.*$//' ./*pattika1.1* > shira_scln_pattika1.2.txt
     
       వాడాలి. 
@@ -14,7 +14,7 @@ shirshika|scln|pattika
     sed -i 's/;[ -]*-[ -]*/;/g' ./*pattika1.2.txt
     sed -i 's/¤//g' ./*pattika1.2.txt
 
-3. ఈడ దాక 1.2 అంత్యంతో దాచా. ఇప్పటి నుండి 1.2.1.. అంత్యం పై పని.
+3.  ఈడ దాక 1.2 అంత్యంతో దాచా. ఇప్పటి నుండి 1.2.1.. అంత్యం పై పని.
 4. iti ని కల్గి ఉండే ఒక వర్గం ని సరిచేయడానికి
     sed -i 's/;[ ]*it[^\n☀☼;\.]*[\.]/;/g' ./shira_scln_pattika1.2.1.txt
     sed -i 's/;[ ]*it[^\n☀☼;\.]*[☼]/;☼/g' ./shira_scln_pattika1.2.1.txt
@@ -75,7 +75,327 @@ shirshika|scln|pattika
 
 ఇక్కడి దాక 1.2.3.txt తోకతో భద్రపరచబడ్డై. 1.2.4.txt తోకతో నకలు తీయబడ్డై.
 
+18.  రెండు సార్లు వచ్చిన -- ను ఒక పెద్ద ఎం-గీత గా మార్చాలి.
+     sed -i.bk 's/--/—/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/↰☀—/↰☀/' shira_scln_pattika1.2.4.txt
+     
+19.  ఎక్కుగా ఉన్న ఖాళీ స్పేస్ లను తొలగించాలి, మరియు విరామ చిహ్న స్థానాన్ని క్రమబద్ధీకరించాలి.
+     sed -i.bk 's/ *, *☼ *☀ */,☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *☼ *☀ *, */,☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *\([;\.-]\) *☼ *☀ */\1☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *☼ *☀ *\([;\.-]\) */\1☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/ *☼ *\([;\.-]\) *☀ */\1☼☀/g' shira_scln_pattika1.2.4.txt
+     sed -i.bk 's/-☼☀/-/g' ./shira_scln_pattika1.2.4.txt
 
+ఇక్కడికి 1.2.4 తోకతో దాయబడ్డై.. 1.2.5.txt తొకతో నకలు తీయబడ్డయ్.
+
+20.  ఖాళీ పాత్రని తొలగించాలె
+     sed -i.bk 's/☀☼//g' shira_scln_pattika1.2.5.txt
+     
+21. ముఖ్యమైంది... ఫుట్ నోట్స్ ని తొలగియ్యడం వల్ల ఏర్పడ్డ ఖాళి పాత్రలు లో విడి పదాలయితే విరామ చిహ్నంతో కలపాలి.
+     sed -i.bk 's/\([ ,☀☼]\)\([A-Za-z][A-Za-z]\)\([^\n ,\.;☼☀]*\) *☼☀ *\2/\1\2\3,☼☀\2/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ *☼☀ \([aeiou]\)/,☼☀\1/g'  shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/  *☼☀/,☼☀/g' shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/ *☼☀ \([AEIOU]\)/,☼☀\1/g'  shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/\]☼☀ /\],☼☀/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/)☼☀ /),☼☀/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ *☼☀ \[/,☼☀\[/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ *☼☀ (/,☼☀(/g' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\([ ,☀☼]\)\([A-Za-z][A-Za-z]\)\([^\n ,\.;☼☀]*\) *☼☀ *\2/\1\2\3,☼☀\2/Ig' shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/☼☀ \([HNRF]\)/\1/g' shira_scln_pattika1.2.5.txt
+     # backup done..................
+     # temporary symbal replacing for convinience...
+     sed -i.bk 's/☼☀ /✦/g' ./shira_scln_pattika1.2.5.txt
+
+22. ప్రారంభ పదానికి ముందున్న ఎక్కువ ఖాళీలను  తీసేయాల
+     sed -i.bk 's/^\([^\n⊥]☀\)  */\1/'  ./shira_scln_pattika1.2.5.txt
+
+23. మధ్యలో ఉన్న ఖాళీలని  విరామ చిహ్నాలగా మర్చాలి.
+     sed -i.bk 's/\([,\.;☼☀ ]\)\([A-Za-z\][A-Za-z\]\)\([^\n ,\.;☼☀]*\) \2/\1\2\3,\2/g' ./shira_scln_pattika1.2.5.txt
+
+24. మిగతా చిన్న చిన్న సవరణలన్ని చెయ్యాలి..
+     sed -i.bk 's/ *= *,* */\=/g' ./shira_scln_pattika1.2.5.txt
+     # ఇంతకు ముందటి   @23 మళ్లా చేయాలి..
+     sed -i.bk 's/\([,\.;☼☀ ]\)\([A-Za-z\][A-Za-z\]\)\([^\n ,\.;☼☀]*\) \2/\1\2\3,\2/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/tA trI/tA-trI/g' ./shira_scln_pattika1.2.5.txt
+
+     sed -i.bk 's/\([,\.;☼☀ ]\)\([A-Za-z\]\)\([^\n ,\.;☼☀]*\) \2/\1\2\3,\2/g'  ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\([,\.;☼☀ ]\)\([A-Za-z\]\)\([^\n ,\.;☼☀]*\) \2/\1\2\3,\2/g'  ./shira_scln_pattika1.2.5.txt
+     #... ముందు జాగ్రత్తగా బ్యాకప్ ప్రతి చెయ్యబడ్డది.
+     
+25. కుండళీ కరణాలను విరామ చిహ్నాలగా మార్చాలి....
+     sed -i.bk 's/\([a-zA-Z\.,;]\) *(/\1,/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/) *\([,\.;]\)/\1/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/^\(.☀\)(/\1/' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/☼[0-9()-][0-9()-]*☀/,☼☀/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/([^a-zA-Z\n][^A-Za-z\n]*)//g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/(//g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/) *\([a-zA-Z0-9]\)/,\1/g'  ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/)//g' ./shira_scln_pattika1.2.5.txt
+
+     sed -i.bk 's/\([a-zA-Z\.,;]\) *\[/\1,/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\] *\([,\.;]\)/\1/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/^\(.☀\)\[/\1/' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\[//g' ./shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/\] *\([a-zA-Z0-9]\)/,\1/g'  ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\]//g' ./shira_scln_pattika1.2.5.txt 
+
+26. పునస్సంభవ  విరామ చిహ్నాలని ఒంటిగా చెయ్యాలి..
+     sed -i.bk 's/ *\([,\.;]\) */\1/g' ./shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/,,/,/g' ./shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/[,;][,;]/;/g' ./shira_scln_pattika1.2.5.txt 
+     sed -i.bk 's/\.,/\./g' ./shira_scln_pattika1.2.5.txt 
+     
+
+27. సరైన చోట స్పేస్ లను విరామ చిహ్నాలతో ప్రతిస్థాపించాలి..
+     sed -i.bk 's/\([a-zA-Z0-9]\) \([a-zA-Z][a-zA-Z]\)\([^\n,\.; ☼☀]*\)\([,\.; ]\)\([☼☀]*\)\2/\1,\2\3\4\5\2/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/tam taH/tam-taH/g' ./shira_scln_pattika1.2.5.txt
+     #ఇంకోసారి పైన మొదటిది......
+     sed -i.bk 's/\([a-zA-Z0-9]\) \([a-zA-Z][a-zA-Z]\)\([^\n,\.; ☼☀]*\)\([,\.; ]\)\([☼☀]*\)\2/\1,\2\3\4\5\2/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\([,\.;☀☼✦]\)asya [^\n,\.;☀☼ ✦]* [^\n,\.;☀☼✦]*\([,\.;✦]\)/\1/' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/\([,\.;☀☼✦]\)asya [^\n,\.;☀☼ ✦]* [^\n,\.;☀☼✦]*\([☀☼]\)/\1\2/' ./shira_scln_pattika1.2.5.txt
+     
+     # స్పేస్ ను సరైన చోట్ల - తో ప్రతిస్థాపించాలి..........
+     sed -i.bk 's/-\([a-zA-Z]\)\([^,\.;☀☼✦ ]*\)\([,\.;☀☼✦][,\.;☀☼✦]*\)\([^,\.;☀☼✦ ]*\) \1/-\1\2\3\4-\1/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ \([a-zA-Z]\)\([^,\.;☀☼✦ \n]*\)\([,\.;☀☼✦][,\.;☀☼✦]*\)\([^,\.;☀☼✦ -\n]*\)-\1/-\1\2\3\4-\1/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/ tam\| tavAn\| zika\| lika\| ti\| tri\| nti\| trika\| taH\| sika\| lbika\| yika\| tsikA\| dikA\| nvikA/Q#q&/Ig' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/Q#q /-/g' ./shira_scln_pattika1.2.5.txt
+     sed -i.bk 's/H /H,/g' ./shira_scln_pattika1.2.5.txt
+     
+
+ఇక్కడికి 1.2.5.txt తోకతో దాయబడ్డది....   1.2.6.txt కి నకలు తీయబడ్డది....
+
+
+28. మరికొన్ని చిన్న చిన్న సవరణ..................
+     sed -i.bk 's/,[-—]/,/g' ./shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/\([,;]\)_2,/_2\1/g' ./shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/\([,;]\)[^a-zA-Z☼»]/\1/g' ./shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/[’‘]//g'  ./shira_scln_pattika1.2.6.txt 
+     sed -i.bk 's/\=/,/g'  ./shira_scln_pattika1.2.6.txt 
+     sed -i.bk 's/[✦,\.-],/,/g' ./shira_scln_pattika1.2.6.txt 
+     sed -i.bk 's/[✦,\.-];/;/g' ./shira_scln_pattika1.2.6.txt 
+     #### ✦ ని  అనవసరమైన చోట్ల తీసివేయాలి.....
+     sed -i.bk 's/✦\(n[^aeiou]\)/\1/Ig' ./shira_scln_pattika1.2.6.txt 
+     sed -i.bk 's/[,;]nt/-nt/Ig' ./shira_scln_pattika1.2.6.txt 
+     sed -i.bk 's/✦//g' ./shira_scln_pattika1.2.6.txt 
+     sed -i.bk 's/\([^,\.;]\)☼☀\([A-Za-z][,;\.-]\)/\1\2/g' shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/ *{[^{\n]*} *//g' shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/\([,\.;][A-Za-z]\)☼☀/\1/g' shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/\([^☀;☼,\.\n][^☀;☼,\.\n]*\)☼☀\([^ \n]\)/\1\2/g' shira_scln_pattika1.2.6.txt
+     sed -i.bk 's/\([^☀;☼,\.\n]\)[ -]*☼/\1,☼/g' shira_scln_pattika1.2.6.txt
+     
+ఇక్కడికి 1.2.6.txt తోకతో దాయబడ్డది... 1.2.7.txt తోకకి నకలు తీయబడ్డది....
+
+29. ఇక్కడి నుండి శీర్షికలను విడివిడిగా వేరు చెయ్యాలి....
+     sed -i.bk 's/\([,;\.]\)\([^☼\n]\)/\1⇤\2/g' ./shira_scln_pattika1.2.7.txt
+     sed -i.bk 's/☀\([^\n☀☼,\.;⇤]*[,;\.]\)☼/«\1»/g' ./shira_scln_pattika1.2.7.txt
+     sed -i.bk 's/☀\([^\n☀☼,\.;⇤«»]*[,\.;]\)/«\1»/g' ./shira_scln_pattika1.2.7.txt
+     sed -i.bk 's/⇤\([^\n☀☼,\.;⇤«»]*[,\.;]\)☼/«\1»/g' ./shira_scln_pattika1.2.7.txt
+     sed -i.bk 's/⇤\([^\n☀☼,\.;⇤«»]*[,\.;]\)/«\1»/g' ./shira_scln_pattika1.2.7.txt
+     sed -i.bk 's/«..»//' ./shira_scln_pattika1.2.7.txt
+     #నకలు భద్రపర్చబడింది.......
+
+
+
+shirshika|scln
+=================================================
+
+1. ప్రాధమికం....
+    cp shira_scln_pattika1.1.txt shira_scln_vachan1.1.txt
+    sed -i 's/⊥;/⊥/' ./shira_scln_vachan1.1.txt
+    sed -i 's/⊥.*$/&⇥/' ./shira_scln_vachan1.1.txt
+    sed  '/^[⊕⊗↰]☀[^\n☼☀]*☼$\|[-,;] *☼ *$/s/^.*$//' shira_scln_vachan1.1.txt  > shira_scln_vachan1.2.txt
+    sed -i 's/\([,;]\)[ -]*-[ -]*/\1/g' shira_scln_vachan1.2.txt
+    sed -i 's/¤//g' shira_scln_vachan1.2.txt
+    
+3.  
+    sed -i.bk 's/ *⊥ *<H>(\([0-9][0-9]*\)).*$/⊥H_\1;/' shira_scln_vachan1.2.txt
+    sed -i.bk 's/ *☼2☀\([;,\.]\) */_2\1☼☀/g' shira_scln_vachan1.2.txt
+    sed -i.bk 's/ *☼2\([;,\.]\) */_2\1☼/g' shira_scln_vachan1.2.txt
+    sed -i 's/☀ *☼//g'  shira_scln_vachan1.2.txt
+    sed -i.bk 's/ *☼2☀  */_2,☼☀/g' shira_scln_vachan1.2.txt
+    sed -i.bk 's/\([,\.;☼☀]\)[^,\.;☼☀\n]*iti [^,\.;☼☀\n]*\.[ ]*/\1/g' shira_scln_vachan1.2.txt
+    sed -i.bk 's/\([,\.;☼☀]\)[^,\.;☼☀\n]*([^\n)]*) [^,\.;☼☀\n]*\.[ ]*/\1/g' shira_scln_vachan1.2.txt
+    sed -i.bk 's/\([,\.;☼☀]\) *[^;☼☀\n]*([^\n)]*) [^;\n]*[;\.☼☀]/\1/g' shira_scln_vachan1.2.txt
+    sed -i.bk 's/([^\n)]*)//g' ./*vachan*1.2.txt
+    sed -i.bk 's/{[^\n}]*}//g' ./*vachan*1.2.txt
+    sed -i.bk 's/ *☼2☀ *- */_2,☼☀/g' ./*vachan*1.2.txt
+    
+
+4. వ్యర్ధమైన ఖాళీలను తొలగించాల...
+    sed -i.bk 's/ *\([,\.;-]\) *\([☀☼]*\) */\1\2/g' ./*vachan*1.2.txt
+    sed -i.bk 's/☀ *☼//g'  ./*vachan*1.2.txt
+    sed -i.bk 's/^\(.☀\)  */\1/g'  ./*vachan*1.2.txt 
+    sed -i.bk 's/\([;,]\)☼☀-/\1☼☀/g'  ./*vachan*1.2.txt
+    sed -i.bk 's/ ☼2/_2;☼/g'  ./*vachan*1.2.txt
+    sed -i.bk 's/_2\./_2;/g'  ./*vachan*1.2.txt
+    sed -i.bk 's/-☼☀/-/g'  ./*vachan*1.2.txt
+    sed -i.bk 's/[’ \.’]*([^\n]*$//g'  ./*vachan*1.2.txt
+    sed -i.bk 's/☼ *\. *$/;☼/g'  ./*vachan*1.2.txt
+    sed -i.bk 's/;[^\,;][^\,;][^\,;]*$/;/' ./*vachan*1.2.txt
+    sed -i.bk 's/☼☀-/-/g' ./*vachan*1.2.txt
+    sed -i.bk 's/\([,\.;]\)it.*$/\1/g' ./*vachan*1.2.txt
+    sed -i.bk 's/[,\.;☀]it[^☼\n]*☼//g' ./*vachan*1.2.txt
+    #  నకలు  తీయబడ్డది......
+    sed -i.bk 's/☀ *jYeyAni[^☼\n]*☼//g' ./*vachan*1.2.txt
+    sed -i 's/\([,\.;]\)[^\.,;\n]* it.*$/\1/' ./*vachan*1.2.txt
+    sed -i 's/\([;☀]\)[^\n☼]*[“‘][^☼\n]*☼/\1/' ./*vachan*1.2.txt
+    sed -i.bk 's/☀ *boDyAni[^☼\n]*☼//g' ./*vachan*1.2.txt
+    sed -i.bk 's/[\. ]*kvipi *//g' ./*vachan*1.2.txt 
+    sed -i.bk 's/☼☀ *H/H/g' ./*vachan*1.2.txt
+    sed -i.bk 's/ *\[/,/g' ./*vachan*1.2.txt
+    sed -i.bk 's/ *\] */,/g' ./*vachan*1.2.txt
+    sed -i.bk 's/\([,\.;☼☀]\) *\([a-zA-Z]\)\([^\n, \.;☼☀]*\)  *\2/\1\2\3,\2/g' ./*vachan*1.2.txt 
+    sed -i.bk 's/☀  */☀/g' ./*vachan*1.2.txt 
+    sed -i.bk 's/  *☼☀/☼☀/g' ./*vachan*1.2.txt  
+    
+ఇక్కడికి 1.2.txt తోకతో దాయబడ్డది, ఇకపై 1.2.1.txt లో దాయబడ్డది.....
+    sed -i.bk 's/\([,;\.]\)\([^☼\n]\)/\1⇤\2/g' ./*vachan*1.2.1.txt
+    sed -i.bk 's/☀\([^\n☀☼,\.;⇤]*[,;\.]\)☼/«\1»/g' ./*vachan*1.2.1.txt
+    sed -i.bk 's/☀\([^\n☀☼,\.;⇤«»]*[,\.;]\)/«\1»/g' ./*vachan*1.2.1.txt
+    sed -i.bk 's/⇤\([^\n☀☼,\.;⇤«»]*[,\.;]\)☼/«\1»/g' ./*vachan*1.2.1.txt
+    sed -i.bk 's/⇤\([^\n☀☼,\.;⇤«»]*[,\.;]\)/«\1»/g' ./*vachan*1.2.1.txt
+    sed -i.bk 's/«..»//' ./*vachan*1.2.1.txt
+    sed -i.bk 's/»[^»«\n][^»«\n]*«/»«/g' ./*vachan*1.2.1.txt
+    sed -i.bk 's/«.»//g' ./*vachan*1.2.1.txt
+    
+
+shirshika|vakya
+=================================================
+1. ప్రాథమికం.......
+    sed -i.bk 's/ *<H> *(\([0-9][0-9]*\)).*$/⊥H_\1/' shira_vakya1.1.txt
+    sed -i 's/<NI>/⊕/g' shira_vakya1.1.txt
+    sed -i 's/<[pP]>/⊗/g' shira_vakya1.1.txt
+    sed -i 's/<[H]>//g' shira_vakya1.1.txt
+    sed -i.bk 's/\[Page[^\n\[]*\] *//g' shira_vakya1.1.txt
+    sed '/;/s/^.*$//' shira_vakya1.1.txt > shira_vakya1.2.txt
+    sed '/^$/d' shira_vakya1.2.txt > vakya_idea1.2.txt
+    sed -i '/⊥/d' vakya_idea1.2.txt
+    
+    
+2. మొదట అస్సలు పరిగణలోకి రానివి..తీసేయ్యాలి..
+    sed -i.bk 's/^\([^\n]\)[^\n,\.-]*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk '/#/s/^\(.\).*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/^\(.\)[^,\n]*[ \.]iti devaH [^\n]*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/^\(.\)[^-\=,\n]*[ \.]iti[^-\=\n,]*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/^\(.\)[^\n]*[ \.]iti devaH [^\n]*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/^\(.\)[^\n,\. ]* *\.*☼ *\.*$/\1/g' ./*vakya*1.2.txt
+    sed -i.bk 's/⊥/∥⊥/' ./*vakya*1.2.txt
+    sed -i.bk '/☼ *2[^0-9]/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\([ ,\.]\)\([a-zA-Z][a-zA-Z]\)\([^\n ,\.☀☼]*\)\([, \.][, \.]*\)\([☀☼]*\)\2/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/^.$/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/[a-zA-Z] *- *[a-zA-Z]/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\([ ☀☼,\.]\)\([a-zA-Z][a-zA-Z]\)\([^\n ,\.☀☼]*\)\([, \.][, \.]*\)\([☀☼]*\)\2/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\=/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/‘[ -]*[a-zA-Z][a-zA-Z]*[ -]*’/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk 's/, *☼ *$/☼/' ./*vakya*1.2.txt
+    sed -i.bk '/[☼☀, ]*,[☼☀, *]*☼[☼☀, *]*/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/^.☀[^\.☼☀(]*,[^\.(☼☀]*☼ *$/s/^/∥/' ./*vakya*1.2.txt
+    sed -i.bk '/\([ ☀☼,\.‘]\)\([a-zA-Z][a-zA-Z]\)\([^\n ,\.☀☼‘]*\)\([, \.][, \.]*\)\([☀☼]*\)\2/s/^/∥/' ./*vakya*1.2.txt
+    
+3. అస్సలు పరిగణలోకి రాని వాటిని  తీసేయాలి....
+    sed -i.bk '/^[^∥]/s/^\(.\).*$/∥\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/([^(]*)//g' ./*vakya*1.2.txt
+    sed -i.bk 's/\([☀’☼\.,]\)[^\n☼☀’\.,]* it[iy][^☼’☀\n\.,]*[☼☀\n\,.]/\1/g' ./*vakya*1.2.txt
+    sed -i.bk 's/[, ]*☼2☀[ ,]*/_2,☼☀/g' ./*vakya*1.2.txt
+    sed -i.bk 's/[, ]*☼2 *\./_2,/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/[, ]*☼2 *$/_2,/g' ./*vakya*1.2.txt
+    sed -i.bk '/^∥[^∥]/s/[ ,\.☼☀]\([^\n,\. ]* *\= *[^\n,\. ]*\)/⇤\1⇥/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/^∥\([^∥]\)[^⇤⇥]*⇤/\1⇤/' ./*vakya*1.2.txt 
+    sed -i.bk 's/⇥[^⇤⇥]*⇤/⇥⇤/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/⇥[^⇤⇥]*$/⇥/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/☀[^\na-zA-Z]*☼//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/,[^\n☀☼,]*\.//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/ *--[- ]*iti[a-zA-Z ,-]*//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/ *--[- ]*//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/☀ *[a-zA-Z ]*[a-zA-Z] [a-zA-Z][a-zA-Z]* *☼//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/[^☀\.\n∥↰∥⊕⇤_]*jYeyAni *\.*//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/[^☀,_\.\n]*rupari *[^\n\☀☼\.]*[\.☀☼]//Ig' ./*vakya*1.2.txt 
+    sed -i.bk '/_/s/^∥*\([^∥]\)/\1/' ./*vakya*1.2.txt 
+    sed -i.bk 's/^∥\([^∥]\)[^‘]*‘/\1‘/' ./*vakya*1.2.txt 
+    sed -i.bk 's/’[^‘]*‘/’‘/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/’[^‘]*$/’/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/‘[^’]*$//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/^∥*\([^∥]\)\(☀[^\.\n☀☼]*,[^\.\n☀☼]*☼ *$\)/\1✣\2/' ./*vakya*1.2.txt
+    sed -i.bk 's/ *\([,\.]\) */\1/g' ./*vakya*1.2.txt
+    sed -i.bk 's/ *¤ *//g' ./*vakya*1.2.txt
+    sed -i.bk 's/\([a-zA-Z]\)  *\([a-zA-Z][a-zA-Z]\)\([^\., ☀☼]*\)\([,\.]\) *\([☀☼]*\) *\2/\1,\2\3\4\5\2/gI' ./*vakya*1.2.txt
+    sed -i.bk 's/\([a-zA-Z]\)  *\([a-zA-Z][a-zA-Z]\)\([^\., ☀☼]*\)\([,\.]\) *\([☀☼]*\) *\2/\1,\2\3\4\5\2/gI' ./*vakya*1.2.txt 
+    sed -i.bk 's/\[/,/g' ./*vakya*1.2.txt
+    sed -i.bk 's/\]/,/g' ./*vakya*1.2.txt
+    shirShika]$ sed -i.bk 's/\([,\.☀☼]\) *\([a-zA-Z][a-zA-Z]\)\([^\., ☀☼]*\)\([,\.]\) *\([☀☼]*\) *\2\([^\., ☀☼]*\) \([a-zA-Z]\)/\1\2\3\4\5\2\6,\7/gI' ./*vakya*1.2.txt
+    sed -i.bk '/✣/s/\([,☀☼]\) *\([a-zA-Z]\)\([^,☀☼]*\) \([^,☀☼]*\)\([,]\)/\1/g' ./*vakya*1.2.txt
+    sed -i.bk '/✣/s/\([,☀☼]\) *\([a-zA-Z]\)\([^,☀☼]*\) \([^,☀☼]*\)\([,]\)/\1/g' ./*vakya*1.2.txt
+    sed -i.bk '/✣/s/\([,☀☼]\) *\([a-zA-Z]\)\([^,☀☼]*\)\([a-zA-Z]\) \([a-zA-Z]\)\([^,☀☼]*\)\☼/\1☼/'  ./*vakya*1.2.txt
+    sed -i.bk 's/☀[^a-zA-Z]*☼//g' ./*vakya*1.2.txt
+    sed -i.bk 's/ *☼☀ *- */-/g' ./*vakya*1.2.txt
+    sed -i.bk 's/^∥\([^∥]\)[^\n]*[‘’].*$/∥\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/^∥∥*\([^∥]\)[^\n,][^\n,]*$/\1/' ./*vakya*1.2.txt
+    sed -i.bk 's/⇤\([^\n⇤⇥\= ]*\) *= *\([^\n⇤⇥\= ]*\) *⇥/«\1»«\2»/g' ./*vakya*1.2.txt
+    sed -i.bk "s/⇤ *‘\([^\n⇤⇥\= ‘’]*\) *= *\([^‘’\n⇤⇥\= ]*\) *’/«\1»«\2»/g" ./*vakya*1.2.txt
+    sed -i.bk 's/ *[⇤⇥] *//g' ./*vakya*1.2.txt
+    sed -i.bk "/^[^∥]/s/‘/«/g" ./*vakya*1.2.txt
+    sed -i.bk "/^[^∥]/s/’/»/g" ./*vakya*1.2.txt
+    sed -i.bk "/^[^∥]/s/^\([^∥]\).*«[^«»]*,.*$/\1/g" ./*vakya*1.2.txt
+    sed -i.bk "/^[^∥]/s/«[^«»][^«»]* [^«»][^«»]*»//g" ./*vakya*1.2.txt
+    sed -i.bk 's/ *☼ *☀ */☼☀/g' ./*vakya*1.2.txt
+    sed -i.bk 's/ *☼ *☀ *\([,\.]\)/\1☼☀/g' ./*vakya*1.2.txt
+    sed -i.bk 's/ *\([,\.]\) */\1/g' ./*vakya*1.2.txt
+    sed -i.bk 's/,,,*/,/g' ./*vakya*1.2.txt
+    sed -i.bk 's/\.\.\.*/\./g' ./*vakya*1.2.txt
+    sed -i.bk 's/…/\./g' ./*vakya*1.2.txt
+    sed -i.bk 's/ *\([☼☀]\) */\1/g' ./*vakya*1.2.txt 
+    
+4. సరైనయి ఎంచుకో......
+    sed -i.bk 's/ *- */-/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/\([,\.]\)\([^☀☼\n«»]\)/\1⇤\2/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/☀\([^ ☀☼,\.⇤«»]*\)\([,;\.]*\)☼/«\1\2»/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/☀\([^ ☀☼,\.⇤«»]*\)\([,\.;]\)/«\1\2»/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/⇤\([^ ☀☼,\.⇤«»]*\)\([,\.;]*\)☼/«\1\2»/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/⇤\([^ ☀☼,\.⇤«»]*\)\([,\.;]\)/«\1\2»/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/⇤\([^ ☀☼,\.⇤«»]*\)\([,\.;]*\) *$/«\1\2»/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/[✣∥⇤]//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/-»«/-/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/^\(.\)[^»«]*$/\1/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/^\(.\)[^»«]*«/\1«/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/»[^»«]*$/»/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/[☼@\}\{☀]//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/»[^»«\n][^»«\n]*«/»«/g' ./*vakya*1.2.txt 
+    sed -i.bk 's/«..»//g' ./*vakya*1.2.txt 
+    sed -i.bk 's/«.»//g' ./*vakya*1.2.txt 
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+     
      
 
 

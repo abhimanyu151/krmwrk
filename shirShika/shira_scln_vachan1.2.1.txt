@@ -347,7 +347,7 @@
 
 
 
-↰«Atam_2,»«atitvA_2,»«Atam_2,»«AtayitvA_2,»«atitizam_2;»«atitizitvA_2;»«atiTiH,»«.»
+↰«Atam_2,»«atitvA_2,»«Atam_2,»«AtayitvA_2,»«atitizam_2;»«atitizitvA_2;»«atiTiH,»
 
 
 ⊥H_20;
@@ -7565,7 +7565,7 @@
 
 
 
-↰«granTam_2,»«granTitvA_2,»«graTitvA_2,»«,»«granTam_2,»«granTayitvA_2,»«jigranTizam_2,»«jigranTizitvA_2,»«jAgranTam_2;»«jAgranTitvA_2;»«granTiH;»
+↰«granTam_2,»«granTitvA_2,»«graTitvA_2,»«granTam_2,»«granTayitvA_2,»«jigranTizam_2,»«jigranTizitvA_2,»«jAgranTam_2;»«jAgranTitvA_2;»«granTiH;»
 
 
 ⊥H_437;
@@ -12670,7 +12670,7 @@
 
 
 
-↰«devitA-trI,»«devayitA-trI,»«didevizitA-dudyUzitA-trI,»«dedivitA-trI;»«dIvyan-ntI,»«akzAn vA,»«dIvyan,»«,»«dIvyan,»«,»Satasya☼
+↰«devitA-trI,»«devayitA-trI,»«didevizitA-dudyUzitA-trI,»«dedivitA-trI;»«dIvyan-ntI,»«akzAn vA,»«dIvyan,»«dIvyan,»gSatasya☼
 
 
 
@@ -13619,7 +13619,7 @@
 
 
 
-↰«jalanDaraH-puranDaraH-SrutanDaraH-vasunDarA,»«DanurDarA,»«karRaDAraH,»«ADAraH,»«DArA,»«,»«DArayan,»«DuranDaraH,»«DarmaH;»
+↰«jalanDaraH-puranDaraH-SrutanDaraH-vasunDarA,»«DanurDarA,»«karRaDAraH,»«ADAraH,»«DArA,»«DArayan,»«DuranDaraH,»«DarmaH;»
 
 
 
@@ -18054,7 +18054,7 @@
 ⊥H_1380;
 
 
-⊕«rAmakaH-mikA,»«ramakaH-mikA,»«riraMsakaH-sikA,»«raMramakaH-mikA;»«rantA-rantrI,»«ramayitA-trI,»«riraMsitA-trI,»«raMramitA-trI;»«viraman-Araman-pariraman-ntI,»«devadattam,»«uparaman,»«,»«yAvadBuktam,»
+⊕«rAmakaH-mikA,»«ramakaH-mikA,»«riraMsakaH-sikA,»«raMramakaH-mikA;»«rantA-rantrI,»«ramayitA-trI,»«riraMsitA-trI,»«raMramitA-trI;»«viraman-Araman-pariraman-ntI,»«devadattam,»«uparaman,»«yAvadBuktam,»
 
 
 
@@ -19858,7 +19858,7 @@
 
 
 
-↰«vApam_2,»«uptvA_2,»«vApam_2,»«vApayitvA_2,»«vivapsam_2,»«vivapsitvA_2,»«vAvapam_2;»«vAvapitvA_2;»«vapriH,»«,»«vapuH;»
+↰«vApam_2,»«uptvA_2,»«vApam_2,»«vApayitvA_2,»«vivapsam_2,»«vivapsitvA_2,»«vAvapam_2;»«vAvapitvA_2;»«vapriH,»«vapuH;»
 
 
 ⊥H_1557;
@@ -22721,7 +22721,7 @@
 
 
 
-↰«sTitvA,»«sTApayitvA,»«tizWAsitvA,»«tezWIyitvA;»«prasTAya-utTAya,»«prasTApya,»«upatizWAsya,»«pratezWIyya;»«DAvati,»«,»«sTAyam_2,»«sTitvA_2,»«sTApam_2,»«sTApayitvA_2,»«tizWAsam_2,»«tizWAsitvA_2,»«tezWIyam_2;»«tezWIyitvA_2;»«sTARuH,»«sTURA,»«sTaviraH,»«sTiram-gavizWiraH-yuDizWiraH,»«sTAlI,»«sTUraH,»«paramezWI.»
+↰«sTitvA,»«sTApayitvA,»«tizWAsitvA,»«tezWIyitvA;»«prasTAya-utTAya,»«prasTApya,»«upatizWAsya,»«pratezWIyya;»«DAvati,»«sTAyam_2,»«sTitvA_2,»«sTApam_2,»«sTApayitvA_2,»«tizWAsam_2,»«tizWAsitvA_2,»«tezWIyam_2;»«tezWIyitvA_2;»«sTARuH,»«sTURA,»«sTaviraH,»«sTiram-gavizWiraH-yuDizWiraH,»«sTAlI,»«sTUraH,»«paramezWI.»
 
 
 ⊥H_1877;
