@@ -39,6 +39,23 @@
      sed -i.bk 's/\t/,»/' ./a_shira1.3.txt
      # ఇక్కడి దాక 1.3.txt అంత్యంతో దాయబడ్డది... ఇకపై 1.4.txt అంత్యంతో మొదలైతది......
 
+5.  అనవసరమైన  సాధారణ పదాలను తొలగించాలి.................
+     sed -i.bk 's/«[^«»↰⊗⊕↱↷↶\n,\.;]*boDyAni[^«»↰⊗⊕↱↷↶\n]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/\( it[iy][^\n«»↰⊗⊕↱↷↶,\.;]*\)\([,\.;]*\)»/\2»/g' ./a_shira1.4.txt
+     sed -i.bk 's/« *it[iy][^\n«»↰⊗⊕↱]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«devaH»$//g' ./a_shira1.4.txt
+     sed -i.bk 's/\( vA[^\n«»↰⊗⊕↱↷↶,\.;]*\)\([,\.;]*\)»/\2»/g' ./a_shira1.4.txt
+     sed -i.bk 's/\( ca[^\n«»↰⊗⊕↱↷↶,\.;]*\)\([,\.;]*\)»/\2»/g' ./a_shira1.4.txt
+     sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*DAtu[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*jYeyAni[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«ataH[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«atra[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/\(-it[iy][^\n«»↰⊗⊕↱↷↶,\.;]*\)\([,\.;]*\)»/\2»/g' ./a_shira1.4.txt
+     sed -i.bk 's/«vA [^^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/\([↰⊗⊕↱↷↶]\)\([^\n«»↰⊗⊕↱↷↶]\)/\1«\2/g' ./a_shira1.4.txt
+     sed -i.bk 's/ *\= */»«/g'  ./a_shira1.4.txt
+     
+
 
 
 
