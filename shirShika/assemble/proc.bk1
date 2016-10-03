@@ -102,18 +102,9 @@
      sed -i.bk '461s/;»↰«-GastvA_2,»/-GastvA_2,»↰/' ./a_shira1.5.txt
      sed -i.bk 's/tam[,;]*»\([↰↱⊕⊗↶↷]*\)«-*taH-tavAn\([,;]\)»/tam-taH-tavAn\2»\1/g' ./a_shira1.5.txt
      sed -i.bk 's/«taH-tavAn,»//g' ./a_shira1.5.txt
-     sed -i.bk 's/taH[,;]*»\([↰↱⊕⊗↶↷]*\)«-*tam-tavAn\([,;]\)»/taH-tam-tavAn\2»\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/«-*[^aeiofucAEIOUC\n«»,;][^aefiouAEIOUn«»,;]*ikA[,;]*»//g' ./a_shira1.5.txt
      
      # మొదట ప్రత్యయాలు కాని వాటిని  గుర్తించి విడదీయాలి....
      # ఇక్కడ వేరుచేయబడ్డక వచ్చే వాటి అంత్యాల్లో వరసగా '.:#' లు చేర్చుతం, గుర్తు పట్నీకి..
-     sed -i.bk 's/«\([a-zA-Z][a-zA-Z]\)\([^↰↱⊕⊗↶↷ «»,\.;]*\)-\1/«\1\2\.»«\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/«\([a-zA-Z][a-zA-Z]\)\([^↰↱⊕⊗↶↷ «»,\.;]*\)-\1/«\1\2\.»«\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/«\([a-zA-Z][a-zA-Z]\)\([^↰↱⊕⊗↶↷ «»,\.;]*\)-\1/«\1\2\.»«\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/«\([a-zA-Z][a-zA-Z]\)\([^↰↱⊕⊗↶↷ «»,\.;]*\)-\1/«\1\2\.»«\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/«\([a-zA-Z][a-zA-Z]\)\([^↰↱⊕⊗↶↷ «»,\.;]*\)-\1/«\1\2\.»«\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/«\([a-zA-Z][a-zA-Z]\)\([^↰↱⊕⊗↶↷ «»,\.;]*\)-\1/«\1\2\.»«\1/g' ./a_shira1.5.txt
-     sed -i.bk 's/ntI[,;\.]*»\([↰↱⊕⊗↶↷]*\)«-*tI\([\.,;]\)»/ntI-tI\2»\1/g' ./a_shira1.5.txt
      
 
      
