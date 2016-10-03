@@ -75,6 +75,16 @@
      sed -i.bk 's/\(«[^\n«»]*-[^\n«»]*\)\.»/\1,»/g' ./a_shira1.4.txt
      sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*DAnyamAyaH[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
      sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*\.[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«[^«»↰\n]* [^«»↰\n]* [^«»↰\n]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/n[,;]»\([↰↱⊕⊗↶↷]*\)«\(nt[^↰↱⊕⊗↶↷«»\n]*»\)/n-\2\1/g' ./a_shira1.4.txt
+     sed -i.bk 's/n[,;]*»\([↰↱⊕⊗↶↷]*\)«\(nt[^↰↱⊕⊗↶↷«»\n]*»\)/n-\2\1/g' ./a_shira1.4.txt
+     sed -i.bk 's/«nt[^↰↱⊕⊗↶↷«»\n]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/\([^aceiouAEIOU,\.; »«-][^aeiouAEIOU,\.; »«-]*\)akaH[,;]*»«\1ikA\([,;]*\)»/\1akaH-\1ikA\2»/g' ./a_shira1.4.txt
+     sed -i.bk 's/\([^aceiouAEIOU,\.; »«-][^aeiouAEIOU,\.; »«-]*\)akaH[,;]*»\(.\)«\1ikA\([,;]*\)»/\1akaH-\1ikA\3»\2/g' ./a_shira1.4.txt
+     sed -i.bk 's/«[,;\. ]*»//g' ./a_shira1.4.txt
+     #ఇక్కడికి 1.4.txt అంత్యంతో దాయబడ్దది.... ఇకపై 1.5.txt తో పని మొదలు......
+
+6. విస్తరణ చెయ్యాల... '-' తో ఉన్నోటిని.... 
      
 
      
