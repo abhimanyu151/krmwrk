@@ -68,6 +68,15 @@
      sed -i.bk 's/«kvipi[ -,\.;]*/«/g' ./a_shira1.4.txt
      sed -i.bk 's/«sarvAR[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
      sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*UhyAni[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«R[^aeiouAEIOU ,\.][^«»\n ,\.-]*[ ,\.;-]/«/g' ./a_shira1.4.txt
+     sed -i.bk 's/«R[^aeiouAEIOU ,\.»«][^«»\n]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«[,;\. ]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«\([A-Za-z][A-Za-z]\)\([^\n«»↰]*\)\.»«\1/«\1\2,»«\1/g' ./a_shira1.4.txt
+     sed -i.bk 's/\(«[^\n«»]*-[^\n«»]*\)\.»/\1,»/g' ./a_shira1.4.txt
+     sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*DAnyamAyaH[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     sed -i.bk 's/«[^\n«»↰⊗⊕↱↷↶]*\.[^\n«»↰⊗⊕↱↷↶]*»//g' ./a_shira1.4.txt
+     
+
      
 
 
